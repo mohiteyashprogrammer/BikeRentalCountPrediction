@@ -1,9 +1,6 @@
 Flask
-pandas 
-numpy
-seaborn
 matplotlib
+numpy
+pandas
 scikit-learn
-
--e .
-
+seaborn

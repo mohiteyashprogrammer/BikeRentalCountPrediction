@@ -1,0 +1,3477 @@
+season,holiday,weekday,workingday,weathersit,temp,year,months,hours,humidity,counts
+fall,0,Sun,0,Clear + Few clouds,0.8,1,Jun,19,0.27,425
+springer,1,Tue,0,Clear + Few clouds,0.24,1,Jan,20,0.41,88
+winter,0,Sat,1,Clear + Few clouds,0.32,0,Oct,2,0.66,4
+summer,0,Wed,1,Clear + Few clouds,0.78,1,May,19,0.52,526
+springer,0,Fri,1,Clear + Few clouds,0.26,0,Jan,0,0.56,13
+springer,0,Sat,1,Clear + Few clouds,0.44,0,Feb,0,0.72,32
+summer,0,Fri,1,Clear + Few clouds,0.72,1,May,18,0.58,706
+winter,0,Mon,0,Clear + Few clouds,0.26,0,Dec,7,0.87,26
+springer,0,Thu,1,Clear + Few clouds,0.5,1,Mar,2,0.68,2
+winter,0,Thu,1,Clear + Few clouds,0.42,0,Oct,5,0.71,21
+springer,0,Tue,1,Clear + Few clouds,0.18,1,Dec,0,0.55,34
+summer,0,Tue,1,Clear + Few clouds,0.32,1,Apri,22,0.76,89
+summer,0,Sun,0,Mist + Cloudy,0.72,1,Jun,16,0.37,542
+summer,0,Tue,1,Mist + Cloudy,0.54,1,Jun,4,0.77,9
+fall,0,Mon,0,Mist + Cloudy,0.56,0,Sep,17,0.64,325
+summer,0,Wed,1,Mist + Cloudy,0.4,0,Mar,8,0.58,336
+springer,0,Tue,1,Mist + Cloudy,0.12,0,Jan,8,0.5,188
+winter,0,Sun,0,Mist + Cloudy,0.36,1,Dec,14,0.71,479
+winter,0,Mon,0,Clear + Few clouds,0.44,1,Sep,6,0.62,16
+summer,0,Fri,1,Clear + Few clouds,0.66,1,May,17,0.31,852
+springer,0,Sun,0,Clear + Few clouds,0.2,0,Jan,3,0.64,8
+fall,0,Tue,1,Mist + Cloudy,0.6,1,Aug,6,0.78,161
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.42,0,Jan,19,0.88,37
+fall,0,Tue,1,Clear + Few clouds,0.82,0,July,10,0.59,84
+winter,0,Fri,1,Clear + Few clouds,0.52,0,Dec,22,0.63,124
+winter,0,Tue,1,Clear + Few clouds,0.36,1,Oct,6,0.76,144
+summer,0,Sat,1,Mist + Cloudy,0.62,1,May,2,0.83,23
+springer,0,Fri,1,Clear + Few clouds,0.44,1,Jan,15,0.72,188
+springer,0,Mon,0,Mist + Cloudy,0.16,1,Jan,4,0.47,6
+winter,0,Sat,1,Mist + Cloudy,0.44,0,Dec,6,0.33,82
+winter,0,Thu,1,Mist + Cloudy,0.3,1,Oct,3,0.81,3
+fall,0,Fri,1,Clear + Few clouds,0.66,1,July,1,0.65,29
+summer,0,Fri,1,Clear + Few clouds,0.52,1,May,20,0.4,374
+springer,0,Sun,0,Clear + Few clouds,0.16,1,Jan,23,0.47,76
+fall,0,Fri,1,Clear + Few clouds,0.66,1,Aug,0,0.69,76
+fall,0,Wed,1,Mist + Cloudy,0.78,1,Aug,17,0.62,868
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,4,0.94,8
+winter,0,Thu,1,Clear + Few clouds,0.38,0,Nov,19,0.58,122
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.64,1,May,21,0.73,109
+fall,0,Thu,1,Clear + Few clouds,0.7,1,Aug,21,0.61,315
+fall,0,Sun,0,Mist + Cloudy,0.64,1,Sep,18,0.36,614
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Sep,10,0.7,142
+fall,0,Sun,0,Clear + Few clouds,0.72,0,July,22,0.51,201
+springer,0,Wed,1,Mist + Cloudy,0.3,0,Dec,4,0.65,3
+fall,0,Wed,1,Clear + Few clouds,0.72,1,July,8,0.74,649
+summer,0,Mon,0,Clear + Few clouds,0.56,1,Apri,20,0.32,243
+winter,0,Fri,1,Clear + Few clouds,0.62,0,Sep,11,0.61,158
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Apri,9,0.61,195
+springer,0,Mon,0,Clear + Few clouds,0.24,0,Feb,23,0.65,30
+fall,0,Fri,1,Mist + Cloudy,0.64,0,July,6,0.89,118
+fall,0,Wed,1,Clear + Few clouds,0.56,1,Sep,21,0.6,310
+springer,0,Thu,1,Clear + Few clouds,0.52,1,Feb,17,0.32,529
+fall,0,Sun,0,Clear + Few clouds,0.76,1,Aug,14,0.37,598
+springer,0,Tue,1,Clear + Few clouds,0.3,1,Jan,20,0.39,181
+summer,0,Wed,1,Clear + Few clouds,0.64,1,Apri,14,0.27,257
+winter,0,Sat,1,Clear + Few clouds,0.32,1,Nov,23,0.81,162
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.58,1,Oct,9,0.88,86
+fall,0,Sat,1,Clear + Few clouds,0.64,0,Sep,12,0.94,75
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,6,0.88,137
+fall,0,Tue,1,Clear + Few clouds,0.72,0,July,20,0.74,236
+springer,0,Thu,1,Mist + Cloudy,0.34,1,Jan,15,0.87,79
+summer,0,Sun,0,Clear + Few clouds,0.58,1,Mar,0,0.68,156
+fall,0,Wed,1,Clear + Few clouds,0.68,0,Aug,9,0.61,198
+springer,0,Thu,1,Clear + Few clouds,0.52,1,Mar,14,0.36,175
+summer,0,Tue,1,Clear + Few clouds,0.64,0,Jun,8,0.73,438
+winter,0,Fri,1,Clear + Few clouds,0.3,0,Nov,19,0.45,217
+fall,0,Thu,1,Clear + Few clouds,0.54,0,Sep,0,1.0,27
+fall,0,Fri,1,Clear + Few clouds,0.7,0,Jun,23,0.74,105
+summer,0,Wed,1,Clear + Few clouds,0.7,0,Apri,12,0.61,186
+summer,0,Sat,1,Clear + Few clouds,0.78,0,May,15,0.49,356
+fall,0,Wed,1,Clear + Few clouds,0.68,1,July,22,0.79,177
+summer,0,Tue,1,Clear + Few clouds,0.56,0,May,10,0.52,119
+springer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.22,1,Jan,16,0.87,49
+springer,0,Wed,1,Clear + Few clouds,0.32,0,Mar,18,0.39,224
+winter,0,Tue,1,Mist + Cloudy,0.5,0,Nov,12,0.77,162
+winter,0,Mon,0,Clear + Few clouds,0.42,0,Nov,11,0.58,320
+springer,0,Fri,1,Mist + Cloudy,0.18,0,Jan,9,0.51,122
+springer,0,Fri,1,Clear + Few clouds,0.56,1,Mar,22,0.49,153
+springer,0,Sun,0,Clear + Few clouds,0.56,1,Mar,20,0.64,271
+summer,0,Mon,0,Clear + Few clouds,0.72,1,Jun,23,0.58,110
+winter,0,Thu,1,Clear + Few clouds,0.4,1,Nov,17,0.4,374
+winter,0,Mon,0,Mist + Cloudy,0.5,1,Oct,4,0.63,20
+springer,0,Thu,1,Clear + Few clouds,0.2,1,Jan,5,0.8,22
+fall,0,Wed,1,Clear + Few clouds,0.54,1,Sep,23,0.68,109
+springer,0,Sat,1,Clear + Few clouds,0.28,0,Mar,8,0.7,259
+winter,0,Thu,1,Clear + Few clouds,0.32,0,Nov,8,0.87,472
+summer,0,Sat,1,Clear + Few clouds,0.6,1,Mar,23,0.69,176
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.54,1,Oct,23,0.77,105
+fall,0,Sat,1,Clear + Few clouds,0.7,1,Sep,14,0.54,412
+summer,0,Thu,1,Clear + Few clouds,0.56,1,May,7,0.83,440
+fall,0,Mon,0,Clear + Few clouds,0.74,0,July,9,0.66,169
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Dec,1,0.69,4
+summer,0,Wed,1,Clear + Few clouds,0.34,0,Mar,13,0.25,104
+springer,0,Sun,0,Clear + Few clouds,0.42,1,Jan,17,0.44,290
+fall,0,Sun,0,Clear + Few clouds,0.72,1,Aug,2,0.84,84
+springer,0,Sun,0,Clear + Few clouds,0.42,0,Mar,9,0.44,76
+springer,0,Fri,1,Clear + Few clouds,0.3,0,Dec,16,0.52,177
+fall,0,Thu,1,Clear + Few clouds,0.82,0,July,9,0.41,186
+springer,0,Mon,0,Mist + Cloudy,0.16,1,Jan,6,0.74,4
+springer,0,Sun,0,Clear + Few clouds,0.22,1,Jan,18,0.41,143
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Jan,10,0.37,57
+springer,0,Thu,1,Clear + Few clouds,0.04,1,Jan,9,0.45,180
+summer,0,Sun,0,Clear + Few clouds,0.66,1,May,14,0.36,615
+springer,0,Sat,1,Mist + Cloudy,0.36,0,Dec,23,0.66,73
+winter,0,Mon,0,Mist + Cloudy,0.4,0,Oct,12,0.62,321
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.16,0,Jan,8,0.93,15
+springer,0,Fri,1,Clear + Few clouds,0.2,1,Feb,7,0.69,267
+springer,0,Sun,0,Clear + Few clouds,0.22,0,Jan,18,0.69,68
+summer,0,Fri,1,Clear + Few clouds,0.74,1,May,16,0.55,390
+summer,0,Wed,1,Mist + Cloudy,0.56,0,May,23,0.68,62
+fall,0,Thu,1,Mist + Cloudy,0.82,0,Jun,14,0.52,145
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Feb,22,0.44,40
+summer,0,Sat,1,Clear + Few clouds,0.62,1,May,1,0.83,42
+fall,0,Wed,1,Clear + Few clouds,0.48,1,Sep,4,0.72,9
+summer,0,Wed,1,Clear + Few clouds,0.42,1,Apri,1,0.5,9
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Dec,10,0.94,50
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.4,0,Apri,9,1.0,29
+fall,0,Sun,0,Clear + Few clouds,0.84,0,July,14,0.2,392
+winter,0,Mon,0,Clear + Few clouds,0.62,0,Sep,21,0.94,137
+summer,0,Fri,1,Clear + Few clouds,0.6,1,May,7,0.64,507
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.48,1,May,22,0.82,67
+winter,0,Sat,1,Clear + Few clouds,0.46,0,Nov,18,0.44,153
+fall,0,Sat,1,Clear + Few clouds,0.5,0,Sep,23,0.59,126
+fall,0,Fri,1,Mist + Cloudy,0.7,1,Sep,0,0.84,65
+fall,0,Sun,0,Clear + Few clouds,0.72,0,Jun,18,0.45,307
+fall,0,Fri,1,Clear + Few clouds,0.52,1,Sep,3,0.83,11
+summer,0,Wed,1,Clear + Few clouds,0.22,1,Mar,7,0.37,286
+fall,0,Fri,1,Clear + Few clouds,0.82,1,Aug,17,0.52,865
+springer,0,Fri,1,Mist + Cloudy,0.4,1,Jan,16,0.71,224
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Mar,19,0.87,174
+summer,0,Sat,1,Clear + Few clouds,0.58,1,Jun,1,0.78,51
+summer,0,Sat,1,Clear + Few clouds,0.54,0,Jun,6,0.45,106
+summer,0,Wed,1,Clear + Few clouds,0.68,0,Apri,11,0.65,172
+summer,0,Sun,0,Clear + Few clouds,0.6,0,Apri,15,0.73,397
+winter,0,Wed,1,Clear + Few clouds,0.34,1,Nov,18,0.49,559
+summer,0,Tue,1,Clear + Few clouds,0.6,0,Apri,11,0.4,124
+springer,0,Thu,1,Clear + Few clouds,0.44,1,Feb,3,0.44,3
+fall,0,Fri,1,Mist + Cloudy,0.7,1,Sep,4,0.84,8
+springer,0,Mon,0,Clear + Few clouds,0.2,1,Dec,23,0.51,49
+springer,0,Tue,1,Clear + Few clouds,0.26,0,Jan,14,0.3,77
+fall,0,Fri,1,Clear + Few clouds,0.6,0,Jun,3,0.6,9
+summer,0,Mon,0,Clear + Few clouds,0.52,1,Apri,18,0.52,432
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.32,1,Jan,20,0.93,57
+winter,0,Tue,1,Clear + Few clouds,0.58,0,Oct,16,0.56,302
+fall,0,Wed,1,Clear + Few clouds,0.7,0,Sep,11,0.61,153
+winter,0,Mon,0,Clear + Few clouds,0.36,1,Oct,23,0.93,80
+summer,0,Mon,0,Clear + Few clouds,0.56,0,Apri,17,0.3,306
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Nov,5,0.94,13
+fall,0,Tue,1,Clear + Few clouds,0.82,0,Aug,12,0.46,182
+winter,0,Sun,0,Mist + Cloudy,0.26,0,Dec,1,0.7,66
+summer,0,Thu,1,Clear + Few clouds,0.48,1,Jun,6,0.77,172
+summer,0,Sat,1,Clear + Few clouds,0.74,1,May,13,0.62,333
+springer,0,Sat,1,Clear + Few clouds,0.24,1,Jan,21,0.41,102
+summer,0,Tue,1,Mist + Cloudy,0.58,1,May,23,0.78,75
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.36,0,Mar,5,0.0,3
+summer,0,Wed,1,Clear + Few clouds,0.82,1,May,16,0.49,393
+fall,0,Thu,1,Clear + Few clouds,0.82,1,Jun,16,0.24,392
+summer,0,Mon,0,Clear + Few clouds,0.64,1,Apri,12,0.44,635
+summer,0,Thu,1,Clear + Few clouds,0.62,1,Jun,22,0.5,238
+winter,0,Wed,1,Clear + Few clouds,0.66,1,Sep,15,0.36,303
+fall,0,Sun,0,Clear + Few clouds,0.72,1,Aug,1,0.84,122
+winter,0,Tue,1,Mist + Cloudy,0.38,1,Dec,7,0.94,294
+fall,0,Sat,1,Mist + Cloudy,0.7,1,Sep,13,0.54,408
+springer,0,Sun,0,Mist + Cloudy,0.44,1,Mar,3,0.88,26
+summer,0,Thu,1,Clear + Few clouds,0.68,0,Apri,14,0.74,148
+summer,0,Sun,0,Clear + Few clouds,0.58,0,May,23,0.78,145
+springer,0,Sat,1,Mist + Cloudy,0.28,1,Feb,5,0.93,16
+winter,0,Tue,1,Clear + Few clouds,0.6,1,Oct,15,0.78,260
+summer,0,Mon,0,Clear + Few clouds,0.54,0,May,0,0.88,131
+summer,0,Tue,1,Mist + Cloudy,0.3,0,Mar,13,0.24,83
+summer,0,Wed,1,Clear + Few clouds,0.34,0,Apri,21,0.46,89
+summer,0,Sat,1,Clear + Few clouds,0.6,0,Jun,1,0.38,22
+fall,0,Fri,1,Clear + Few clouds,0.84,0,July,17,0.53,468
+summer,1,Tue,0,Clear + Few clouds,0.82,1,May,15,0.56,460
+summer,0,Wed,1,Mist + Cloudy,0.68,0,Jun,8,0.61,477
+winter,0,Wed,1,Clear + Few clouds,0.22,0,Dec,0,0.8,17
+summer,0,Mon,0,Clear + Few clouds,0.46,0,May,11,0.82,250
+summer,0,Tue,1,Clear + Few clouds,0.66,0,Apri,20,0.61,237
+summer,0,Thu,1,Clear + Few clouds,0.52,1,May,21,0.77,239
+winter,0,Sat,1,Mist + Cloudy,0.3,1,Nov,10,0.65,169
+fall,0,Sun,0,Clear + Few clouds,0.82,0,July,13,0.41,416
+fall,0,Thu,1,Clear + Few clouds,0.8,0,July,8,0.49,449
+winter,0,Tue,1,Mist + Cloudy,0.22,0,Dec,10,0.69,105
+winter,0,Tue,1,Mist + Cloudy,0.7,0,Sep,13,0.74,187
+summer,0,Sun,0,Clear + Few clouds,0.3,0,Apri,8,0.7,55
+springer,0,Mon,0,Clear + Few clouds,0.16,1,Jan,21,0.4,72
+summer,0,Mon,0,Clear + Few clouds,0.62,0,Jun,6,0.88,14
+springer,0,Thu,1,Clear + Few clouds,0.2,0,Feb,10,0.4,51
+springer,0,Fri,1,Clear + Few clouds,0.44,0,Dec,1,0.94,15
+summer,0,Wed,1,Mist + Cloudy,0.58,0,May,3,0.94,2
+springer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.24,1,Dec,17,0.93,26
+summer,0,Tue,1,Clear + Few clouds,0.64,1,Jun,10,0.41,187
+summer,0,Sun,0,Clear + Few clouds,0.68,1,May,20,0.41,315
+fall,0,Mon,0,Clear + Few clouds,0.64,0,Sep,6,0.84,3
+winter,0,Thu,1,Clear + Few clouds,0.7,1,Oct,15,0.39,308
+springer,0,Thu,1,Clear + Few clouds,0.1,0,Feb,8,0.42,199
+springer,0,Sun,0,Clear + Few clouds,0.24,1,Jan,17,0.41,144
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.52,1,Mar,3,0.72,2
+springer,0,Thu,1,Mist + Cloudy,0.2,1,Jan,23,0.44,32
+springer,0,Mon,0,Clear + Few clouds,0.44,0,Feb,14,0.47,282
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.5,1,May,19,0.77,98
+fall,0,Mon,0,Clear + Few clouds,0.9,1,Aug,15,0.37,450
+summer,0,Fri,1,Mist + Cloudy,0.48,1,Mar,7,1.0,361
+winter,0,Thu,1,Clear + Few clouds,0.74,1,Oct,16,0.33,532
+summer,0,Mon,0,Mist + Cloudy,0.5,0,May,0,0.59,100
+summer,0,Thu,1,Mist + Cloudy,0.74,0,Jun,20,0.79,256
+summer,0,Thu,1,Mist + Cloudy,0.32,0,Mar,2,0.57,4
+summer,0,Thu,1,Mist + Cloudy,0.64,0,Apri,11,0.78,156
+winter,0,Mon,0,Clear + Few clouds,0.44,1,Nov,21,0.67,171
+winter,0,Tue,1,Clear + Few clouds,0.52,1,Sep,9,0.52,328
+summer,0,Tue,1,Mist + Cloudy,0.6,1,May,16,0.53,388
+fall,0,Fri,1,Mist + Cloudy,0.76,0,Jun,15,0.52,189
+fall,0,Mon,0,Clear + Few clouds,0.74,0,July,7,0.58,45
+fall,0,Wed,1,Clear + Few clouds,0.7,0,Jun,22,0.79,109
+summer,0,Sun,0,Clear + Few clouds,0.42,0,May,2,0.82,52
+springer,0,Sat,1,Clear + Few clouds,0.44,0,Feb,1,0.72,8
+fall,0,Mon,0,Clear + Few clouds,0.7,0,Sep,12,0.65,411
+fall,0,Sat,1,Clear + Few clouds,0.54,1,Sep,8,0.73,757
+fall,0,Thu,1,Mist + Cloudy,0.72,0,Jun,23,0.79,105
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Feb,0,0.7,86
+winter,0,Sun,0,Clear + Few clouds,0.34,1,Dec,11,0.61,393
+springer,0,Fri,1,Clear + Few clouds,0.38,0,Dec,5,0.82,16
+winter,0,Mon,0,Mist + Cloudy,0.34,1,Dec,4,0.87,11
+springer,0,Thu,1,Clear + Few clouds,0.44,1,Feb,1,0.41,4
+fall,0,Fri,1,Clear + Few clouds,0.8,0,July,20,0.63,270
+winter,0,Wed,1,Mist + Cloudy,0.44,0,Dec,12,0.54,175
+springer,0,Wed,1,Mist + Cloudy,0.3,1,Feb,3,0.7,2
+springer,0,Thu,1,Clear + Few clouds,0.36,0,Jan,17,0.57,197
+springer,0,Sat,1,Clear + Few clouds,0.08,0,Jan,21,0.38,41
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.6,1,Sep,15,0.88,36
+winter,0,Tue,1,Clear + Few clouds,0.4,1,Dec,1,0.82,13
+springer,1,Tue,0,Clear + Few clouds,0.2,1,Feb,8,0.59,120
+summer,0,Fri,1,Mist + Cloudy,0.54,0,May,23,0.77,103
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Feb,0,0.57,22
+springer,0,Thu,1,Mist + Cloudy,0.32,0,Mar,9,0.93,154
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.48,0,Dec,6,1.0,18
+fall,0,Mon,0,Mist + Cloudy,0.62,0,July,6,0.94,3
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.44,0,Mar,14,1.0,39
+summer,0,Sun,0,Mist + Cloudy,0.36,0,Apri,11,0.81,142
+springer,0,Sat,1,Mist + Cloudy,0.4,1,Mar,6,0.87,99
+springer,0,Fri,1,Clear + Few clouds,0.3,1,Dec,13,0.49,118
+winter,0,Sat,1,Clear + Few clouds,0.3,0,Oct,3,0.7,8
+fall,0,Thu,1,Clear + Few clouds,0.68,1,Jun,23,0.47,159
+summer,0,Fri,1,Clear + Few clouds,0.66,0,Jun,5,0.39,31
+summer,0,Wed,1,Clear + Few clouds,0.56,1,Apri,3,0.83,6
+winter,0,Sat,1,Clear + Few clouds,0.2,1,Dec,4,0.75,10
+fall,0,Tue,1,Clear + Few clouds,0.64,0,Aug,9,0.78,222
+springer,0,Sat,1,Clear + Few clouds,0.32,1,Feb,11,0.53,164
+fall,0,Thu,1,Clear + Few clouds,0.64,1,July,4,0.89,7
+springer,0,Tue,1,Clear + Few clouds,0.26,1,Feb,0,0.6,29
+springer,0,Tue,1,Clear + Few clouds,0.3,1,Jan,13,0.31,132
+fall,0,Thu,1,Clear + Few clouds,0.74,1,July,20,0.62,366
+springer,0,Sun,0,Clear + Few clouds,0.02,0,Jan,7,0.44,8
+winter,0,Thu,1,Clear + Few clouds,0.44,0,Dec,0,1.0,33
+winter,0,Tue,1,Mist + Cloudy,0.28,0,Nov,6,0.93,99
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Feb,6,0.76,90
+fall,0,Mon,0,Clear + Few clouds,0.44,0,Sep,3,0.82,36
+winter,0,Fri,1,Clear + Few clouds,0.32,1,Nov,2,0.66,20
+springer,0,Sun,0,Clear + Few clouds,0.24,1,Dec,20,0.48,61
+springer,0,Fri,1,Clear + Few clouds,0.36,1,Feb,9,0.81,242
+fall,0,Thu,1,Clear + Few clouds,0.68,0,July,22,0.83,184
+summer,0,Sat,1,Clear + Few clouds,0.66,0,May,8,0.74,418
+summer,0,Thu,1,Clear + Few clouds,0.62,0,May,7,0.73,313
+fall,0,Fri,1,Clear + Few clouds,0.8,1,July,15,0.36,271
+fall,0,Thu,1,Clear + Few clouds,0.68,0,July,5,0.83,35
+winter,0,Wed,1,Clear + Few clouds,0.38,1,Oct,7,0.83,362
+springer,0,Sun,0,Clear + Few clouds,0.22,1,Dec,21,0.51,53
+springer,0,Mon,0,Clear + Few clouds,0.36,0,Feb,11,0.62,125
+springer,0,Fri,1,Clear + Few clouds,0.46,1,Feb,16,0.55,229
+winter,0,Wed,1,Clear + Few clouds,0.3,0,Dec,22,0.52,107
+summer,0,Thu,1,Mist + Cloudy,0.32,0,Mar,9,0.81,182
+springer,0,Wed,1,Clear + Few clouds,0.28,0,Feb,12,0.24,71
+fall,0,Tue,1,Mist + Cloudy,0.7,1,July,23,0.65,131
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.38,1,Apri,12,0.87,61
+winter,0,Sun,0,Clear + Few clouds,0.34,1,Nov,19,0.53,253
+summer,0,Thu,1,Clear + Few clouds,0.62,0,Jun,5,0.88,21
+springer,1,Tue,0,Mist + Cloudy,0.24,1,Feb,2,0.87,20
+fall,0,Fri,1,Clear + Few clouds,0.84,1,July,13,0.47,254
+winter,0,Thu,1,Mist + Cloudy,0.28,1,Nov,5,0.52,27
+summer,0,Fri,1,Clear + Few clouds,0.36,0,Apri,2,0.76,3
+winter,0,Thu,1,Clear + Few clouds,0.38,1,Oct,6,0.82,178
+winter,0,Sat,1,Clear + Few clouds,0.36,0,Nov,10,0.71,142
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Jan,13,0.41,83
+winter,0,Tue,1,Clear + Few clouds,0.42,1,Nov,16,0.58,380
+summer,0,Fri,1,Clear + Few clouds,0.76,0,Jun,17,0.2,572
+winter,0,Thu,1,Clear + Few clouds,0.42,0,Nov,11,0.71,144
+fall,0,Wed,1,Clear + Few clouds,0.7,0,July,7,0.65,270
+summer,0,Fri,1,Clear + Few clouds,0.56,0,May,18,0.26,520
+springer,0,Tue,1,Clear + Few clouds,0.62,1,Mar,19,0.61,549
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Dec,21,0.44,70
+fall,0,Sat,1,Clear + Few clouds,0.72,1,July,0,0.7,97
+summer,0,Wed,1,Mist + Cloudy,0.56,1,Jun,11,0.56,227
+winter,0,Wed,1,Clear + Few clouds,0.52,0,Oct,6,0.83,123
+fall,0,Sun,0,Mist + Cloudy,0.74,0,Aug,11,0.7,314
+springer,0,Wed,1,Clear + Few clouds,0.52,1,Mar,23,0.83,90
+summer,0,Mon,0,Clear + Few clouds,0.54,1,Jun,3,0.64,28
+winter,0,Wed,1,Clear + Few clouds,0.46,1,Dec,10,0.82,156
+winter,0,Wed,1,Clear + Few clouds,0.3,1,Dec,22,0.56,106
+summer,0,Wed,1,Mist + Cloudy,0.7,0,May,14,0.58,158
+fall,0,Tue,1,Clear + Few clouds,0.72,1,Aug,14,0.54,275
+summer,0,Fri,1,Clear + Few clouds,0.48,0,May,4,0.94,5
+springer,0,Thu,1,Clear + Few clouds,0.4,0,Feb,18,0.4,222
+summer,0,Sat,1,Clear + Few clouds,0.7,0,Jun,14,0.28,240
+winter,0,Sat,1,Clear + Few clouds,0.26,1,Nov,3,0.7,1
+winter,0,Tue,1,Mist + Cloudy,0.3,1,Nov,5,0.52,39
+winter,0,Sat,1,Clear + Few clouds,0.46,0,Dec,3,0.82,5
+winter,0,Fri,1,Clear + Few clouds,0.46,0,Oct,22,0.82,148
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.34,1,Dec,21,0.76,26
+summer,0,Wed,1,Mist + Cloudy,0.34,0,Apri,12,0.71,38
+summer,0,Mon,0,Clear + Few clouds,0.64,0,Jun,21,0.73,165
+summer,0,Tue,1,Clear + Few clouds,0.6,1,May,2,0.6,2
+winter,0,Wed,1,Clear + Few clouds,0.54,1,Oct,16,0.39,446
+springer,0,Mon,0,Clear + Few clouds,0.26,1,Jan,6,0.93,2
+winter,0,Mon,0,Mist + Cloudy,0.5,1,Oct,6,0.59,39
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.68,1,Sep,12,0.83,88
+winter,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.52,0,Oct,11,0.88,87
+summer,0,Sat,1,Clear + Few clouds,0.5,1,Apri,15,0.27,537
+fall,0,Thu,1,Clear + Few clouds,0.82,0,July,12,0.59,149
+fall,0,Wed,1,Clear + Few clouds,0.54,0,Aug,4,0.56,5
+springer,0,Tue,1,Clear + Few clouds,0.44,0,Feb,10,0.33,55
+springer,0,Thu,1,Mist + Cloudy,0.14,1,Jan,13,0.43,91
+fall,0,Fri,1,Clear + Few clouds,0.86,0,July,15,0.5,146
+summer,0,Sun,0,Mist + Cloudy,0.32,0,Apri,8,0.93,54
+summer,0,Fri,1,Clear + Few clouds,0.56,1,Mar,23,0.83,151
+fall,0,Thu,1,Clear + Few clouds,0.8,0,Aug,13,0.41,176
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.5,0,Apri,4,0.88,2
+fall,0,Mon,0,Clear + Few clouds,0.72,0,Aug,19,0.7,282
+springer,0,Mon,0,Clear + Few clouds,0.14,1,Dec,8,0.69,48
+summer,0,Tue,1,Mist + Cloudy,0.62,0,May,20,0.69,218
+springer,0,Tue,1,Clear + Few clouds,0.3,0,Mar,19,0.33,145
+summer,0,Mon,0,Clear + Few clouds,0.56,1,Jun,0,0.56,148
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.58,1,Oct,11,0.94,99
+summer,0,Sun,0,Clear + Few clouds,0.5,1,Apri,5,0.82,1
+summer,0,Fri,1,Clear + Few clouds,0.48,0,Apri,13,0.33,177
+summer,1,Sat,0,Clear + Few clouds,0.4,0,Apri,3,0.76,3
+summer,0,Fri,1,Clear + Few clouds,0.62,0,Jun,23,0.35,112
+summer,0,Tue,1,Clear + Few clouds,0.42,0,Apri,6,0.58,46
+fall,0,Wed,1,Clear + Few clouds,0.66,1,July,1,0.83,21
+winter,0,Sun,0,Clear + Few clouds,0.32,1,Nov,2,0.81,44
+winter,0,Sun,0,Clear + Few clouds,0.36,0,Nov,11,0.4,233
+springer,0,Sun,0,Clear + Few clouds,0.4,0,Feb,4,0.15,3
+winter,0,Wed,1,Mist + Cloudy,0.3,1,Nov,21,0.56,151
+fall,0,Sun,0,Clear + Few clouds,0.58,1,Sep,7,0.78,77
+winter,0,Mon,0,Clear + Few clouds,0.62,1,Sep,13,0.41,594
+springer,0,Tue,1,Mist + Cloudy,0.32,1,Jan,0,0.26,10
+springer,0,Mon,0,Clear + Few clouds,0.36,0,Feb,12,0.32,152
+winter,1,Tue,0,Clear + Few clouds,0.46,0,Oct,3,0.88,11
+winter,0,Thu,1,Mist + Cloudy,0.46,1,Oct,0,0.88,33
+fall,0,Sun,0,Clear + Few clouds,0.78,0,Aug,11,0.62,349
+summer,0,Sat,1,Mist + Cloudy,0.64,1,May,8,0.89,583
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.66,1,July,23,0.89,65
+summer,0,Tue,1,Clear + Few clouds,0.66,1,May,19,0.69,448
+fall,0,Wed,1,Clear + Few clouds,0.54,1,Jun,3,0.45,9
+summer,0,Mon,0,Mist + Cloudy,0.6,1,May,12,0.64,558
+summer,0,Tue,1,Clear + Few clouds,0.4,0,Apri,1,0.56,11
+fall,0,Tue,1,Clear + Few clouds,0.84,1,July,16,0.36,365
+fall,0,Wed,1,Mist + Cloudy,0.7,1,Aug,9,0.74,327
+winter,0,Mon,0,Clear + Few clouds,0.52,1,Sep,9,0.63,285
+summer,0,Wed,1,Clear + Few clouds,0.68,0,Apri,18,0.65,528
+summer,0,Thu,1,Clear + Few clouds,0.44,1,Apri,16,0.33,307
+fall,0,Thu,1,Mist + Cloudy,0.78,0,July,0,0.52,45
+winter,0,Wed,1,Clear + Few clouds,0.4,0,Dec,17,0.62,431
+summer,0,Tue,1,Clear + Few clouds,0.44,1,Mar,7,0.72,370
+winter,0,Tue,1,Mist + Cloudy,0.3,1,Nov,7,0.49,461
+winter,0,Thu,1,Clear + Few clouds,0.46,0,Nov,11,0.67,152
+summer,0,Sun,0,Clear + Few clouds,0.66,0,Jun,8,0.78,131
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.6,1,July,15,0.88,380
+winter,0,Mon,0,Clear + Few clouds,0.6,1,Sep,11,0.43,591
+fall,0,Mon,0,Clear + Few clouds,0.78,0,July,21,0.59,164
+winter,0,Mon,0,Clear + Few clouds,0.44,0,Nov,12,0.54,346
+winter,0,Wed,1,Clear + Few clouds,0.5,0,Nov,15,0.45,186
+fall,0,Thu,1,Clear + Few clouds,0.74,0,July,9,0.7,209
+winter,0,Wed,1,Clear + Few clouds,0.26,0,Dec,23,0.7,59
+summer,0,Wed,1,Clear + Few clouds,0.7,1,May,15,0.61,245
+summer,0,Mon,0,Clear + Few clouds,0.82,1,Jun,19,0.28,375
+winter,0,Sun,0,Clear + Few clouds,0.32,0,Nov,10,0.45,200
+springer,0,Fri,1,Mist + Cloudy,0.2,0,Jan,23,0.59,23
+fall,0,Sat,1,Clear + Few clouds,0.66,0,Sep,21,0.89,203
+summer,0,Sun,0,Clear + Few clouds,0.42,1,Apri,10,0.28,363
+springer,0,Sat,1,Mist + Cloudy,0.26,1,Feb,10,0.48,124
+winter,0,Wed,1,Mist + Cloudy,0.54,1,Oct,3,0.88,5
+summer,0,Sat,1,Mist + Cloudy,0.56,1,Mar,10,0.88,275
+winter,0,Tue,1,Clear + Few clouds,0.32,0,Dec,0,0.87,24
+springer,0,Thu,1,Clear + Few clouds,0.7,1,Mar,18,0.32,749
+fall,0,Wed,1,Clear + Few clouds,0.66,0,July,5,0.69,20
+summer,0,Mon,0,Clear + Few clouds,0.74,0,May,16,0.7,361
+fall,0,Mon,0,Mist + Cloudy,0.72,0,Jun,17,0.42,421
+summer,0,Thu,1,Mist + Cloudy,0.56,1,May,8,0.88,666
+winter,0,Fri,1,Mist + Cloudy,0.38,1,Nov,14,0.54,201
+springer,0,Fri,1,Clear + Few clouds,0.48,1,Mar,5,0.88,18
+winter,0,Thu,1,Mist + Cloudy,0.42,0,Nov,15,0.54,207
+fall,0,Fri,1,Clear + Few clouds,0.74,1,July,2,0.51,18
+springer,1,Wed,0,Mist + Cloudy,0.28,1,Dec,23,0.65,30
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.42,1,Oct,7,0.58,35
+winter,0,Tue,1,Mist + Cloudy,0.54,0,Oct,14,0.64,206
+winter,0,Fri,1,Mist + Cloudy,0.34,1,Nov,19,0.61,386
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Oct,23,0.94,54
+fall,0,Fri,1,Mist + Cloudy,0.68,0,Sep,11,0.65,159
+fall,0,Mon,0,Clear + Few clouds,0.64,0,Aug,22,0.69,98
+winter,0,Sun,0,Clear + Few clouds,0.38,1,Dec,17,0.87,345
+winter,0,Thu,1,Clear + Few clouds,0.7,0,Sep,17,0.7,591
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.62,1,Oct,20,0.94,306
+winter,0,Thu,1,Clear + Few clouds,0.36,0,Nov,15,0.46,115
+springer,0,Wed,1,Clear + Few clouds,0.24,0,Mar,10,0.52,68
+summer,0,Mon,0,Mist + Cloudy,0.52,0,May,6,1.0,17
+summer,0,Mon,0,Clear + Few clouds,0.54,1,May,3,0.56,66
+winter,0,Sat,1,Clear + Few clouds,0.34,0,Oct,5,0.76,31
+fall,0,Thu,1,Clear + Few clouds,0.68,0,Aug,6,0.61,119
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.36,1,Dec,18,0.93,198
+summer,0,Fri,1,Clear + Few clouds,0.52,1,Mar,3,0.83,7
+fall,0,Fri,1,Clear + Few clouds,0.8,1,Aug,19,0.63,607
+winter,0,Sat,1,Clear + Few clouds,0.54,1,Oct,12,0.39,387
+summer,0,Sat,1,Mist + Cloudy,0.74,0,May,11,0.55,166
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Aug,21,0.61,236
+summer,0,Mon,0,Clear + Few clouds,0.5,1,Apri,22,0.45,108
+springer,0,Wed,1,Clear + Few clouds,0.38,1,Jan,19,0.46,281
+fall,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.6,1,Sep,23,0.94,70
+springer,0,Wed,1,Clear + Few clouds,0.18,1,Mar,5,0.51,25
+springer,0,Sun,0,Heavy Rain + Ice Pallets,0.14,1,Jan,1,0.86,23
+winter,0,Wed,1,Clear + Few clouds,0.32,1,Nov,11,0.45,216
+summer,0,Mon,0,Clear + Few clouds,0.54,1,Jun,5,0.68,17
+summer,0,Mon,0,Clear + Few clouds,0.66,0,Jun,22,0.78,152
+fall,0,Sat,1,Clear + Few clouds,0.48,0,Sep,22,0.67,167
+fall,0,Sun,0,Clear + Few clouds,0.76,0,July,19,0.55,306
+summer,0,Wed,1,Clear + Few clouds,0.8,1,Jun,18,0.55,795
+winter,0,Fri,1,Clear + Few clouds,0.26,1,Dec,19,0.6,373
+springer,0,Mon,0,Mist + Cloudy,0.44,1,Mar,11,0.82,368
+summer,0,Mon,0,Clear + Few clouds,0.5,0,Apri,15,0.77,297
+springer,0,Wed,1,Clear + Few clouds,0.42,1,Feb,17,0.26,530
+summer,0,Wed,1,Clear + Few clouds,0.3,1,Apri,5,0.7,22
+springer,0,Sun,0,Clear + Few clouds,0.34,0,Feb,15,0.29,174
+springer,0,Thu,1,Clear + Few clouds,0.52,1,Mar,1,0.63,27
+summer,0,Mon,0,Mist + Cloudy,0.52,0,Apri,17,0.72,236
+fall,0,Sat,1,Clear + Few clouds,0.7,0,Aug,8,0.65,454
+winter,0,Tue,1,Clear + Few clouds,0.36,0,Dec,18,0.5,354
+fall,0,Tue,1,Clear + Few clouds,0.8,1,July,14,0.49,254
+summer,0,Fri,1,Mist + Cloudy,0.72,0,Jun,13,0.54,151
+fall,0,Sun,0,Clear + Few clouds,0.72,0,Aug,11,0.58,338
+fall,0,Fri,1,Mist + Cloudy,0.7,0,Sep,14,0.79,120
+summer,0,Fri,1,Clear + Few clouds,0.6,0,May,20,0.64,276
+fall,0,Sat,1,Mist + Cloudy,0.66,0,Aug,8,0.83,398
+summer,0,Tue,1,Clear + Few clouds,0.46,0,Apri,1,0.94,4
+springer,0,Mon,0,Clear + Few clouds,0.2,0,Feb,1,0.59,24
+springer,0,Sat,1,Mist + Cloudy,0.34,1,Mar,10,0.36,159
+winter,0,Mon,0,Clear + Few clouds,0.42,0,Oct,3,0.54,42
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,May,10,0.88,106
+summer,0,Wed,1,Clear + Few clouds,0.62,1,May,21,0.78,261
+fall,0,Sun,0,Mist + Cloudy,0.6,1,July,18,0.88,177
+winter,0,Sat,1,Clear + Few clouds,0.58,0,Sep,18,0.49,511
+summer,0,Mon,0,Mist + Cloudy,0.4,1,Mar,10,0.87,250
+springer,0,Mon,0,Clear + Few clouds,0.26,0,Jan,13,0.35,118
+fall,0,Mon,0,Clear + Few clouds,0.78,0,July,5,0.66,8
+winter,0,Sat,1,Clear + Few clouds,0.62,0,Sep,16,0.53,360
+winter,0,Wed,1,Clear + Few clouds,0.32,1,Dec,17,0.53,601
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Feb,1,0.44,5
+fall,0,Sat,1,Clear + Few clouds,0.66,1,Aug,5,0.83,37
+winter,0,Thu,1,Clear + Few clouds,0.3,0,Nov,4,0.75,5
+fall,0,Sun,0,Clear + Few clouds,0.72,0,July,22,0.62,214
+fall,0,Thu,1,Mist + Cloudy,0.68,0,Jun,0,0.79,36
+springer,0,Fri,1,Clear + Few clouds,0.26,0,Jan,19,0.56,152
+springer,0,Thu,1,Clear + Few clouds,0.02,1,Jan,6,0.41,59
+fall,0,Sat,1,Clear + Few clouds,0.62,0,July,6,0.61,108
+summer,0,Fri,1,Clear + Few clouds,0.6,1,May,12,0.43,348
+winter,0,Wed,1,Clear + Few clouds,0.26,0,Dec,9,0.6,233
+winter,0,Sat,1,Mist + Cloudy,0.42,1,Nov,15,0.38,296
+springer,0,Mon,0,Clear + Few clouds,0.46,0,Mar,13,0.38,221
+fall,0,Tue,1,Mist + Cloudy,0.74,1,July,9,0.74,345
+summer,1,Tue,0,Mist + Cloudy,0.52,0,May,19,0.48,225
+springer,0,Wed,1,Clear + Few clouds,0.3,1,Jan,1,0.42,8
+springer,0,Fri,1,Clear + Few clouds,0.18,0,Feb,10,0.43,52
+springer,0,Tue,1,Clear + Few clouds,0.24,1,Jan,10,0.6,108
+winter,0,Sun,0,Mist + Cloudy,0.38,0,Nov,22,0.62,106
+springer,0,Wed,1,Clear + Few clouds,0.32,0,Mar,13,0.39,78
+winter,0,Sun,0,Clear + Few clouds,0.24,1,Dec,5,0.87,13
+fall,0,Fri,1,Clear + Few clouds,0.7,1,Sep,3,0.84,9
+summer,0,Wed,1,Clear + Few clouds,0.36,1,Apri,23,0.4,62
+fall,0,Wed,1,Clear + Few clouds,0.76,1,July,18,0.55,857
+summer,0,Thu,1,Mist + Cloudy,0.6,1,May,1,0.78,14
+summer,0,Fri,1,Clear + Few clouds,0.62,1,May,5,0.69,33
+summer,0,Sun,0,Clear + Few clouds,0.74,0,Jun,14,0.33,451
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Apri,5,0.53,30
+winter,0,Fri,1,Mist + Cloudy,0.3,1,Nov,7,0.65,410
+summer,0,Sun,0,Mist + Cloudy,0.5,1,Jun,6,0.77,36
+springer,0,Sun,0,Clear + Few clouds,0.24,0,Jan,3,0.75,13
+springer,0,Mon,0,Clear + Few clouds,0.36,1,Jan,15,0.25,310
+fall,0,Fri,1,Clear + Few clouds,0.78,1,Aug,15,0.62,270
+fall,0,Sun,0,Clear + Few clouds,0.64,0,Aug,6,0.89,27
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.52,1,Jun,2,0.72,8
+winter,0,Sat,1,Clear + Few clouds,0.64,0,Sep,15,0.5,245
+springer,0,Sun,0,Clear + Few clouds,0.44,1,Jan,21,0.44,140
+summer,0,Wed,1,Mist + Cloudy,0.66,1,Jun,16,0.89,239
+fall,1,Tue,0,Mist + Cloudy,0.74,1,Sep,11,0.7,459
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.48,0,Oct,5,0.88,15
+winter,0,Tue,1,Clear + Few clouds,0.42,1,Nov,12,0.35,210
+fall,0,Sun,0,Clear + Few clouds,0.64,0,Jun,7,0.57,42
+fall,0,Tue,1,Clear + Few clouds,0.66,0,Aug,6,0.61,112
+springer,0,Thu,1,Clear + Few clouds,0.1,0,Feb,1,0.36,7
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.52,1,Mar,2,0.72,1
+summer,0,Thu,1,Clear + Few clouds,0.86,1,Jun,12,0.47,180
+winter,0,Mon,0,Mist + Cloudy,0.38,1,Dec,14,0.76,310
+summer,0,Tue,1,Clear + Few clouds,0.64,0,May,21,0.89,188
+summer,0,Mon,0,Clear + Few clouds,0.5,0,Apri,4,0.94,5
+winter,0,Sat,1,Clear + Few clouds,0.4,0,Nov,11,0.66,226
+springer,0,Wed,1,Clear + Few clouds,0.18,0,Mar,7,0.64,128
+summer,0,Fri,1,Clear + Few clouds,0.52,1,May,8,0.55,634
+fall,0,Sun,0,Clear + Few clouds,0.64,0,Sep,9,0.78,207
+winter,1,Tue,0,Mist + Cloudy,0.7,0,Oct,12,0.48,365
+springer,0,Fri,1,Mist + Cloudy,0.26,1,Jan,22,0.44,90
+winter,0,Tue,1,Mist + Cloudy,0.4,0,Oct,22,0.82,91
+fall,0,Fri,1,Clear + Few clouds,0.7,0,July,10,0.42,127
+summer,0,Sun,0,Clear + Few clouds,0.7,1,May,11,0.58,575
+summer,0,Mon,0,Clear + Few clouds,0.48,1,Apri,12,0.44,584
+summer,0,Fri,1,Clear + Few clouds,0.9,0,Jun,11,0.42,118
+summer,0,Wed,1,Mist + Cloudy,0.76,0,Jun,10,0.48,123
+winter,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,8,0.94,317
+summer,0,Fri,1,Mist + Cloudy,0.5,0,May,9,0.77,212
+fall,0,Wed,1,Clear + Few clouds,0.66,1,Aug,10,0.61,178
+fall,0,Wed,1,Clear + Few clouds,0.84,0,July,12,0.56,153
+summer,0,Fri,1,Mist + Cloudy,0.54,1,Apri,19,0.77,464
+winter,0,Sun,0,Clear + Few clouds,0.34,1,Oct,1,0.53,146
+summer,0,Fri,1,Clear + Few clouds,0.5,1,May,21,0.42,230
+summer,0,Wed,1,Mist + Cloudy,0.58,0,May,22,0.6,113
+winter,0,Thu,1,Mist + Cloudy,0.62,1,Oct,5,0.94,34
+fall,0,Thu,1,Clear + Few clouds,0.74,1,Sep,19,0.7,662
+springer,0,Wed,1,Mist + Cloudy,0.22,0,Feb,21,0.87,64
+springer,0,Thu,1,Clear + Few clouds,0.26,0,Feb,12,0.35,67
+summer,0,Wed,1,Mist + Cloudy,0.48,1,Jun,8,0.77,710
+summer,0,Wed,1,Clear + Few clouds,0.62,1,May,23,0.73,105
+winter,0,Wed,1,Mist + Cloudy,0.4,0,Nov,18,0.82,358
+summer,1,Tue,0,Clear + Few clouds,0.68,1,Apri,12,0.57,271
+springer,0,Sun,0,Mist + Cloudy,0.3,0,Jan,22,0.42,26
+fall,0,Thu,1,Clear + Few clouds,0.56,1,Jun,2,0.49,14
+springer,0,Fri,1,Clear + Few clouds,0.72,1,Mar,15,0.32,287
+summer,0,Wed,1,Mist + Cloudy,0.5,0,Apri,21,0.72,122
+summer,0,Sat,1,Clear + Few clouds,0.46,1,May,3,0.41,13
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.38,1,Feb,9,0.87,228
+fall,0,Sat,1,Clear + Few clouds,0.8,0,Aug,16,0.49,330
+winter,0,Thu,1,Clear + Few clouds,0.5,1,Dec,0,0.59,37
+fall,0,Sun,0,Clear + Few clouds,0.7,1,Sep,9,0.74,348
+summer,0,Fri,1,Clear + Few clouds,0.32,1,Apri,3,0.61,5
+winter,0,Fri,1,Clear + Few clouds,0.4,0,Dec,13,0.4,154
+summer,0,Sun,0,Clear + Few clouds,0.46,0,May,5,0.59,7
+springer,0,Sat,1,Clear + Few clouds,0.3,0,Feb,16,0.28,125
+summer,0,Fri,1,Clear + Few clouds,0.6,1,May,17,0.31,732
+winter,0,Mon,0,Clear + Few clouds,0.3,0,Oct,22,0.75,71
+summer,1,Sat,0,Mist + Cloudy,0.46,0,Apri,18,0.67,263
+winter,0,Wed,1,Clear + Few clouds,0.54,0,Oct,18,0.64,524
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.52,0,Oct,10,0.88,123
+springer,0,Sat,1,Clear + Few clouds,0.42,0,Dec,15,0.44,292
+fall,0,Mon,0,Clear + Few clouds,0.68,0,Aug,4,0.83,6
+fall,0,Mon,0,Clear + Few clouds,0.78,1,July,5,0.62,6
+fall,0,Tue,1,Mist + Cloudy,0.56,0,Sep,19,0.68,374
+summer,0,Thu,1,Mist + Cloudy,0.3,0,Mar,6,0.49,48
+summer,0,Sat,1,Clear + Few clouds,0.44,0,May,23,0.82,120
+summer,0,Thu,1,Clear + Few clouds,0.46,1,Apri,2,0.51,5
+springer,0,Thu,1,Mist + Cloudy,0.36,0,Dec,6,0.87,76
+fall,0,Thu,1,Clear + Few clouds,0.66,0,Jun,6,0.83,122
+fall,0,Wed,1,Clear + Few clouds,0.7,1,July,0,0.74,64
+springer,0,Tue,1,Clear + Few clouds,0.14,1,Feb,10,0.5,71
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,Sep,10,0.88,30
+summer,0,Thu,1,Clear + Few clouds,0.52,1,Apri,21,0.52,239
+summer,0,Thu,1,Clear + Few clouds,0.46,0,May,6,0.82,99
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.52,0,Oct,6,0.83,31
+summer,0,Sun,0,Clear + Few clouds,0.74,1,Jun,21,0.4,316
+winter,0,Fri,1,Mist + Cloudy,0.6,0,Sep,4,0.88,7
+winter,1,Tue,0,Clear + Few clouds,0.56,1,Nov,12,0.64,419
+winter,0,Sun,0,Clear + Few clouds,0.46,1,Oct,17,0.38,528
+winter,0,Sat,1,Clear + Few clouds,0.3,0,Dec,21,0.75,140
+summer,0,Fri,1,Clear + Few clouds,0.52,1,Mar,2,0.83,6
+winter,0,Mon,0,Clear + Few clouds,0.4,1,Nov,12,0.62,442
+fall,0,Sat,1,Clear + Few clouds,0.92,1,July,15,0.29,285
+springer,0,Sat,1,Clear + Few clouds,0.36,0,Mar,3,0.71,5
+winter,0,Fri,1,Mist + Cloudy,0.54,1,Oct,23,0.83,135
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Apri,3,0.76,1
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.22,0,Feb,14,1.0,55
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.14,0,Feb,0,0.86,16
+summer,0,Sun,0,Clear + Few clouds,0.44,0,Apri,9,0.51,156
+fall,0,Fri,1,Mist + Cloudy,0.7,1,July,8,0.74,729
+springer,0,Sat,1,Clear + Few clouds,0.32,0,Feb,17,0.49,189
+fall,0,Thu,1,Clear + Few clouds,0.72,0,Aug,20,0.58,334
+springer,0,Tue,1,Clear + Few clouds,0.22,0,Jan,0,0.44,5
+winter,0,Wed,1,Clear + Few clouds,0.26,1,Nov,20,0.75,232
+summer,0,Fri,1,Clear + Few clouds,0.6,1,May,2,0.88,16
+fall,0,Wed,1,Mist + Cloudy,0.62,0,Sep,15,0.78,192
+summer,0,Wed,1,Mist + Cloudy,0.56,1,May,9,0.68,295
+summer,0,Sat,1,Clear + Few clouds,0.52,1,Jun,4,0.63,10
+springer,0,Sun,0,Clear + Few clouds,0.24,0,Feb,22,0.44,45
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.32,0,Apri,19,0.93,55
+fall,0,Thu,1,Clear + Few clouds,0.66,0,Jun,0,0.78,33
+summer,0,Thu,1,Mist + Cloudy,0.62,0,Apri,22,0.88,129
+fall,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.66,1,July,7,0.83,230
+fall,0,Sun,0,Clear + Few clouds,0.64,0,Sep,21,0.78,230
+springer,0,Sun,0,Mist + Cloudy,0.26,1,Dec,7,0.7,18
+summer,0,Sat,1,Clear + Few clouds,0.46,1,Apri,20,0.31,289
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.28,0,Feb,3,0.93,1
+summer,0,Fri,1,Mist + Cloudy,0.24,0,Mar,8,1.0,192
+springer,0,Fri,1,Clear + Few clouds,0.54,1,Feb,18,0.37,522
+summer,0,Fri,1,Clear + Few clouds,0.5,1,Apri,23,0.63,144
+fall,1,Tue,0,Clear + Few clouds,0.82,0,July,16,0.41,452
+winter,0,Fri,1,Clear + Few clouds,0.52,0,Sep,23,0.77,81
+springer,0,Sat,1,Mist + Cloudy,0.22,1,Jan,17,0.32,349
+springer,0,Tue,1,Clear + Few clouds,0.18,0,Feb,7,0.86,95
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.54,0,May,22,0.94,26
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.52,1,Jun,6,0.88,37
+springer,0,Tue,1,Mist + Cloudy,0.28,1,Jan,23,0.93,37
+fall,0,Fri,1,Clear + Few clouds,0.76,1,Aug,11,0.37,274
+fall,0,Tue,1,Clear + Few clouds,0.66,0,July,2,0.83,10
+winter,0,Sun,0,Mist + Cloudy,0.34,1,Nov,20,0.66,172
+winter,1,Fri,0,Clear + Few clouds,0.36,0,Nov,20,0.76,31
+springer,0,Tue,1,Clear + Few clouds,0.32,0,Mar,14,0.36,77
+winter,0,Sun,0,Clear + Few clouds,0.4,1,Nov,11,0.58,466
+summer,0,Thu,1,Clear + Few clouds,0.78,1,Jun,23,0.59,123
+springer,0,Wed,1,Clear + Few clouds,0.22,0,Feb,5,0.32,4
+summer,0,Thu,1,Clear + Few clouds,0.7,0,Jun,2,0.79,3
+springer,0,Wed,1,Clear + Few clouds,0.4,1,Feb,3,0.32,6
+summer,0,Fri,1,Mist + Cloudy,0.44,0,Apri,21,0.67,108
+winter,0,Wed,1,Clear + Few clouds,0.56,0,Oct,12,0.56,199
+springer,0,Sat,1,Clear + Few clouds,0.08,0,Feb,7,0.73,74
+winter,0,Tue,1,Mist + Cloudy,0.42,1,Dec,21,0.94,120
+winter,0,Sat,1,Clear + Few clouds,0.62,0,Oct,15,0.43,230
+fall,0,Wed,1,Clear + Few clouds,0.72,0,Aug,7,0.61,335
+fall,0,Wed,1,Mist + Cloudy,0.54,0,Sep,2,0.88,5
+fall,0,Sun,0,Clear + Few clouds,0.82,1,July,8,0.63,152
+summer,0,Fri,1,Clear + Few clouds,0.3,1,Apri,6,0.65,96
+summer,0,Wed,1,Mist + Cloudy,0.52,1,May,8,0.94,557
+winter,0,Thu,1,Clear + Few clouds,0.36,0,Nov,22,0.71,106
+fall,0,Sun,0,Clear + Few clouds,0.8,0,July,22,0.59,125
+summer,0,Thu,1,Mist + Cloudy,0.4,0,Mar,17,0.76,273
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Mar,12,0.25,72
+fall,0,Wed,1,Clear + Few clouds,0.72,0,Aug,12,0.37,237
+springer,0,Mon,0,Clear + Few clouds,0.34,1,Mar,12,0.42,327
+fall,0,Sun,0,Clear + Few clouds,0.66,1,Sep,12,0.36,706
+winter,0,Fri,1,Clear + Few clouds,0.4,0,Dec,15,0.4,154
+springer,0,Fri,1,Clear + Few clouds,0.36,1,Feb,7,0.81,326
+fall,0,Mon,0,Clear + Few clouds,0.86,1,July,15,0.47,489
+fall,0,Thu,1,Clear + Few clouds,0.56,1,Sep,22,0.64,212
+summer,0,Sun,0,Clear + Few clouds,0.82,1,Jun,16,0.24,534
+fall,0,Fri,1,Clear + Few clouds,0.66,0,Aug,19,0.83,141
+fall,0,Fri,1,Clear + Few clouds,0.66,0,Jun,0,0.5,54
+winter,0,Sat,1,Clear + Few clouds,0.34,0,Nov,13,0.31,177
+fall,0,Thu,1,Clear + Few clouds,0.72,1,Aug,10,0.66,236
+springer,0,Fri,1,Clear + Few clouds,0.5,1,Mar,1,0.59,23
+winter,0,Thu,1,Clear + Few clouds,0.6,1,Sep,9,0.64,334
+summer,0,Sun,0,Clear + Few clouds,0.46,1,May,5,0.67,12
+fall,0,Sun,0,Clear + Few clouds,0.86,1,July,16,0.39,487
+winter,0,Mon,0,Mist + Cloudy,0.38,1,Dec,13,0.87,285
+summer,0,Mon,0,Mist + Cloudy,0.74,0,Jun,18,0.58,296
+winter,0,Sat,1,Clear + Few clouds,0.34,0,Dec,18,0.61,318
+springer,0,Wed,1,Clear + Few clouds,0.24,0,Jan,20,0.48,54
+fall,0,Wed,1,Clear + Few clouds,0.8,1,July,13,0.55,288
+fall,0,Tue,1,Clear + Few clouds,0.74,1,Aug,20,0.7,416
+summer,0,Tue,1,Mist + Cloudy,0.64,0,Apri,13,0.69,139
+summer,0,Mon,0,Mist + Cloudy,0.42,1,Mar,4,0.94,8
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.3,0,Dec,12,0.81,24
+springer,0,Tue,1,Clear + Few clouds,0.1,0,Jan,11,0.46,46
+springer,0,Tue,1,Clear + Few clouds,0.12,1,Feb,9,0.5,205
+fall,0,Sat,1,Clear + Few clouds,0.82,0,Jun,15,0.34,216
+summer,0,Thu,1,Clear + Few clouds,0.76,0,Jun,8,0.58,481
+fall,0,Thu,1,Clear + Few clouds,0.64,0,Aug,1,0.73,14
+fall,0,Sat,1,Clear + Few clouds,0.78,0,Aug,16,0.62,343
+winter,0,Sat,1,Clear + Few clouds,0.58,1,Oct,23,0.78,171
+summer,0,Wed,1,Clear + Few clouds,0.4,1,Mar,14,0.24,184
+winter,0,Wed,1,Clear + Few clouds,0.4,1,Nov,15,0.4,217
+summer,0,Fri,1,Clear + Few clouds,0.58,1,Mar,13,0.78,298
+summer,0,Tue,1,Clear + Few clouds,0.64,1,Jun,12,0.41,282
+summer,0,Fri,1,Mist + Cloudy,0.62,0,May,13,0.57,218
+summer,0,Thu,1,Clear + Few clouds,0.64,1,Jun,14,0.38,302
+fall,1,Tue,0,Mist + Cloudy,0.72,0,July,23,0.7,138
+winter,0,Sat,1,Clear + Few clouds,0.52,0,Sep,4,0.83,8
+winter,0,Wed,1,Clear + Few clouds,0.48,0,Nov,16,0.44,298
+fall,0,Tue,1,Clear + Few clouds,0.7,0,Aug,14,0.42,182
+winter,0,Fri,1,Clear + Few clouds,0.5,1,Oct,13,0.31,291
+springer,0,Sat,1,Clear + Few clouds,0.34,0,Dec,19,0.53,76
+springer,0,Thu,1,Clear + Few clouds,0.02,1,Jan,8,0.44,315
+summer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.28,0,Mar,11,0.93,58
+winter,0,Sat,1,Clear + Few clouds,0.52,1,Oct,7,0.83,428
+springer,0,Sat,1,Clear + Few clouds,0.34,1,Feb,19,0.49,267
+summer,0,Fri,1,Clear + Few clouds,0.34,1,Apri,7,0.49,354
+summer,0,Fri,1,Clear + Few clouds,0.74,1,May,15,0.55,291
+winter,0,Sat,1,Clear + Few clouds,0.6,0,Sep,10,0.64,168
+springer,0,Fri,1,Mist + Cloudy,0.44,1,Mar,7,0.94,304
+summer,0,Tue,1,Clear + Few clouds,0.62,0,Jun,9,0.46,224
+fall,0,Mon,0,Clear + Few clouds,0.7,0,Aug,10,0.61,142
+springer,0,Mon,0,Clear + Few clouds,0.16,0,Jan,11,0.4,49
+summer,0,Sun,0,Mist + Cloudy,0.72,1,Jun,17,0.37,593
+summer,0,Thu,1,Clear + Few clouds,0.68,1,Jun,20,0.36,448
+winter,0,Tue,1,Mist + Cloudy,0.46,0,Nov,7,0.94,246
+winter,1,Sat,0,Clear + Few clouds,0.34,0,Nov,11,0.42,170
+springer,0,Fri,1,Clear + Few clouds,0.44,1,Feb,21,0.51,222
+fall,0,Tue,1,Clear + Few clouds,0.66,0,Aug,5,0.83,26
+fall,0,Tue,1,Clear + Few clouds,0.8,0,Aug,20,0.55,286
+summer,0,Tue,1,Clear + Few clouds,0.64,1,Jun,17,0.38,834
+fall,0,Thu,1,Mist + Cloudy,0.74,0,Aug,7,0.51,271
+summer,0,Tue,1,Clear + Few clouds,0.6,0,Jun,3,0.6,7
+winter,0,Tue,1,Clear + Few clouds,0.34,1,Nov,22,0.66,113
+winter,0,Tue,1,Clear + Few clouds,0.62,0,Nov,17,0.46,519
+winter,0,Tue,1,Mist + Cloudy,0.54,0,Nov,20,0.73,218
+summer,0,Fri,1,Mist + Cloudy,0.6,1,May,4,0.88,5
+fall,0,Wed,1,Clear + Few clouds,0.56,0,Sep,5,0.88,20
+fall,1,Thu,0,Clear + Few clouds,0.76,1,July,9,0.52,293
+winter,0,Wed,1,Mist + Cloudy,0.3,1,Nov,5,0.81,31
+springer,0,Wed,1,Clear + Few clouds,0.32,1,Mar,14,0.36,136
+springer,0,Sat,1,Clear + Few clouds,0.22,1,Jan,4,0.6,3
+fall,0,Wed,1,Mist + Cloudy,0.68,1,July,6,0.79,187
+fall,0,Wed,1,Mist + Cloudy,0.72,0,July,6,0.74,134
+winter,0,Fri,1,Clear + Few clouds,0.22,1,Dec,3,0.55,2
+springer,0,Thu,1,Clear + Few clouds,0.2,0,Jan,8,0.4,195
+summer,0,Thu,1,Clear + Few clouds,0.48,1,Apri,0,0.48,41
+winter,0,Thu,1,Clear + Few clouds,0.42,1,Dec,14,0.5,218
+fall,0,Thu,1,Clear + Few clouds,0.7,1,Sep,14,0.37,278
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,6,0.88,79
+winter,0,Tue,1,Clear + Few clouds,0.5,0,Oct,6,0.55,114
+fall,0,Fri,1,Clear + Few clouds,0.72,1,July,6,0.58,133
+springer,0,Sun,0,Clear + Few clouds,0.44,0,Feb,11,0.16,123
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Apri,15,0.87,25
+fall,0,Fri,1,Mist + Cloudy,0.66,0,July,7,0.89,292
+springer,0,Sun,0,Clear + Few clouds,0.42,0,Mar,8,0.47,48
+summer,0,Sat,1,Clear + Few clouds,0.4,1,Apri,6,0.43,120
+fall,0,Wed,1,Mist + Cloudy,0.56,0,Sep,0,0.73,25
+winter,0,Tue,1,Mist + Cloudy,0.46,0,Dec,15,0.72,148
+fall,0,Tue,1,Clear + Few clouds,0.8,1,July,10,0.43,174
+fall,0,Fri,1,Clear + Few clouds,0.68,1,Sep,18,0.57,852
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.38,0,May,4,0.94,3
+summer,0,Thu,1,Clear + Few clouds,0.6,1,May,23,0.83,106
+winter,0,Fri,1,Clear + Few clouds,0.26,0,Dec,4,0.56,1
+springer,0,Fri,1,Mist + Cloudy,0.42,1,Mar,6,0.94,109
+summer,1,Tue,0,Clear + Few clouds,0.64,0,May,2,0.94,45
+fall,0,Sun,0,Clear + Few clouds,0.46,0,Sep,3,0.72,28
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.48,1,Dec,12,0.48,313
+summer,0,Wed,1,Clear + Few clouds,0.36,0,Mar,14,0.25,86
+springer,0,Fri,1,Clear + Few clouds,0.1,0,Feb,8,0.49,178
+fall,0,Sun,0,Mist + Cloudy,0.86,1,Sep,14,0.44,514
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Dec,9,0.48,90
+fall,0,Wed,1,Mist + Cloudy,0.54,0,Sep,17,0.88,291
+fall,0,Wed,1,Clear + Few clouds,0.78,0,July,21,0.49,267
+fall,0,Sat,1,Clear + Few clouds,0.8,0,July,1,0.63,24
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.36,1,Apri,20,0.93,35
+summer,0,Thu,1,Mist + Cloudy,0.54,1,May,20,0.6,431
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.5,1,Apri,20,0.82,39
+summer,0,Sat,1,Clear + Few clouds,0.58,0,Jun,23,0.46,171
+springer,0,Fri,1,Mist + Cloudy,0.34,1,Jan,11,0.81,119
+springer,0,Thu,1,Clear + Few clouds,0.32,0,Dec,0,0.87,10
+springer,0,Fri,1,Clear + Few clouds,0.56,1,Mar,11,0.6,211
+summer,0,Tue,1,Mist + Cloudy,0.54,0,May,10,0.77,108
+fall,0,Tue,1,Clear + Few clouds,0.66,1,Jun,4,0.78,4
+springer,0,Mon,0,Clear + Few clouds,0.36,0,Dec,16,0.57,86
+summer,0,Sat,1,Mist + Cloudy,0.7,1,Jun,12,0.74,310
+summer,0,Wed,1,Mist + Cloudy,0.56,0,Apri,4,0.64,6
+springer,0,Mon,0,Clear + Few clouds,0.5,1,Mar,16,0.31,509
+winter,0,Wed,1,Mist + Cloudy,0.6,0,Oct,10,0.69,149
+fall,0,Wed,1,Clear + Few clouds,0.72,1,Jun,19,0.28,612
+summer,0,Sun,0,Clear + Few clouds,0.42,1,Apri,9,0.54,265
+fall,0,Wed,1,Clear + Few clouds,0.82,0,Aug,12,0.56,185
+summer,0,Fri,1,Clear + Few clouds,0.44,0,May,3,0.88,5
+springer,0,Tue,1,Clear + Few clouds,0.54,1,Feb,17,0.24,529
+summer,0,Sat,1,Clear + Few clouds,0.46,0,May,22,0.72,151
+springer,0,Fri,1,Mist + Cloudy,0.44,1,Feb,2,0.62,9
+fall,0,Mon,0,Clear + Few clouds,0.74,0,Sep,20,0.7,229
+fall,0,Fri,1,Clear + Few clouds,0.86,0,July,16,0.39,265
+fall,0,Mon,0,Clear + Few clouds,0.84,1,Jun,14,0.3,551
+springer,0,Tue,1,Clear + Few clouds,0.16,1,Feb,7,0.86,234
+winter,0,Thu,1,Mist + Cloudy,0.52,0,Nov,9,0.94,167
+winter,1,Tue,0,Clear + Few clouds,0.74,0,Oct,14,0.37,370
+summer,0,Sun,0,Mist + Cloudy,0.5,0,Apri,18,0.94,38
+springer,0,Fri,1,Mist + Cloudy,0.44,1,Feb,1,0.58,15
+springer,0,Sat,1,Mist + Cloudy,0.3,0,Mar,21,0.52,53
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.7,1,Sep,8,0.79,646
+summer,0,Sat,1,Clear + Few clouds,0.56,0,May,21,0.64,195
+fall,0,Wed,1,Clear + Few clouds,0.7,0,July,1,0.65,39
+fall,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,9,0.94,136
+springer,0,Sat,1,Mist + Cloudy,0.24,1,Dec,22,0.7,62
+winter,0,Tue,1,Mist + Cloudy,0.42,1,Dec,15,0.88,211
+summer,0,Sun,0,Clear + Few clouds,0.56,0,May,4,0.88,4
+fall,0,Wed,1,Clear + Few clouds,0.52,1,Sep,0,0.59,32
+summer,0,Mon,0,Mist + Cloudy,0.42,0,Apri,21,0.44,45
+springer,0,Tue,1,Mist + Cloudy,0.24,0,Jan,0,0.65,7
+springer,0,Sun,0,Mist + Cloudy,0.16,0,Jan,3,0.59,8
+springer,0,Tue,1,Clear + Few clouds,0.16,0,Jan,5,0.47,3
+summer,0,Sun,0,Clear + Few clouds,0.62,0,Jun,0,0.88,104
+springer,0,Fri,1,Mist + Cloudy,0.3,1,Feb,5,0.7,20
+springer,0,Sun,0,Clear + Few clouds,0.18,1,Jan,21,0.74,69
+fall,0,Sat,1,Clear + Few clouds,0.7,0,Aug,23,0.84,136
+winter,0,Sat,1,Mist + Cloudy,0.42,0,Nov,10,0.71,134
+springer,0,Mon,0,Mist + Cloudy,0.16,1,Jan,10,0.74,129
+winter,0,Thu,1,Clear + Few clouds,0.3,1,Dec,0,0.52,34
+summer,0,Sat,1,Clear + Few clouds,0.7,0,May,1,0.58,50
+fall,0,Thu,1,Clear + Few clouds,0.7,0,July,3,0.79,6
+fall,0,Wed,1,Clear + Few clouds,0.94,1,July,14,0.29,214
+summer,0,Wed,1,Clear + Few clouds,0.3,1,Mar,11,0.31,175
+summer,0,Tue,1,Mist + Cloudy,0.32,1,Apri,11,0.7,101
+springer,0,Mon,0,Clear + Few clouds,0.3,0,Jan,17,0.56,77
+springer,0,Thu,1,Clear + Few clouds,0.22,1,Dec,4,0.69,2
+summer,0,Wed,1,Clear + Few clouds,0.24,0,Mar,8,0.35,287
+fall,0,Fri,1,Clear + Few clouds,0.54,1,Sep,2,0.77,9
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Dec,3,0.72,4
+springer,1,Tue,0,Mist + Cloudy,0.2,0,Jan,15,0.47,93
+summer,0,Sun,0,Clear + Few clouds,0.6,0,Jun,4,0.88,5
+fall,0,Thu,1,Clear + Few clouds,0.58,1,Sep,18,0.4,892
+springer,0,Wed,1,Clear + Few clouds,0.28,0,Feb,19,0.26,145
+summer,0,Wed,1,Clear + Few clouds,0.6,0,May,19,0.69,349
+summer,0,Sun,0,Clear + Few clouds,0.24,0,Apri,4,0.7,5
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.32,1,Jan,19,0.93,93
+springer,0,Wed,1,Mist + Cloudy,0.36,1,Feb,19,0.5,281
+winter,0,Wed,1,Mist + Cloudy,0.66,0,Sep,11,0.89,123
+fall,0,Sun,0,Mist + Cloudy,0.96,1,July,13,0.31,360
+winter,0,Wed,1,Clear + Few clouds,0.22,1,Nov,3,0.64,4
+winter,0,Thu,1,Mist + Cloudy,0.32,1,Dec,18,0.49,540
+fall,0,Tue,1,Clear + Few clouds,0.68,1,July,2,0.74,8
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.38,0,Apri,6,0.94,34
+summer,0,Thu,1,Clear + Few clouds,0.86,0,Jun,16,0.47,266
+winter,0,Sun,0,Clear + Few clouds,0.42,1,Dec,15,0.47,447
+winter,0,Sun,0,Mist + Cloudy,0.3,0,Dec,1,0.52,43
+winter,0,Fri,1,Clear + Few clouds,0.52,0,Nov,16,0.48,267
+winter,0,Fri,1,Mist + Cloudy,0.4,1,Nov,14,0.5,185
+springer,0,Thu,1,Clear + Few clouds,0.12,0,Jan,6,0.93,16
+fall,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.64,1,Aug,15,0.89,391
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.48,0,May,7,1.0,32
+winter,0,Sat,1,Clear + Few clouds,0.56,1,Oct,0,0.73,102
+springer,1,Tue,0,Clear + Few clouds,0.26,1,Jan,6,0.41,14
+fall,1,Thu,0,Clear + Few clouds,0.82,1,July,11,0.46,485
+fall,0,Fri,1,Mist + Cloudy,0.62,1,Aug,7,0.83,481
+springer,0,Mon,0,Clear + Few clouds,0.24,1,Dec,7,0.56,13
+summer,0,Sun,0,Clear + Few clouds,0.34,1,Apri,4,0.49,2
+fall,0,Tue,1,Clear + Few clouds,0.68,1,July,6,0.79,140
+fall,0,Sun,0,Clear + Few clouds,0.86,0,July,15,0.19,331
+fall,0,Fri,1,Clear + Few clouds,0.82,0,July,19,0.52,365
+winter,0,Mon,0,Clear + Few clouds,0.62,1,Sep,17,0.35,575
+fall,0,Sun,0,Clear + Few clouds,0.62,1,Aug,3,0.88,30
+fall,0,Mon,0,Clear + Few clouds,0.7,0,Aug,0,0.74,74
+springer,0,Thu,1,Clear + Few clouds,0.4,1,Feb,5,0.5,18
+fall,0,Thu,1,Mist + Cloudy,0.72,1,Aug,10,0.62,233
+fall,0,Tue,1,Clear + Few clouds,0.72,1,Aug,22,0.62,192
+fall,0,Sun,0,Clear + Few clouds,0.68,1,July,19,0.83,338
+summer,0,Mon,0,Clear + Few clouds,0.5,0,Apri,21,0.42,83
+fall,0,Sat,1,Clear + Few clouds,0.72,0,July,18,0.45,496
+springer,0,Sat,1,Mist + Cloudy,0.16,0,Jan,22,0.69,36
+summer,0,Tue,1,Mist + Cloudy,0.66,1,May,17,0.69,508
+winter,0,Thu,1,Clear + Few clouds,0.62,0,Oct,12,0.43,214
+winter,0,Sat,1,Mist + Cloudy,0.56,0,Oct,8,0.9,209
+summer,0,Sat,1,Clear + Few clouds,0.58,1,Apri,12,0.53,362
+fall,0,Wed,1,Mist + Cloudy,0.64,1,Sep,6,0.89,167
+fall,0,Mon,0,Clear + Few clouds,0.76,0,July,19,0.55,379
+springer,0,Wed,1,Clear + Few clouds,0.54,1,Mar,11,0.73,219
+summer,0,Fri,1,Clear + Few clouds,0.64,1,May,10,0.65,185
+summer,0,Sun,0,Clear + Few clouds,0.58,0,May,18,0.37,289
+fall,0,Tue,1,Clear + Few clouds,0.84,1,July,13,0.49,239
+winter,0,Fri,1,Mist + Cloudy,0.46,0,Nov,11,0.67,108
+winter,0,Wed,1,Clear + Few clouds,0.62,0,Sep,2,0.94,11
+winter,0,Tue,1,Mist + Cloudy,0.38,1,Dec,3,0.94,4
+summer,0,Mon,0,Clear + Few clouds,0.62,0,May,3,0.88,26
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.6,0,May,0,0.83,35
+springer,0,Sat,1,Clear + Few clouds,0.44,0,Feb,11,0.72,113
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Apri,7,0.43,461
+springer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.42,0,Feb,15,1.0,35
+springer,0,Fri,1,Clear + Few clouds,0.34,0,Feb,3,0.53,4
+springer,0,Wed,1,Clear + Few clouds,0.3,1,Jan,4,0.49,1
+fall,0,Sat,1,Clear + Few clouds,0.72,1,Sep,20,0.66,391
+summer,0,Sun,0,Mist + Cloudy,0.36,0,Apri,22,0.93,87
+fall,0,Mon,0,Mist + Cloudy,0.7,1,July,8,0.84,133
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.22,0,Jan,14,0.8,38
+summer,0,Fri,1,Mist + Cloudy,0.46,0,May,0,0.88,44
+summer,0,Mon,0,Clear + Few clouds,0.26,0,Apri,2,0.7,24
+fall,0,Sat,1,Clear + Few clouds,0.84,1,July,11,0.32,233
+springer,0,Tue,1,Mist + Cloudy,0.24,1,Jan,17,0.96,276
+fall,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Aug,20,0.83,58
+summer,0,Sat,1,Clear + Few clouds,0.58,0,May,23,0.88,127
+winter,0,Tue,1,Mist + Cloudy,0.36,1,Dec,1,1.0,4
+winter,0,Sun,0,Clear + Few clouds,0.36,0,Oct,6,0.71,18
+springer,0,Wed,1,Clear + Few clouds,0.2,0,Feb,8,0.32,223
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.16,0,Jan,23,0.93,19
+winter,0,Mon,0,Clear + Few clouds,0.48,1,Sep,8,0.55,175
+springer,0,Sat,1,Mist + Cloudy,0.18,0,Mar,2,0.64,2
+fall,0,Sun,0,Clear + Few clouds,0.58,0,July,5,0.73,14
+fall,0,Sun,0,Mist + Cloudy,0.64,0,Sep,2,0.69,41
+winter,0,Thu,1,Clear + Few clouds,0.54,1,Oct,11,0.52,291
+springer,0,Sun,0,Clear + Few clouds,0.36,1,Mar,17,0.23,354
+summer,0,Wed,1,Clear + Few clouds,0.22,0,Mar,7,0.41,133
+summer,0,Wed,1,Clear + Few clouds,0.5,1,Apri,22,0.51,158
+springer,0,Thu,1,Clear + Few clouds,0.2,0,Feb,4,0.51,1
+springer,1,Tue,0,Clear + Few clouds,0.26,1,Jan,17,0.48,193
+winter,0,Wed,1,Clear + Few clouds,0.36,0,Dec,12,0.43,167
+fall,0,Thu,1,Clear + Few clouds,0.82,0,Aug,18,0.28,559
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Nov,20,0.87,80
+winter,0,Sat,1,Clear + Few clouds,0.4,1,Oct,22,0.47,160
+springer,0,Sun,0,Clear + Few clouds,0.44,1,Mar,20,0.3,149
+springer,0,Mon,0,Mist + Cloudy,0.2,0,Feb,2,0.75,20
+summer,0,Sun,0,Clear + Few clouds,0.82,1,Jun,14,0.23,593
+winter,0,Sat,1,Clear + Few clouds,0.48,0,Oct,13,0.48,206
+fall,0,Tue,1,Clear + Few clouds,0.76,1,Aug,13,0.57,288
+summer,0,Fri,1,Mist + Cloudy,0.4,0,Apri,8,0.5,365
+winter,0,Sun,0,Mist + Cloudy,0.46,0,Nov,17,0.47,184
+springer,0,Sun,0,Mist + Cloudy,0.2,1,Jan,18,0.75,110
+winter,0,Wed,1,Mist + Cloudy,0.46,0,Dec,3,0.87,3
+summer,0,Tue,1,Clear + Few clouds,0.44,0,May,4,0.77,17
+springer,0,Thu,1,Mist + Cloudy,0.24,1,Feb,6,0.7,98
+summer,0,Mon,0,Mist + Cloudy,0.44,0,Apri,0,0.77,33
+fall,0,Thu,1,Clear + Few clouds,0.6,1,Aug,6,0.73,181
+winter,0,Fri,1,Clear + Few clouds,0.5,0,Nov,12,0.51,179
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.32,0,Nov,11,0.66,97
+summer,0,Mon,0,Clear + Few clouds,0.62,1,Jun,20,0.57,302
+winter,0,Thu,1,Clear + Few clouds,0.26,1,Dec,5,0.75,31
+winter,0,Wed,1,Clear + Few clouds,0.48,0,Oct,0,0.82,31
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Jan,18,0.66,439
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Jan,9,0.51,32
+fall,0,Sun,0,Clear + Few clouds,0.74,1,Sep,0,0.62,168
+fall,0,Mon,0,Clear + Few clouds,0.66,0,July,3,0.74,25
+summer,0,Wed,1,Mist + Cloudy,0.46,1,Apri,21,0.28,226
+summer,0,Mon,0,Clear + Few clouds,0.58,1,Apri,10,0.53,421
+summer,0,Sun,0,Mist + Cloudy,0.74,0,Jun,15,0.27,404
+summer,0,Sat,1,Mist + Cloudy,0.5,1,Mar,5,0.94,34
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.14,1,Jan,2,0.86,26
+winter,0,Sun,0,Mist + Cloudy,0.36,1,Dec,1,0.93,100
+fall,0,Sat,1,Clear + Few clouds,0.62,0,July,4,0.57,6
+summer,0,Wed,1,Clear + Few clouds,0.46,0,Apri,1,0.63,7
+winter,0,Sat,1,Clear + Few clouds,0.44,1,Nov,22,0.33,79
+fall,0,Mon,0,Clear + Few clouds,0.72,0,Aug,19,0.79,228
+fall,0,Mon,0,Clear + Few clouds,0.54,0,Sep,23,0.68,54
+springer,1,Tue,0,Clear + Few clouds,0.32,0,Dec,8,0.45,18
+summer,0,Wed,1,Mist + Cloudy,0.66,1,Jun,17,0.89,681
+winter,0,Wed,1,Clear + Few clouds,0.68,1,Oct,15,0.41,346
+winter,0,Wed,1,Clear + Few clouds,0.5,1,Oct,10,0.48,222
+winter,0,Wed,1,Clear + Few clouds,0.18,0,Dec,3,0.8,3
+fall,0,Sun,0,Clear + Few clouds,0.9,1,Jun,16,0.29,373
+summer,0,Thu,1,Mist + Cloudy,0.64,1,Apri,15,0.44,268
+fall,0,Fri,1,Clear + Few clouds,0.72,1,July,2,0.7,7
+summer,0,Thu,1,Clear + Few clouds,0.52,1,Jun,1,0.68,27
+springer,0,Wed,1,Clear + Few clouds,0.22,0,Mar,9,0.55,124
+winter,0,Sat,1,Clear + Few clouds,0.56,0,Sep,9,0.73,237
+winter,0,Thu,1,Mist + Cloudy,0.46,0,Nov,6,0.94,56
+fall,0,Fri,1,Clear + Few clouds,0.8,0,Aug,16,0.27,298
+summer,0,Tue,1,Clear + Few clouds,0.4,0,Apri,6,0.82,54
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.6,0,Apri,20,0.83,105
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Oct,15,1.0,120
+fall,0,Tue,1,Clear + Few clouds,0.54,0,Sep,4,0.94,4
+fall,0,Sun,0,Clear + Few clouds,0.72,1,July,7,0.7,76
+springer,0,Sun,0,Mist + Cloudy,0.24,1,Dec,5,0.75,3
+springer,0,Tue,1,Mist + Cloudy,0.36,0,Feb,0,0.66,30
+springer,0,Tue,1,Clear + Few clouds,0.24,1,Mar,1,0.48,6
+summer,0,Sun,0,Mist + Cloudy,0.36,0,Apri,8,1.0,47
+winter,0,Tue,1,Mist + Cloudy,0.36,1,Nov,5,0.66,39
+fall,0,Wed,1,Clear + Few clouds,0.78,0,Aug,21,0.46,230
+winter,0,Sat,1,Clear + Few clouds,0.36,0,Oct,11,0.5,168
+summer,0,Mon,0,Clear + Few clouds,0.38,0,Apri,8,0.46,43
+summer,0,Thu,1,Mist + Cloudy,0.56,1,May,9,0.88,315
+summer,0,Wed,1,Clear + Few clouds,0.74,1,May,10,0.7,183
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Sep,14,0.88,24
+summer,0,Tue,1,Clear + Few clouds,0.56,1,Apri,17,0.6,683
+springer,0,Thu,1,Mist + Cloudy,0.4,1,Feb,17,0.87,253
+springer,0,Wed,1,Clear + Few clouds,0.16,1,Jan,8,0.55,354
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Feb,0,0.41,15
+winter,1,Tue,0,Clear + Few clouds,0.4,1,Nov,7,0.87,264
+summer,0,Wed,1,Clear + Few clouds,0.7,1,May,18,0.54,743
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.42,0,Nov,17,0.94,210
+summer,0,Sat,1,Clear + Few clouds,0.66,1,Jun,0,0.5,86
+winter,0,Wed,1,Clear + Few clouds,0.3,0,Nov,6,0.87,99
+springer,0,Sun,0,Mist + Cloudy,0.3,1,Dec,19,0.61,97
+winter,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.4,0,Oct,17,0.76,228
+summer,0,Fri,1,Clear + Few clouds,0.7,0,Jun,8,0.32,467
+springer,0,Mon,0,Clear + Few clouds,0.36,0,Feb,14,0.27,212
+fall,0,Sat,1,Clear + Few clouds,0.78,1,July,0,0.62,102
+summer,0,Wed,1,Clear + Few clouds,0.54,0,Jun,6,0.56,113
+winter,0,Sat,1,Clear + Few clouds,0.42,1,Nov,15,0.38,267
+fall,0,Wed,1,Clear + Few clouds,0.7,1,July,5,0.61,35
+winter,0,Mon,0,Clear + Few clouds,0.36,1,Dec,19,0.93,109
+springer,0,Wed,1,Mist + Cloudy,0.34,1,Jan,11,0.87,75
+fall,0,Sat,1,Clear + Few clouds,0.66,1,Sep,20,0.61,404
+springer,0,Thu,1,Clear + Few clouds,0.18,0,Jan,22,0.55,42
+summer,0,Sat,1,Clear + Few clouds,0.68,1,May,20,0.51,313
+fall,0,Sun,0,Clear + Few clouds,0.7,0,July,8,0.7,182
+summer,0,Tue,1,Mist + Cloudy,0.56,1,Apri,18,0.6,664
+springer,0,Fri,1,Clear + Few clouds,0.42,1,Mar,5,0.77,29
+winter,0,Tue,1,Clear + Few clouds,0.36,1,Nov,0,0.66,27
+summer,0,Sun,0,Mist + Cloudy,0.38,0,Apri,18,0.82,177
+fall,0,Tue,1,Clear + Few clouds,0.64,1,Aug,5,0.69,36
+winter,0,Tue,1,Clear + Few clouds,0.36,1,Dec,6,0.93,138
+springer,0,Sat,1,Clear + Few clouds,0.24,1,Jan,8,0.52,419
+summer,1,Tue,0,Clear + Few clouds,0.64,0,May,3,0.94,18
+springer,0,Thu,1,Clear + Few clouds,0.42,1,Feb,14,0.41,134
+summer,0,Sat,1,Clear + Few clouds,0.52,1,Apri,15,0.29,324
+winter,0,Sat,1,Mist + Cloudy,0.36,1,Nov,21,0.46,156
+summer,0,Mon,0,Clear + Few clouds,0.34,1,Apri,6,0.87,7
+fall,0,Sun,0,Clear + Few clouds,0.84,0,July,17,0.3,349
+springer,0,Thu,1,Mist + Cloudy,0.18,1,Jan,16,0.4,131
+springer,0,Sat,1,Clear + Few clouds,0.2,1,Feb,8,0.59,448
+springer,0,Sat,1,Clear + Few clouds,0.38,1,Feb,21,0.37,129
+springer,0,Wed,1,Clear + Few clouds,0.3,1,Jan,9,0.52,261
+winter,0,Wed,1,Clear + Few clouds,0.46,1,Sep,0,0.67,64
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Dec,3,0.76,3
+summer,0,Sat,1,Clear + Few clouds,0.48,0,May,21,0.67,152
+summer,0,Sat,1,Clear + Few clouds,0.64,1,Apri,14,0.44,394
+fall,0,Sun,0,Clear + Few clouds,0.66,0,July,8,0.65,127
+fall,0,Fri,1,Clear + Few clouds,0.7,0,July,4,0.61,6
+springer,0,Wed,1,Mist + Cloudy,0.36,1,Feb,22,0.5,77
+winter,0,Fri,1,Mist + Cloudy,0.42,0,Nov,2,0.82,5
+springer,1,Tue,0,Clear + Few clouds,0.14,1,Jan,0,0.46,25
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Nov,9,0.94,149
+fall,0,Mon,0,Clear + Few clouds,0.62,0,July,4,0.73,10
+winter,0,Thu,1,Clear + Few clouds,0.5,1,Dec,5,0.59,49
+springer,0,Wed,1,Mist + Cloudy,0.16,0,Jan,16,0.86,76
+fall,0,Wed,1,Mist + Cloudy,0.66,1,Sep,5,0.89,38
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Jun,5,0.83,3
+fall,0,Mon,0,Clear + Few clouds,0.7,0,Aug,23,0.79,55
+winter,0,Thu,1,Mist + Cloudy,0.3,0,Dec,9,0.61,239
+fall,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,Sep,3,0.94,2
+fall,0,Wed,1,Clear + Few clouds,0.7,0,July,4,0.79,6
+fall,0,Wed,1,Mist + Cloudy,0.54,0,Sep,3,0.83,3
+summer,0,Sat,1,Mist + Cloudy,0.5,1,Mar,7,0.93,346
+summer,0,Fri,1,Clear + Few clouds,0.74,1,May,14,0.55,252
+fall,0,Sat,1,Mist + Cloudy,0.74,0,July,7,0.79,254
+springer,0,Mon,0,Mist + Cloudy,0.42,1,Mar,4,0.94,14
+winter,0,Sat,1,Clear + Few clouds,0.7,1,Oct,11,0.48,304
+springer,0,Fri,1,Clear + Few clouds,0.5,1,Feb,19,0.39,369
+winter,0,Wed,1,Clear + Few clouds,0.48,0,Oct,9,0.55,223
+summer,0,Sun,0,Mist + Cloudy,0.5,0,May,1,0.88,82
+summer,0,Fri,1,Clear + Few clouds,0.58,0,May,16,0.64,302
+springer,0,Sun,0,Clear + Few clouds,0.24,0,Mar,3,0.65,7
+fall,0,Wed,1,Clear + Few clouds,0.76,0,Jun,14,0.62,152
+fall,0,Sat,1,Clear + Few clouds,0.72,0,Aug,9,0.58,226
+fall,0,Sat,1,Mist + Cloudy,0.7,0,Sep,14,0.61,283
+winter,0,Mon,0,Clear + Few clouds,0.42,1,Oct,7,0.82,51
+winter,0,Mon,0,Clear + Few clouds,0.42,0,Dec,15,0.62,296
+winter,0,Mon,0,Mist + Cloudy,0.5,0,Nov,19,0.72,157
+summer,0,Mon,0,Clear + Few clouds,0.52,0,Apri,8,0.94,80
+summer,0,Fri,1,Mist + Cloudy,0.4,1,Apri,6,0.82,120
+winter,0,Sat,1,Clear + Few clouds,0.36,0,Dec,12,0.57,173
+winter,0,Tue,1,Mist + Cloudy,0.58,1,Oct,1,0.64,29
+winter,0,Sun,0,Clear + Few clouds,0.42,1,Dec,15,0.82,541
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.46,1,Dec,7,0.59,398
+springer,0,Sat,1,Clear + Few clouds,0.22,1,Jan,4,0.69,3
+winter,0,Wed,1,Mist + Cloudy,0.36,0,Dec,9,0.66,259
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.36,0,Mar,21,0.0,28
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.22,1,Dec,13,0.87,15
+summer,0,Thu,1,Clear + Few clouds,0.62,1,Jun,2,0.83,4
+springer,0,Sun,0,Mist + Cloudy,0.48,0,Mar,17,0.59,164
+summer,0,Fri,1,Clear + Few clouds,0.52,0,Apri,16,0.27,294
+summer,0,Sat,1,Clear + Few clouds,0.32,0,Apri,11,0.61,89
+fall,0,Sat,1,Clear + Few clouds,0.8,0,Jun,11,0.38,203
+springer,0,Mon,0,Mist + Cloudy,0.18,1,Jan,1,0.74,50
+fall,0,Mon,0,Clear + Few clouds,0.64,1,Aug,5,0.89,16
+summer,0,Wed,1,Mist + Cloudy,0.54,0,May,23,0.88,56
+fall,0,Tue,1,Clear + Few clouds,0.8,1,July,15,0.49,236
+summer,0,Wed,1,Mist + Cloudy,0.66,1,May,11,0.65,229
+winter,0,Wed,1,Mist + Cloudy,0.38,0,Nov,6,0.94,64
+summer,0,Sat,1,Clear + Few clouds,0.58,0,May,13,0.4,253
+fall,0,Wed,1,Mist + Cloudy,0.66,0,Aug,9,0.44,225
+winter,0,Fri,1,Mist + Cloudy,0.4,1,Nov,19,0.5,452
+winter,0,Fri,1,Clear + Few clouds,0.46,0,Oct,1,0.94,11
+summer,0,Thu,1,Mist + Cloudy,0.56,0,May,13,0.83,122
+summer,0,Fri,1,Mist + Cloudy,0.62,0,Apri,1,0.83,20
+winter,0,Fri,1,Clear + Few clouds,0.42,0,Oct,20,0.67,182
+fall,0,Tue,1,Mist + Cloudy,0.74,0,Jun,15,0.55,202
+fall,0,Sat,1,Mist + Cloudy,0.86,1,Jun,21,0.53,236
+fall,0,Sun,0,Clear + Few clouds,0.72,1,Aug,11,0.51,536
+winter,0,Mon,0,Clear + Few clouds,0.42,0,Oct,22,0.77,94
+winter,0,Sun,0,Mist + Cloudy,0.32,1,Nov,6,0.49,21
+winter,0,Mon,0,Clear + Few clouds,0.36,0,Nov,2,0.57,57
+winter,0,Mon,0,Clear + Few clouds,0.26,0,Oct,8,0.7,80
+springer,0,Mon,0,Clear + Few clouds,0.34,0,Feb,15,0.46,182
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Jan,14,0.41,42
+fall,0,Sun,0,Mist + Cloudy,0.66,1,Sep,16,0.36,783
+winter,0,Wed,1,Clear + Few clouds,0.54,0,Nov,8,0.77,449
+springer,0,Mon,0,Clear + Few clouds,0.28,0,Jan,13,0.61,84
+winter,1,Tue,0,Clear + Few clouds,0.34,1,Oct,1,0.87,37
+fall,0,Thu,1,Clear + Few clouds,0.8,0,Jun,14,0.31,188
+summer,0,Sun,0,Mist + Cloudy,0.68,1,May,17,0.65,502
+summer,0,Sun,0,Clear + Few clouds,0.62,1,May,4,0.88,2
+springer,0,Sat,1,Clear + Few clouds,0.12,0,Feb,9,0.74,140
+fall,0,Fri,1,Clear + Few clouds,0.74,0,Jun,11,0.37,169
+fall,0,Tue,1,Mist + Cloudy,0.76,1,July,15,0.45,280
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.5,0,May,1,0.82,7
+springer,1,Tue,0,Clear + Few clouds,0.32,1,Feb,14,0.36,263
+springer,0,Sun,0,Mist + Cloudy,0.44,0,Mar,20,0.77,70
+springer,0,Sun,0,Clear + Few clouds,0.32,0,Mar,10,0.66,99
+summer,0,Thu,1,Clear + Few clouds,0.5,1,Apri,22,0.51,192
+summer,0,Mon,0,Clear + Few clouds,0.54,0,May,21,0.88,151
+winter,0,Mon,0,Mist + Cloudy,0.4,1,Dec,11,0.87,250
+fall,0,Sun,0,Clear + Few clouds,0.8,1,Aug,14,0.49,538
+fall,0,Sun,0,Clear + Few clouds,0.76,0,July,2,0.55,42
+springer,0,Sun,0,Mist + Cloudy,0.44,0,Mar,23,0.77,44
+winter,0,Mon,0,Clear + Few clouds,0.34,0,Oct,4,0.87,6
+winter,0,Sat,1,Clear + Few clouds,0.32,1,Nov,2,0.66,10
+springer,0,Fri,1,Clear + Few clouds,0.24,1,Jan,23,0.7,60
+springer,0,Tue,1,Clear + Few clouds,0.26,1,Dec,22,0.56,61
+winter,0,Sun,0,Clear + Few clouds,0.24,0,Dec,3,0.7,9
+springer,0,Thu,1,Mist + Cloudy,0.4,0,Mar,22,0.62,59
+springer,0,Wed,1,Clear + Few clouds,0.24,0,Feb,9,0.52,135
+fall,0,Fri,1,Mist + Cloudy,0.66,0,Sep,21,0.57,177
+winter,0,Sun,0,Clear + Few clouds,0.3,1,Oct,5,0.61,11
+fall,0,Tue,1,Mist + Cloudy,0.74,0,July,2,0.79,6
+springer,0,Fri,1,Mist + Cloudy,0.26,1,Dec,16,0.52,174
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.22,1,Feb,9,0.93,90
+winter,0,Sat,1,Clear + Few clouds,0.52,1,Oct,20,0.77,229
+fall,0,Fri,1,Clear + Few clouds,0.84,1,Jun,10,0.49,150
+fall,0,Mon,0,Clear + Few clouds,0.9,0,July,13,0.24,294
+winter,0,Mon,0,Clear + Few clouds,0.4,1,Oct,6,0.82,24
+springer,0,Fri,1,Clear + Few clouds,0.32,1,Feb,20,0.36,199
+springer,0,Wed,1,Mist + Cloudy,0.26,0,Jan,19,0.65,146
+winter,0,Mon,0,Mist + Cloudy,0.62,0,Sep,8,0.88,86
+winter,0,Tue,1,Mist + Cloudy,0.62,0,Sep,3,0.94,5
+fall,0,Tue,1,Mist + Cloudy,0.52,0,Sep,2,0.72,13
+winter,0,Tue,1,Mist + Cloudy,0.46,0,Dec,20,0.82,205
+fall,0,Thu,1,Clear + Few clouds,0.78,0,July,10,0.33,114
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.42,0,May,3,0.88,1
+summer,0,Mon,0,Clear + Few clouds,0.32,0,Mar,17,0.31,159
+fall,0,Sun,0,Clear + Few clouds,0.58,0,Sep,4,0.94,7
+fall,0,Sat,1,Clear + Few clouds,0.66,0,Aug,0,0.74,54
+summer,0,Sat,1,Clear + Few clouds,0.38,1,Mar,1,0.5,27
+summer,0,Thu,1,Clear + Few clouds,0.54,0,May,21,0.6,234
+summer,0,Wed,1,Clear + Few clouds,0.64,1,Jun,9,0.73,328
+summer,0,Mon,0,Mist + Cloudy,0.36,1,Apri,4,0.87,4
+winter,1,Fri,0,Clear + Few clouds,0.34,1,Nov,20,0.71,52
+winter,0,Sat,1,Mist + Cloudy,0.34,1,Nov,18,0.61,509
+fall,0,Thu,1,Clear + Few clouds,0.7,0,July,2,0.84,9
+fall,0,Fri,1,Mist + Cloudy,0.76,1,July,9,0.58,318
+fall,0,Thu,1,Clear + Few clouds,0.86,0,Aug,15,0.3,194
+winter,0,Fri,1,Clear + Few clouds,0.3,1,Dec,19,0.45,348
+winter,0,Wed,1,Clear + Few clouds,0.44,0,Oct,0,0.77,30
+summer,0,Tue,1,Mist + Cloudy,0.6,1,May,18,0.53,680
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Feb,0,0.4,12
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.38,0,Mar,8,0.0,44
+fall,0,Tue,1,Mist + Cloudy,0.72,1,July,5,0.51,40
+springer,0,Sun,0,Mist + Cloudy,0.3,0,Mar,8,1.0,45
+springer,0,Thu,1,Mist + Cloudy,0.24,0,Feb,9,0.93,123
+fall,0,Thu,1,Clear + Few clouds,0.6,1,Aug,5,0.73,40
+springer,0,Thu,1,Clear + Few clouds,0.32,0,Jan,19,0.57,112
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.68,1,Sep,10,0.79,160
+springer,0,Sun,0,Clear + Few clouds,0.32,1,Feb,11,0.57,286
+summer,0,Fri,1,Clear + Few clouds,0.52,1,Mar,17,0.38,703
+fall,0,Sat,1,Clear + Few clouds,0.8,1,Sep,13,0.59,354
+summer,0,Sat,1,Clear + Few clouds,0.44,0,May,3,1.0,5
+summer,0,Sat,1,Clear + Few clouds,0.4,1,Apri,11,0.37,291
+springer,0,Fri,1,Mist + Cloudy,0.28,1,Jan,7,0.81,239
+springer,0,Thu,1,Clear + Few clouds,0.56,1,Mar,18,0.4,544
+fall,0,Thu,1,Clear + Few clouds,0.66,0,Aug,20,0.57,289
+fall,0,Tue,1,Clear + Few clouds,0.76,1,Aug,12,0.62,283
+winter,0,Mon,0,Clear + Few clouds,0.52,0,Oct,14,0.55,408
+summer,0,Thu,1,Mist + Cloudy,0.5,1,Apri,23,0.51,104
+springer,0,Fri,1,Clear + Few clouds,0.12,0,Jan,7,0.54,72
+fall,0,Thu,1,Mist + Cloudy,0.7,1,July,9,0.74,328
+winter,0,Thu,1,Mist + Cloudy,0.26,0,Dec,5,0.81,26
+springer,1,Tue,0,Mist + Cloudy,0.16,0,Jan,7,0.5,13
+winter,0,Sat,1,Mist + Cloudy,0.52,1,Oct,4,0.88,5
+springer,0,Mon,0,Mist + Cloudy,0.3,1,Feb,17,0.49,157
+winter,0,Sat,1,Clear + Few clouds,0.52,0,Oct,14,0.42,198
+summer,0,Fri,1,Clear + Few clouds,0.6,1,May,23,0.83,121
+springer,1,Tue,0,Mist + Cloudy,0.42,0,Feb,6,0.26,8
+winter,0,Sun,0,Clear + Few clouds,0.3,0,Nov,9,0.61,160
+summer,0,Fri,1,Clear + Few clouds,0.9,0,Jun,17,0.37,409
+fall,0,Fri,1,Clear + Few clouds,0.72,0,July,3,0.54,5
+winter,0,Mon,0,Mist + Cloudy,0.36,0,Nov,1,0.66,71
+summer,0,Mon,0,Clear + Few clouds,0.72,0,May,19,0.74,287
+winter,0,Sat,1,Clear + Few clouds,0.34,0,Nov,15,0.29,178
+summer,0,Thu,1,Clear + Few clouds,0.36,1,Mar,0,0.4,30
+summer,0,Thu,1,Mist + Cloudy,0.62,1,May,10,0.65,153
+springer,0,Wed,1,Mist + Cloudy,0.32,0,Mar,23,0.87,18
+fall,0,Fri,1,Mist + Cloudy,0.82,0,July,10,0.71,78
+summer,0,Fri,1,Clear + Few clouds,0.46,1,Apri,14,0.33,287
+summer,0,Thu,1,Clear + Few clouds,0.64,0,May,17,0.47,259
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Aug,10,0.45,138
+winter,0,Sun,0,Clear + Few clouds,0.28,1,Nov,16,0.38,170
+winter,0,Thu,1,Clear + Few clouds,0.3,0,Nov,6,0.87,98
+winter,0,Fri,1,Clear + Few clouds,0.58,0,Sep,21,0.56,225
+winter,0,Sat,1,Clear + Few clouds,0.56,0,Oct,3,0.94,7
+springer,0,Wed,1,Clear + Few clouds,0.38,1,Feb,18,0.4,425
+springer,0,Wed,1,Clear + Few clouds,0.26,0,Mar,21,0.56,63
+fall,0,Wed,1,Clear + Few clouds,0.7,1,Aug,11,0.54,256
+springer,0,Fri,1,Clear + Few clouds,0.24,1,Dec,6,0.7,45
+springer,0,Tue,1,Mist + Cloudy,0.2,0,Jan,12,0.4,52
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.36,0,Nov,6,0.57,75
+summer,0,Sat,1,Clear + Few clouds,0.7,1,Jun,11,0.42,264
+winter,0,Fri,1,Mist + Cloudy,0.26,0,Dec,0,0.87,21
+summer,0,Tue,1,Clear + Few clouds,0.44,1,Apri,5,0.24,32
+springer,0,Mon,0,Clear + Few clouds,0.48,0,Mar,15,0.39,304
+fall,0,Thu,1,Clear + Few clouds,0.5,1,Sep,4,0.72,5
+fall,0,Tue,1,Mist + Cloudy,0.72,0,Jun,12,0.54,170
+winter,0,Mon,0,Clear + Few clouds,0.44,1,Dec,14,0.62,473
+fall,0,Thu,1,Clear + Few clouds,0.52,1,Sep,7,0.72,557
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Aug,5,0.73,35
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Jun,18,0.43,790
+fall,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.64,0,Sep,18,0.83,408
+summer,0,Sat,1,Clear + Few clouds,0.5,1,Jun,5,0.72,29
+fall,0,Thu,1,Clear + Few clouds,0.82,0,Aug,12,0.38,240
+summer,0,Thu,1,Clear + Few clouds,0.52,1,Mar,0,0.88,33
+winter,0,Thu,1,Clear + Few clouds,0.24,1,Dec,4,0.75,7
+fall,0,Tue,1,Clear + Few clouds,0.52,1,Sep,3,0.68,12
+fall,0,Tue,1,Clear + Few clouds,0.74,1,Aug,19,0.58,555
+winter,0,Sun,0,Mist + Cloudy,0.56,0,Sep,7,0.88,46
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.7,1,May,20,0.61,204
+winter,0,Wed,1,Clear + Few clouds,0.36,0,Nov,23,0.76,53
+summer,0,Mon,0,Mist + Cloudy,0.52,0,Apri,16,0.72,288
+fall,0,Thu,1,Clear + Few clouds,0.76,1,July,12,0.33,310
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Dec,11,0.94,32
+springer,0,Tue,1,Mist + Cloudy,0.24,1,Dec,12,0.56,224
+winter,0,Mon,0,Clear + Few clouds,0.22,0,Oct,2,0.87,50
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.22,1,Feb,5,0.93,2
+winter,0,Sun,0,Mist + Cloudy,0.44,0,Oct,10,0.62,236
+summer,0,Sat,1,Clear + Few clouds,0.34,1,Apri,2,0.49,11
+springer,0,Thu,1,Mist + Cloudy,0.5,0,Dec,19,0.94,209
+winter,0,Sat,1,Clear + Few clouds,0.24,0,Dec,8,0.81,385
+fall,0,Sun,0,Clear + Few clouds,0.74,0,July,19,0.33,256
+springer,0,Mon,0,Clear + Few clouds,0.34,1,Jan,3,0.42,32
+fall,0,Fri,1,Mist + Cloudy,0.76,0,July,0,0.75,42
+fall,0,Thu,1,Mist + Cloudy,0.76,0,Aug,4,0.52,7
+summer,0,Sat,1,Clear + Few clouds,0.72,1,Jun,14,0.39,376
+summer,0,Tue,1,Clear + Few clouds,0.72,0,Apri,19,0.51,284
+winter,0,Fri,1,Mist + Cloudy,0.6,0,Sep,1,1.0,23
+winter,0,Thu,1,Clear + Few clouds,0.5,0,Oct,23,0.77,73
+fall,0,Thu,1,Clear + Few clouds,0.84,0,Aug,17,0.26,584
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,Oct,10,1.0,69
+springer,0,Sat,1,Mist + Cloudy,0.24,1,Dec,21,0.7,92
+summer,0,Tue,1,Clear + Few clouds,0.38,0,Apri,2,0.66,2
+fall,0,Mon,0,Clear + Few clouds,0.74,1,Aug,19,0.4,465
+summer,0,Fri,1,Clear + Few clouds,0.74,0,Jun,18,0.22,525
+fall,0,Mon,0,Clear + Few clouds,0.54,1,Sep,2,0.77,96
+fall,0,Sat,1,Mist + Cloudy,0.8,1,July,16,0.36,492
+springer,0,Tue,1,Mist + Cloudy,0.32,0,Feb,12,0.62,66
+winter,0,Tue,1,Clear + Few clouds,0.66,0,Sep,19,0.82,383
+winter,0,Mon,0,Clear + Few clouds,0.16,0,Dec,1,0.59,62
+fall,0,Sat,1,Clear + Few clouds,0.52,1,Sep,2,0.72,14
+summer,0,Mon,0,Clear + Few clouds,0.7,0,Jun,19,0.74,223
+fall,0,Wed,1,Clear + Few clouds,0.78,0,July,21,0.62,245
+winter,0,Sat,1,Clear + Few clouds,0.66,1,Oct,14,0.61,365
+winter,0,Thu,1,Clear + Few clouds,0.26,0,Nov,7,0.81,285
+springer,0,Mon,0,Clear + Few clouds,0.38,1,Jan,17,0.4,219
+winter,0,Sat,1,Clear + Few clouds,0.28,1,Nov,9,0.75,112
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.42,0,Apri,22,1.0,24
+fall,0,Tue,1,Clear + Few clouds,0.82,0,July,11,0.56,128
+springer,0,Tue,1,Clear + Few clouds,0.4,0,Feb,18,0.4,205
+springer,0,Thu,1,Mist + Cloudy,0.34,1,Jan,16,0.87,118
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Jan,7,0.81,126
+fall,0,Mon,0,Clear + Few clouds,0.76,0,Sep,18,0.66,356
+winter,0,Fri,1,Clear + Few clouds,0.26,0,Nov,22,0.52,84
+springer,0,Fri,1,Mist + Cloudy,0.3,0,Jan,16,0.49,91
+winter,0,Mon,0,Clear + Few clouds,0.36,0,Dec,12,0.81,329
+springer,0,Mon,0,Mist + Cloudy,0.24,0,Feb,9,0.6,47
+fall,0,Mon,0,Clear + Few clouds,0.46,0,Sep,8,0.72,69
+summer,0,Mon,0,Clear + Few clouds,0.56,1,May,22,0.73,157
+fall,0,Mon,0,Clear + Few clouds,0.7,1,Aug,22,0.58,181
+springer,0,Wed,1,Mist + Cloudy,0.32,1,Jan,10,0.57,144
+springer,0,Fri,1,Mist + Cloudy,0.28,0,Dec,21,0.61,68
+fall,0,Tue,1,Mist + Cloudy,0.74,1,July,12,0.58,266
+winter,0,Mon,0,Mist + Cloudy,0.3,1,Nov,23,0.56,53
+springer,0,Sat,1,Mist + Cloudy,0.3,1,Feb,23,0.7,65
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.52,1,Mar,12,0.94,183
+winter,0,Mon,0,Mist + Cloudy,0.22,1,Nov,7,0.51,21
+fall,0,Mon,0,Clear + Few clouds,0.84,1,Jun,16,0.3,461
+fall,0,Thu,1,Clear + Few clouds,0.52,1,Sep,8,0.59,797
+winter,0,Mon,0,Mist + Cloudy,0.26,1,Dec,5,0.93,8
+winter,0,Sun,0,Clear + Few clouds,0.6,1,Sep,17,0.38,712
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.54,0,Apri,23,1.0,42
+summer,0,Sat,1,Clear + Few clouds,0.36,0,Apri,1,0.53,24
+fall,0,Wed,1,Clear + Few clouds,0.68,0,July,6,0.83,110
+springer,0,Wed,1,Clear + Few clouds,0.24,1,Mar,10,0.44,129
+summer,0,Thu,1,Clear + Few clouds,0.52,0,May,9,0.72,203
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Apri,15,0.87,75
+winter,0,Sun,0,Clear + Few clouds,0.46,0,Oct,0,0.55,106
+fall,0,Thu,1,Clear + Few clouds,0.72,0,July,7,0.48,347
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.24,0,Mar,20,0.93,44
+springer,1,Tue,0,Clear + Few clouds,0.26,1,Feb,11,0.48,208
+fall,0,Sun,0,Clear + Few clouds,0.9,0,July,14,0.29,305
+summer,0,Tue,1,Clear + Few clouds,0.6,0,Jun,1,0.83,14
+fall,0,Mon,0,Clear + Few clouds,0.66,1,Sep,3,0.89,42
+fall,0,Fri,1,Clear + Few clouds,0.76,0,Aug,11,0.35,187
+winter,0,Fri,1,Mist + Cloudy,0.34,1,Nov,11,0.61,166
+springer,1,Tue,0,Mist + Cloudy,0.32,0,Feb,9,0.57,57
+springer,0,Sun,0,Mist + Cloudy,0.36,1,Mar,6,0.93,7
+fall,0,Fri,1,Clear + Few clouds,0.54,1,Sep,23,0.68,154
+summer,0,Sun,0,Clear + Few clouds,0.64,1,May,22,0.47,338
+springer,0,Fri,1,Mist + Cloudy,0.42,1,Feb,13,0.77,137
+winter,0,Sat,1,Mist + Cloudy,0.36,1,Dec,21,0.93,171
+springer,0,Mon,0,Mist + Cloudy,0.3,0,Feb,11,0.33,161
+springer,0,Sat,1,Clear + Few clouds,0.26,1,Feb,3,0.56,5
+summer,0,Tue,1,Clear + Few clouds,0.46,0,Apri,7,0.63,168
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.38,1,Apri,11,0.87,77
+springer,0,Sat,1,Clear + Few clouds,0.22,1,Dec,6,0.64,51
+summer,1,Tue,0,Clear + Few clouds,0.8,1,May,18,0.59,383
+winter,0,Sat,1,Mist + Cloudy,0.32,1,Nov,0,0.66,65
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.22,0,Jan,1,0.93,7
+summer,0,Mon,0,Clear + Few clouds,0.46,0,Apri,14,0.31,349
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Nov,11,0.94,60
+winter,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,9,1.0,111
+winter,0,Sun,0,Clear + Few clouds,0.5,0,Oct,20,0.48,179
+springer,0,Sat,1,Mist + Cloudy,0.2,0,Jan,12,0.37,59
+winter,0,Fri,1,Clear + Few clouds,0.36,0,Dec,12,0.46,148
+winter,0,Wed,1,Clear + Few clouds,0.44,1,Oct,1,0.67,13
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.4,1,Oct,17,0.82,157
+springer,0,Thu,1,Clear + Few clouds,0.16,0,Jan,2,0.74,2
+summer,0,Sat,1,Clear + Few clouds,0.66,1,Apri,16,0.44,580
+winter,0,Tue,1,Clear + Few clouds,0.46,1,Sep,6,0.59,168
+summer,0,Thu,1,Mist + Cloudy,0.64,1,May,13,0.53,266
+springer,0,Tue,1,Clear + Few clouds,0.24,1,Jan,0,0.6,15
+fall,0,Sun,0,Clear + Few clouds,0.72,0,Jun,19,0.48,375
+springer,0,Tue,1,Mist + Cloudy,0.54,1,Mar,13,0.32,250
+summer,0,Thu,1,Clear + Few clouds,0.86,0,Jun,17,0.47,486
+summer,0,Sun,0,Mist + Cloudy,0.3,0,Apri,7,0.93,21
+springer,0,Tue,1,Clear + Few clouds,0.22,0,Jan,12,0.35,61
+summer,0,Fri,1,Mist + Cloudy,0.7,0,Jun,15,0.61,159
+springer,0,Fri,1,Clear + Few clouds,0.62,1,Mar,17,0.38,597
+winter,0,Mon,0,Clear + Few clouds,0.36,0,Nov,1,0.81,44
+summer,0,Mon,0,Clear + Few clouds,0.52,1,May,6,0.68,21
+summer,0,Mon,0,Clear + Few clouds,0.32,0,Mar,14,0.36,164
+fall,0,Tue,1,Clear + Few clouds,0.6,1,Aug,1,0.83,10
+fall,0,Mon,0,Clear + Few clouds,0.5,1,Sep,7,0.77,71
+springer,0,Thu,1,Clear + Few clouds,0.5,0,Dec,22,0.88,105
+fall,0,Tue,1,Clear + Few clouds,0.74,0,Aug,8,0.58,349
+winter,0,Thu,1,Mist + Cloudy,0.4,0,Nov,16,0.62,173
+fall,0,Fri,1,Clear + Few clouds,0.7,1,Jun,5,0.84,40
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Feb,15,0.61,54
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.26,1,Dec,23,0.87,10
+summer,0,Thu,1,Clear + Few clouds,0.24,0,Apri,2,0.7,5
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Apri,6,0.46,144
+summer,0,Sun,0,Clear + Few clouds,0.64,1,May,1,0.83,82
+springer,0,Mon,0,Clear + Few clouds,0.3,1,Feb,16,0.56,296
+fall,0,Mon,0,Clear + Few clouds,0.8,1,Aug,17,0.33,505
+fall,0,Fri,1,Clear + Few clouds,0.68,1,Aug,3,0.83,6
+winter,1,Fri,0,Clear + Few clouds,0.32,0,Nov,1,0.57,24
+winter,1,Tue,0,Clear + Few clouds,0.34,1,Oct,3,0.81,10
+winter,0,Wed,1,Clear + Few clouds,0.44,0,Nov,17,0.54,506
+fall,0,Sat,1,Mist + Cloudy,0.92,1,Jun,12,0.4,226
+fall,0,Mon,0,Clear + Few clouds,0.44,0,Sep,4,0.77,1
+summer,0,Thu,1,Clear + Few clouds,0.72,1,May,13,0.42,350
+summer,0,Sun,0,Clear + Few clouds,0.64,1,Jun,9,0.57,340
+summer,0,Sun,0,Clear + Few clouds,0.62,0,May,21,0.61,227
+winter,0,Thu,1,Clear + Few clouds,0.6,0,Oct,18,0.53,593
+fall,0,Mon,0,Clear + Few clouds,0.66,0,Sep,8,0.78,70
+springer,0,Sun,0,Clear + Few clouds,0.24,1,Feb,7,0.7,41
+winter,0,Fri,1,Mist + Cloudy,0.56,1,Oct,19,0.68,513
+springer,0,Thu,1,Clear + Few clouds,0.26,0,Jan,11,0.33,46
+fall,0,Wed,1,Clear + Few clouds,0.64,0,Aug,7,0.69,346
+summer,0,Sat,1,Clear + Few clouds,0.72,1,Jun,15,0.39,377
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.72,0,July,23,0.79,92
+winter,0,Fri,1,Mist + Cloudy,0.4,0,Dec,10,0.58,109
+summer,0,Sat,1,Clear + Few clouds,0.62,1,Jun,23,0.53,222
+fall,0,Mon,0,Clear + Few clouds,0.86,1,July,9,0.5,242
+summer,0,Wed,1,Mist + Cloudy,0.6,1,Jun,1,0.78,14
+summer,0,Sun,0,Clear + Few clouds,0.74,0,May,15,0.55,374
+winter,0,Mon,0,Clear + Few clouds,0.5,1,Oct,10,0.48,443
+summer,0,Thu,1,Clear + Few clouds,0.66,0,Apri,21,0.36,172
+fall,0,Mon,0,Clear + Few clouds,0.66,1,Aug,0,0.57,187
+winter,0,Thu,1,Mist + Cloudy,0.32,1,Nov,21,0.49,126
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.4,1,Oct,18,0.82,106
+fall,0,Sat,1,Clear + Few clouds,0.9,1,July,14,0.31,275
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.34,1,Dec,22,0.87,21
+winter,0,Sat,1,Clear + Few clouds,0.36,1,Dec,16,0.76,375
+springer,0,Sun,0,Clear + Few clouds,0.16,0,Jan,23,0.8,33
+fall,0,Wed,1,Clear + Few clouds,0.74,1,July,1,0.7,25
+springer,0,Fri,1,Clear + Few clouds,0.44,1,Mar,7,0.72,381
+summer,0,Tue,1,Clear + Few clouds,0.4,0,Apri,4,0.87,6
+fall,0,Sat,1,Clear + Few clouds,0.86,1,Aug,15,0.3,383
+summer,0,Fri,1,Clear + Few clouds,0.48,1,Jun,5,0.82,34
+springer,0,Tue,1,Clear + Few clouds,0.3,1,Mar,16,0.45,210
+summer,0,Sat,1,Clear + Few clouds,0.44,1,Apri,8,0.94,700
+summer,0,Fri,1,Clear + Few clouds,0.58,1,May,11,0.49,279
+springer,0,Mon,0,Clear + Few clouds,0.4,1,Jan,14,0.4,328
+winter,0,Tue,1,Clear + Few clouds,0.36,1,Nov,16,0.43,360
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.5,0,Oct,4,0.94,3
+summer,0,Sun,0,Clear + Few clouds,0.54,1,Mar,13,0.6,638
+winter,0,Mon,0,Clear + Few clouds,0.3,0,Dec,13,0.31,268
+summer,0,Tue,1,Mist + Cloudy,0.8,1,Jun,12,0.43,261
+winter,0,Wed,1,Clear + Few clouds,0.52,0,Oct,11,0.48,166
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Dec,7,0.44,20
+summer,0,Fri,1,Mist + Cloudy,0.62,0,Apri,4,0.83,9
+fall,0,Sat,1,Clear + Few clouds,0.78,0,Aug,13,0.29,253
+summer,0,Mon,0,Clear + Few clouds,0.74,0,May,14,0.7,351
+summer,0,Tue,1,Clear + Few clouds,0.66,0,May,16,0.61,269
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.24,1,Feb,22,0.75,55
+summer,0,Tue,1,Clear + Few clouds,0.66,1,Jun,15,0.39,292
+winter,0,Tue,1,Mist + Cloudy,0.36,1,Dec,3,0.93,3
+fall,0,Tue,1,Mist + Cloudy,0.6,1,Aug,22,0.83,161
+winter,0,Fri,1,Clear + Few clouds,0.34,0,Nov,1,0.81,15
+summer,0,Tue,1,Clear + Few clouds,0.64,1,Jun,4,0.78,7
+summer,0,Tue,1,Clear + Few clouds,0.24,0,Mar,10,0.3,69
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.38,0,Dec,7,0.76,19
+springer,0,Sat,1,Mist + Cloudy,0.3,0,Mar,20,0.7,87
+fall,0,Wed,1,Clear + Few clouds,0.72,1,July,3,0.66,3
+summer,0,Fri,1,Mist + Cloudy,0.48,1,Apri,3,0.55,6
+winter,0,Thu,1,Mist + Cloudy,0.54,0,Oct,6,0.88,112
+fall,0,Fri,1,Mist + Cloudy,0.74,0,Jun,16,0.62,275
+fall,0,Sat,1,Mist + Cloudy,0.66,0,July,23,0.78,151
+winter,0,Thu,1,Clear + Few clouds,0.66,1,Oct,22,0.74,241
+fall,0,Tue,1,Clear + Few clouds,0.88,0,Aug,11,0.32,119
+winter,0,Thu,1,Mist + Cloudy,0.4,1,Oct,20,0.5,268
+fall,0,Mon,0,Clear + Few clouds,0.7,0,Jun,23,0.54,78
+summer,0,Fri,1,Clear + Few clouds,0.74,1,May,17,0.55,798
+summer,0,Fri,1,Clear + Few clouds,0.5,0,Apri,10,0.51,89
+fall,0,Sat,1,Mist + Cloudy,0.66,1,July,3,0.89,36
+springer,0,Tue,1,Clear + Few clouds,0.34,0,Mar,17,0.29,233
+fall,0,Mon,0,Clear + Few clouds,0.64,0,Sep,3,0.89,43
+summer,0,Tue,1,Clear + Few clouds,0.32,0,Mar,18,0.21,241
+fall,0,Sun,0,Clear + Few clouds,0.68,1,July,5,0.79,14
+fall,0,Mon,0,Clear + Few clouds,0.86,0,July,14,0.5,283
+summer,0,Thu,1,Clear + Few clouds,0.88,0,Jun,12,0.42,149
+summer,0,Sat,1,Clear + Few clouds,0.4,1,Apri,23,0.4,116
+springer,0,Sat,1,Clear + Few clouds,0.4,1,Feb,18,0.35,377
+winter,0,Wed,1,Clear + Few clouds,0.3,0,Nov,7,0.87,323
+summer,0,Thu,1,Clear + Few clouds,0.5,0,May,16,0.45,195
+fall,0,Sat,1,Clear + Few clouds,0.78,0,July,19,0.25,318
+summer,0,Fri,1,Mist + Cloudy,0.5,1,Apri,13,0.82,197
+summer,0,Wed,1,Mist + Cloudy,0.34,0,Mar,11,0.25,81
+fall,0,Thu,1,Mist + Cloudy,0.54,0,Sep,7,1.0,330
+springer,0,Mon,0,Mist + Cloudy,0.24,1,Feb,8,0.75,62
+springer,0,Fri,1,Clear + Few clouds,0.54,1,Feb,14,0.37,192
+springer,0,Sun,0,Clear + Few clouds,0.14,1,Feb,21,0.43,48
+fall,0,Sat,1,Clear + Few clouds,0.82,0,July,15,0.21,381
+winter,0,Tue,1,Mist + Cloudy,0.62,1,Oct,15,0.43,329
+fall,0,Wed,1,Clear + Few clouds,0.9,0,Aug,16,0.25,274
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Jan,8,0.81,93
+fall,0,Fri,1,Clear + Few clouds,0.68,1,July,8,0.65,702
+winter,0,Thu,1,Clear + Few clouds,0.42,0,Oct,6,0.71,92
+summer,0,Sat,1,Clear + Few clouds,0.46,1,Apri,14,0.33,300
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Aug,3,0.83,9
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Sep,5,0.88,21
+springer,0,Sun,0,Clear + Few clouds,0.3,1,Feb,11,0.39,210
+winter,0,Thu,1,Clear + Few clouds,0.42,1,Dec,15,0.5,237
+summer,0,Sun,0,Clear + Few clouds,0.48,1,May,3,0.59,34
+summer,0,Fri,1,Clear + Few clouds,0.74,1,May,18,0.3,785
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Jan,2,0.6,41
+fall,0,Fri,1,Mist + Cloudy,0.7,1,Aug,21,0.58,336
+summer,0,Sun,0,Clear + Few clouds,0.36,1,Apri,1,0.5,67
+winter,0,Sun,0,Mist + Cloudy,0.64,0,Sep,16,0.78,449
+winter,0,Sun,0,Mist + Cloudy,0.26,0,Dec,9,0.56,100
+summer,0,Sun,0,Clear + Few clouds,0.74,0,Jun,10,0.58,264
+springer,0,Wed,1,Mist + Cloudy,0.2,0,Feb,13,0.86,52
+winter,0,Wed,1,Clear + Few clouds,0.36,0,Dec,1,0.53,6
+springer,0,Sun,0,Clear + Few clouds,0.4,0,Feb,9,0.16,55
+winter,0,Fri,1,Clear + Few clouds,0.6,1,Oct,14,0.73,285
+summer,0,Fri,1,Clear + Few clouds,0.56,0,Apri,0,0.43,44
+fall,0,Fri,1,Clear + Few clouds,0.58,0,Sep,2,0.78,25
+fall,0,Sun,0,Mist + Cloudy,0.58,1,July,9,0.83,207
+fall,0,Wed,1,Clear + Few clouds,0.74,1,July,9,0.66,331
+fall,0,Tue,1,Clear + Few clouds,0.74,0,Aug,14,0.3,225
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.44,1,Nov,1,0.88,5
+springer,0,Mon,0,Mist + Cloudy,0.36,0,Feb,23,0.62,59
+fall,0,Fri,1,Mist + Cloudy,0.64,0,Sep,19,0.89,420
+fall,0,Sat,1,Clear + Few clouds,0.9,1,Aug,14,0.25,436
+winter,0,Sun,0,Mist + Cloudy,0.32,0,Dec,22,0.61,114
+summer,0,Wed,1,Clear + Few clouds,0.9,0,May,16,0.39,249
+fall,0,Tue,1,Clear + Few clouds,0.84,0,July,19,0.59,373
+summer,0,Tue,1,Clear + Few clouds,0.58,1,Jun,23,0.49,86
+summer,0,Sat,1,Clear + Few clouds,0.66,0,Jun,6,0.78,104
+winter,0,Wed,1,Mist + Cloudy,0.54,1,Oct,14,0.64,244
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.48,1,Mar,2,0.77,11
+winter,0,Sat,1,Mist + Cloudy,0.38,1,Nov,12,0.46,268
+winter,0,Fri,1,Mist + Cloudy,0.32,1,Nov,10,0.66,153
+fall,0,Wed,1,Mist + Cloudy,0.7,1,Aug,9,0.74,402
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Dec,0,1.0,20
+fall,0,Wed,1,Clear + Few clouds,0.48,1,Sep,3,0.67,8
+springer,1,Tue,0,Clear + Few clouds,0.38,1,Feb,17,0.27,253
+fall,0,Thu,1,Clear + Few clouds,0.8,0,Jun,18,0.29,588
+fall,0,Sat,1,Clear + Few clouds,0.7,0,Sep,18,0.79,410
+fall,0,Mon,0,Clear + Few clouds,0.8,0,July,19,0.55,274
+summer,0,Mon,0,Clear + Few clouds,0.62,1,Jun,21,0.43,246
+springer,0,Sat,1,Clear + Few clouds,0.32,0,Dec,22,0.66,47
+summer,0,Wed,1,Clear + Few clouds,0.72,0,Apri,14,0.58,155
+springer,0,Sun,0,Clear + Few clouds,0.12,0,Feb,5,0.74,1
+springer,0,Mon,0,Clear + Few clouds,0.26,0,Feb,21,0.6,27
+summer,0,Sat,1,Clear + Few clouds,0.56,0,Apri,13,0.37,308
+springer,0,Thu,1,Clear + Few clouds,0.16,0,Jan,21,0.55,57
+fall,0,Thu,1,Clear + Few clouds,0.76,0,Sep,17,0.52,599
+fall,0,Sat,1,Clear + Few clouds,0.64,1,Aug,5,0.78,38
+summer,0,Sun,0,Clear + Few clouds,0.42,0,May,0,0.82,86
+winter,0,Sat,1,Clear + Few clouds,0.24,1,Nov,5,0.81,10
+summer,0,Sun,0,Mist + Cloudy,0.54,0,Apri,20,0.88,183
+summer,0,Sat,1,Clear + Few clouds,0.36,1,Apri,2,0.5,11
+summer,0,Mon,0,Clear + Few clouds,0.68,0,Jun,2,0.74,72
+springer,0,Sat,1,Clear + Few clouds,0.1,0,Feb,6,0.68,24
+summer,0,Sun,0,Clear + Few clouds,0.54,1,Jun,7,0.68,78
+springer,0,Thu,1,Clear + Few clouds,0.42,1,Feb,15,0.41,171
+springer,0,Mon,0,Mist + Cloudy,0.3,1,Feb,2,0.36,48
+winter,0,Fri,1,Mist + Cloudy,0.3,1,Nov,8,0.61,646
+fall,0,Mon,0,Clear + Few clouds,0.54,1,Sep,23,0.68,94
+fall,0,Thu,1,Clear + Few clouds,0.76,0,Aug,18,0.55,556
+springer,0,Tue,1,Clear + Few clouds,0.28,1,Feb,23,0.41,36
+winter,0,Thu,1,Mist + Cloudy,0.52,0,Oct,17,0.77,454
+springer,0,Tue,1,Clear + Few clouds,0.2,1,Dec,2,0.75,5
+winter,0,Sun,0,Clear + Few clouds,0.44,1,Nov,20,0.54,192
+fall,0,Wed,1,Clear + Few clouds,0.76,1,July,19,0.62,632
+winter,0,Wed,1,Mist + Cloudy,0.44,0,Dec,21,1.0,114
+summer,0,Fri,1,Clear + Few clouds,0.64,1,Jun,21,0.65,337
+winter,0,Sun,0,Clear + Few clouds,0.3,0,Dec,0,0.49,62
+summer,0,Mon,0,Mist + Cloudy,0.48,0,May,10,0.63,264
+summer,0,Sat,1,Clear + Few clouds,0.42,1,Apri,23,0.3,113
+summer,0,Sat,1,Clear + Few clouds,0.4,1,Apri,0,0.43,61
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,Jun,12,0.78,168
+springer,0,Mon,0,Clear + Few clouds,0.16,1,Jan,23,0.43,29
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.6,1,May,7,0.78,483
+summer,0,Tue,1,Mist + Cloudy,0.56,0,May,0,0.88,41
+winter,0,Tue,1,Mist + Cloudy,0.42,1,Dec,19,0.88,340
+summer,0,Mon,0,Clear + Few clouds,0.68,0,May,21,0.83,229
+winter,0,Sun,0,Mist + Cloudy,0.36,1,Nov,14,0.5,455
+winter,1,Tue,0,Clear + Few clouds,0.48,0,Oct,2,0.88,19
+springer,0,Sat,1,Clear + Few clouds,0.46,0,Feb,4,0.67,1
+fall,0,Sun,0,Clear + Few clouds,0.68,0,Aug,2,0.57,74
+summer,0,Thu,1,Clear + Few clouds,0.76,0,Jun,9,0.58,202
+winter,0,Sat,1,Mist + Cloudy,0.54,1,Oct,0,0.77,71
+fall,0,Tue,1,Mist + Cloudy,0.6,0,Aug,1,0.88,10
+summer,0,Sun,0,Clear + Few clouds,0.6,0,May,7,0.83,50
+springer,0,Thu,1,Mist + Cloudy,0.46,1,Jan,1,0.77,10
+springer,0,Fri,1,Clear + Few clouds,0.48,1,Feb,11,0.48,182
+springer,0,Tue,1,Clear + Few clouds,0.34,1,Feb,18,0.25,405
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Feb,1,0.49,6
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.42,0,Dec,16,0.94,31
+summer,0,Fri,1,Clear + Few clouds,0.36,0,Apri,3,0.66,3
+winter,0,Thu,1,Clear + Few clouds,0.52,0,Oct,22,0.72,154
+fall,0,Wed,1,Clear + Few clouds,0.7,1,July,1,0.74,15
+summer,0,Tue,1,Clear + Few clouds,0.6,0,May,9,0.88,167
+fall,0,Fri,1,Mist + Cloudy,0.62,0,Sep,9,1.0,69
+winter,0,Mon,0,Clear + Few clouds,0.38,1,Oct,3,0.66,41
+fall,0,Sat,1,Clear + Few clouds,0.76,1,Aug,22,0.7,202
+fall,0,Wed,1,Clear + Few clouds,0.92,1,July,15,0.31,244
+winter,0,Thu,1,Mist + Cloudy,0.52,0,Oct,0,0.77,34
+fall,0,Mon,0,Clear + Few clouds,0.64,1,Aug,20,0.89,211
+winter,0,Tue,1,Clear + Few clouds,0.24,0,Oct,2,0.87,3
+fall,0,Sat,1,Mist + Cloudy,0.76,1,Jun,0,0.7,93
+winter,0,Wed,1,Clear + Few clouds,0.46,0,Oct,7,0.88,341
+springer,0,Sat,1,Mist + Cloudy,0.16,0,Jan,7,0.86,60
+summer,0,Sat,1,Clear + Few clouds,0.36,1,Mar,23,0.71,123
+summer,0,Wed,1,Mist + Cloudy,0.64,1,Jun,9,0.89,285
+springer,0,Mon,0,Clear + Few clouds,0.36,1,Jan,2,0.37,67
+winter,0,Sun,0,Clear + Few clouds,0.6,1,Sep,15,0.43,727
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Apri,13,0.87,40
+fall,0,Thu,1,Clear + Few clouds,0.64,1,Aug,23,0.83,140
+summer,0,Fri,1,Clear + Few clouds,0.42,1,Apri,22,0.35,158
+fall,0,Fri,1,Clear + Few clouds,0.82,1,Aug,14,0.32,248
+fall,0,Mon,0,Clear + Few clouds,0.72,0,July,9,0.58,184
+fall,0,Wed,1,Clear + Few clouds,0.7,0,Jun,23,0.7,81
+summer,0,Thu,1,Clear + Few clouds,0.82,1,Jun,22,0.46,257
+springer,0,Fri,1,Mist + Cloudy,0.6,1,Mar,13,0.49,233
+summer,0,Mon,0,Clear + Few clouds,0.58,1,Jun,23,0.53,108
+summer,0,Sun,0,Mist + Cloudy,0.64,1,Apri,15,0.27,658
+springer,0,Sat,1,Clear + Few clouds,0.22,0,Dec,5,0.75,10
+fall,0,Fri,1,Clear + Few clouds,0.76,1,Aug,17,0.45,820
+summer,0,Tue,1,Clear + Few clouds,0.52,1,Apri,19,0.34,421
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.24,1,Feb,21,0.93,78
+winter,0,Wed,1,Mist + Cloudy,0.58,0,Oct,21,0.78,175
+summer,0,Thu,1,Clear + Few clouds,0.52,0,Apri,15,0.32,117
+winter,0,Sat,1,Mist + Cloudy,0.66,0,Sep,13,0.47,266
+summer,0,Mon,0,Clear + Few clouds,0.44,0,Apri,12,0.38,313
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Sep,20,0.88,163
+springer,0,Wed,1,Clear + Few clouds,0.28,1,Feb,7,0.45,325
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.4,1,Feb,15,0.87,94
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Jan,8,0.55,249
+fall,1,Thu,0,Clear + Few clouds,0.9,1,July,14,0.37,547
+summer,0,Tue,1,Mist + Cloudy,0.6,1,May,11,0.83,106
+fall,0,Sat,1,Mist + Cloudy,0.72,1,Aug,19,0.58,536
+winter,0,Wed,1,Mist + Cloudy,0.5,0,Nov,19,0.72,286
+winter,0,Mon,0,Mist + Cloudy,0.52,0,Nov,15,0.68,351
+winter,0,Mon,0,Clear + Few clouds,0.44,1,Oct,1,0.54,109
+winter,0,Wed,1,Clear + Few clouds,0.2,0,Dec,4,0.8,4
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.4,1,Nov,17,0.5,689
+winter,0,Mon,0,Mist + Cloudy,0.54,0,Nov,14,0.28,371
+springer,0,Sun,0,Mist + Cloudy,0.32,0,Jan,15,0.36,129
+fall,0,Tue,1,Clear + Few clouds,0.72,1,July,21,0.7,322
+winter,0,Sat,1,Clear + Few clouds,0.5,1,Nov,14,0.36,435
+summer,0,Sat,1,Mist + Cloudy,0.5,0,May,3,0.88,4
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.16,1,Jan,10,0.93,45
+summer,0,Thu,1,Clear + Few clouds,0.9,0,Jun,15,0.39,152
+summer,0,Tue,1,Mist + Cloudy,0.5,0,Apri,9,0.55,169
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.58,1,Oct,6,0.83,179
+springer,0,Mon,0,Clear + Few clouds,0.36,0,Mar,5,0.62,3
+fall,0,Fri,1,Clear + Few clouds,0.44,1,Sep,5,0.77,56
+winter,0,Mon,0,Clear + Few clouds,0.32,1,Nov,4,0.81,11
+winter,0,Tue,1,Clear + Few clouds,0.4,1,Oct,1,0.71,11
+springer,0,Fri,1,Mist + Cloudy,0.14,0,Feb,4,0.59,1
+springer,0,Sun,0,Clear + Few clouds,0.3,1,Dec,18,0.7,110
+springer,0,Mon,0,Mist + Cloudy,0.18,1,Jan,2,0.74,47
+fall,0,Sat,1,Clear + Few clouds,0.72,0,Aug,20,0.42,287
+fall,0,Mon,0,Clear + Few clouds,0.72,1,July,22,0.74,130
+fall,0,Fri,1,Clear + Few clouds,0.76,1,Aug,13,0.48,290
+winter,0,Wed,1,Clear + Few clouds,0.32,1,Nov,0,0.7,29
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.6,0,Sep,7,0.94,185
+springer,0,Sun,0,Clear + Few clouds,0.14,1,Jan,3,0.54,20
+springer,0,Mon,0,Clear + Few clouds,0.2,0,Jan,18,0.4,67
+winter,0,Mon,0,Mist + Cloudy,0.38,1,Nov,17,0.66,280
+fall,0,Wed,1,Clear + Few clouds,0.8,0,July,10,0.31,138
+winter,0,Wed,1,Mist + Cloudy,0.64,0,Oct,13,0.38,219
+summer,0,Sun,0,Clear + Few clouds,0.56,0,May,20,0.43,219
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.26,1,Dec,17,0.93,53
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.34,1,Jan,21,0.87,29
+springer,0,Sun,0,Mist + Cloudy,0.02,0,Jan,4,0.48,3
+winter,0,Mon,0,Mist + Cloudy,0.54,0,Nov,13,0.6,369
+winter,0,Sun,0,Clear + Few clouds,0.5,1,Oct,15,0.36,615
+fall,0,Tue,1,Clear + Few clouds,0.74,1,July,7,0.51,398
+springer,0,Wed,1,Clear + Few clouds,0.2,1,Mar,2,0.44,4
+springer,0,Mon,0,Clear + Few clouds,0.24,1,Feb,2,0.44,42
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Jan,15,0.35,82
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.22,1,Feb,7,0.93,19
+summer,0,Mon,0,Clear + Few clouds,0.62,1,Apri,21,0.57,229
+springer,0,Fri,1,Clear + Few clouds,0.44,1,Mar,20,0.44,254
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,9,0.88,186
+winter,0,Thu,1,Clear + Few clouds,0.48,0,Nov,13,0.48,161
+winter,0,Thu,1,Clear + Few clouds,0.36,1,Dec,20,0.57,241
+fall,1,Tue,0,Clear + Few clouds,0.64,0,July,6,0.89,16
+fall,0,Sat,1,Clear + Few clouds,0.66,1,Aug,6,0.83,163
+springer,0,Thu,1,Clear + Few clouds,0.22,1,Jan,3,0.8,4
+summer,0,Sun,0,Clear + Few clouds,0.54,1,Mar,2,0.77,69
+fall,0,Mon,0,Clear + Few clouds,0.8,1,July,18,0.41,419
+springer,0,Sun,0,Clear + Few clouds,0.3,1,Mar,11,0.33,274
+winter,0,Thu,1,Mist + Cloudy,0.52,0,Nov,10,0.94,76
+springer,0,Fri,1,Clear + Few clouds,0.42,1,Mar,6,0.77,109
+fall,0,Wed,1,Clear + Few clouds,0.68,1,Sep,14,0.3,255
+fall,0,Tue,1,Clear + Few clouds,0.7,1,Aug,17,0.58,893
+summer,0,Sat,1,Clear + Few clouds,0.6,1,May,10,0.46,255
+fall,0,Mon,0,Clear + Few clouds,0.74,0,July,22,0.66,143
+springer,0,Wed,1,Clear + Few clouds,0.28,0,Jan,17,0.48,212
+springer,0,Sun,0,Mist + Cloudy,0.16,0,Jan,6,0.74,2
+springer,0,Sat,1,Clear + Few clouds,0.34,1,Jan,20,0.53,159
+summer,0,Wed,1,Mist + Cloudy,0.6,0,May,12,0.38,217
+springer,0,Thu,1,Mist + Cloudy,0.3,0,Mar,6,0.93,31
+summer,0,Sat,1,Clear + Few clouds,0.34,1,Apri,4,0.49,5
+summer,0,Mon,0,Clear + Few clouds,0.54,1,Apri,12,0.24,457
+fall,0,Tue,1,Clear + Few clouds,0.7,0,Aug,21,0.7,220
+fall,0,Sun,0,Mist + Cloudy,0.64,1,Aug,6,0.78,30
+springer,0,Thu,1,Clear + Few clouds,0.14,0,Feb,0,0.5,6
+springer,0,Mon,0,Clear + Few clouds,0.34,0,Mar,0,0.49,40
+springer,0,Sun,0,Clear + Few clouds,0.44,1,Feb,14,0.35,427
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.46,1,Jan,18,0.59,106
+winter,0,Fri,1,Mist + Cloudy,0.28,1,Dec,0,0.52,32
+winter,0,Wed,1,Mist + Cloudy,0.44,1,Dec,1,0.94,15
+springer,0,Sun,0,Clear + Few clouds,0.42,1,Jan,18,0.41,241
+springer,0,Sat,1,Clear + Few clouds,0.22,0,Mar,9,0.6,150
+fall,0,Sat,1,Clear + Few clouds,0.74,1,Sep,19,0.62,568
+springer,0,Thu,1,Mist + Cloudy,0.44,0,Mar,17,0.54,253
+winter,0,Tue,1,Clear + Few clouds,0.2,0,Dec,8,0.75,397
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Jan,23,0.47,8
+fall,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.72,1,Sep,14,0.79,457
+winter,0,Sun,0,Mist + Cloudy,0.5,0,Nov,15,0.42,314
+winter,0,Fri,1,Mist + Cloudy,0.6,0,Sep,5,0.88,22
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Aug,8,0.54,487
+winter,0,Fri,1,Mist + Cloudy,0.38,0,Nov,7,0.94,272
+fall,0,Sat,1,Mist + Cloudy,0.54,0,Sep,14,0.45,225
+fall,1,Tue,0,Mist + Cloudy,0.74,0,July,22,0.62,326
+fall,0,Fri,1,Clear + Few clouds,0.54,1,Sep,1,0.77,28
+springer,0,Wed,1,Clear + Few clouds,0.34,0,Mar,19,0.31,150
+summer,1,Tue,0,Clear + Few clouds,0.62,1,Apri,10,0.69,224
+summer,0,Tue,1,Mist + Cloudy,0.62,1,Jun,21,0.73,273
+fall,0,Thu,1,Clear + Few clouds,0.76,0,Aug,15,0.48,204
+springer,0,Sat,1,Clear + Few clouds,0.1,0,Jan,3,0.54,1
+winter,0,Mon,0,Clear + Few clouds,0.26,1,Nov,5,0.65,5
+springer,0,Fri,1,Mist + Cloudy,0.56,0,Feb,16,0.35,146
+springer,0,Thu,1,Clear + Few clouds,0.4,0,Jan,13,0.62,78
+winter,0,Fri,1,Clear + Few clouds,0.46,0,Oct,19,0.51,298
+springer,0,Fri,1,Clear + Few clouds,0.26,0,Jan,13,0.35,67
+summer,0,Sun,0,Mist + Cloudy,0.64,1,Apri,16,0.27,582
+springer,0,Sun,0,Clear + Few clouds,0.16,0,Jan,7,0.59,5
+winter,0,Fri,1,Clear + Few clouds,0.52,1,Oct,15,0.34,460
+fall,0,Thu,1,Clear + Few clouds,0.7,1,July,8,0.42,788
+fall,0,Fri,1,Clear + Few clouds,0.58,0,Jun,4,0.64,6
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Nov,22,0.56,60
+springer,0,Sat,1,Clear + Few clouds,0.38,1,Mar,11,0.46,194
+winter,0,Sat,1,Clear + Few clouds,0.62,0,Sep,17,0.53,591
+winter,0,Wed,1,Clear + Few clouds,0.26,1,Nov,22,0.56,135
+fall,0,Wed,1,Clear + Few clouds,0.56,0,Aug,1,0.68,13
+springer,0,Thu,1,Clear + Few clouds,0.34,0,Feb,18,0.42,182
+winter,0,Thu,1,Clear + Few clouds,0.46,0,Oct,3,0.82,6
+fall,0,Sat,1,Clear + Few clouds,0.8,0,Jun,16,0.33,327
+fall,0,Sun,0,Clear + Few clouds,0.6,1,Sep,3,0.73,37
+fall,0,Sun,0,Mist + Cloudy,0.6,1,July,14,0.88,343
+fall,0,Sun,0,Clear + Few clouds,0.6,1,Sep,8,0.73,218
+winter,0,Sat,1,Clear + Few clouds,0.64,1,Oct,12,0.69,332
+springer,0,Thu,1,Clear + Few clouds,0.34,0,Jan,18,0.61,161
+summer,0,Sat,1,Mist + Cloudy,0.72,1,Mar,15,0.42,472
+winter,0,Sat,1,Mist + Cloudy,0.36,1,Dec,14,0.71,215
+winter,0,Sat,1,Clear + Few clouds,0.54,1,Oct,19,0.88,232
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.66,1,Sep,10,0.94,49
+fall,0,Fri,1,Mist + Cloudy,0.7,1,July,23,0.51,211
+springer,0,Sat,1,Clear + Few clouds,0.26,0,Dec,9,0.75,194
+winter,0,Tue,1,Clear + Few clouds,0.46,1,Oct,23,0.63,81
+winter,0,Wed,1,Clear + Few clouds,0.4,0,Oct,3,0.87,4
+winter,0,Mon,0,Clear + Few clouds,0.66,0,Oct,13,0.44,418
+winter,0,Wed,1,Clear + Few clouds,0.5,0,Nov,12,0.48,176
+winter,0,Fri,1,Clear + Few clouds,0.7,1,Oct,17,0.51,901
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.32,0,Apri,11,0.81,19
+summer,0,Sun,0,Mist + Cloudy,0.38,0,Apri,16,0.82,191
+springer,1,Tue,0,Mist + Cloudy,0.16,0,Jan,9,0.47,47
+fall,0,Sun,0,Clear + Few clouds,0.72,0,July,4,0.66,10
+winter,0,Mon,0,Clear + Few clouds,0.3,1,Nov,6,0.87,19
+summer,0,Thu,1,Clear + Few clouds,0.7,0,Apri,12,0.48,145
+fall,0,Wed,1,Clear + Few clouds,0.74,0,Aug,8,0.58,435
+fall,0,Mon,0,Clear + Few clouds,0.72,1,Sep,15,0.32,696
+springer,0,Fri,1,Clear + Few clouds,0.36,0,Mar,8,0.66,299
+summer,0,Thu,1,Clear + Few clouds,0.6,0,May,16,0.73,294
+summer,0,Thu,1,Clear + Few clouds,0.84,1,Jun,11,0.49,188
+winter,0,Thu,1,Mist + Cloudy,0.32,0,Nov,20,0.57,190
+springer,0,Sun,0,Mist + Cloudy,0.42,1,Mar,5,0.94,8
+springer,0,Tue,1,Clear + Few clouds,0.3,1,Feb,22,0.65,87
+summer,1,Tue,0,Clear + Few clouds,0.64,0,May,0,0.94,103
+fall,0,Sun,0,Clear + Few clouds,0.72,0,Jun,9,0.45,186
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.34,1,Feb,13,0.71,64
+summer,0,Thu,1,Clear + Few clouds,0.64,0,Jun,6,0.89,116
+fall,0,Fri,1,Clear + Few clouds,0.7,1,Jun,9,0.54,351
+winter,0,Wed,1,Clear + Few clouds,0.48,0,Nov,13,0.55,167
+summer,0,Thu,1,Clear + Few clouds,0.9,1,Jun,17,0.37,691
+winter,0,Thu,1,Mist + Cloudy,0.6,1,Oct,4,1.0,11
+summer,0,Sat,1,Clear + Few clouds,0.6,1,May,21,0.28,270
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Nov,7,0.61,168
+winter,0,Sat,1,Clear + Few clouds,0.4,0,Oct,0,0.62,50
+springer,0,Sat,1,Clear + Few clouds,0.42,1,Jan,20,0.41,177
+springer,0,Fri,1,Mist + Cloudy,0.46,0,Dec,14,0.63,159
+fall,0,Mon,0,Clear + Few clouds,0.54,1,Sep,7,0.73,70
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Mar,22,0.44,100
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,Sep,11,0.88,56
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Feb,10,0.6,183
+fall,0,Sun,0,Clear + Few clouds,0.84,0,July,9,0.49,132
+fall,0,Wed,1,Clear + Few clouds,0.56,1,Jun,2,0.43,9
+summer,0,Thu,1,Clear + Few clouds,0.58,1,May,7,0.83,468
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Feb,8,0.73,520
+fall,0,Sun,0,Clear + Few clouds,0.74,0,Jun,17,0.42,399
+summer,0,Fri,1,Mist + Cloudy,0.62,0,May,7,0.94,286
+summer,0,Sun,0,Clear + Few clouds,0.58,1,May,8,0.83,197
+summer,0,Tue,1,Mist + Cloudy,0.6,1,Jun,17,0.73,723
+fall,0,Sun,0,Clear + Few clouds,0.72,1,Aug,7,0.77,67
+summer,0,Fri,1,Clear + Few clouds,0.68,1,May,20,0.44,479
+fall,0,Wed,1,Clear + Few clouds,0.68,1,Sep,1,0.82,24
+fall,0,Sat,1,Mist + Cloudy,0.74,0,Aug,12,0.62,222
+springer,0,Fri,1,Clear + Few clouds,0.34,0,Mar,2,0.71,8
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.4,1,Dec,8,0.87,69
+fall,0,Fri,1,Mist + Cloudy,0.6,1,Aug,6,0.88,192
+fall,0,Mon,0,Clear + Few clouds,0.64,0,Sep,5,0.83,6
+winter,0,Mon,0,Mist + Cloudy,0.24,0,Dec,11,0.6,188
+winter,0,Wed,1,Clear + Few clouds,0.34,1,Nov,16,0.46,402
+summer,0,Wed,1,Clear + Few clouds,0.56,1,Apri,14,0.21,311
+springer,0,Sun,0,Clear + Few clouds,0.42,0,Dec,20,0.54,71
+summer,0,Thu,1,Clear + Few clouds,0.6,1,Mar,18,0.69,779
+summer,0,Fri,1,Clear + Few clouds,0.52,1,Mar,16,0.36,388
+winter,0,Wed,1,Clear + Few clouds,0.4,1,Oct,23,0.71,199
+springer,0,Sun,0,Mist + Cloudy,0.24,0,Feb,8,0.6,57
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.14,0,Feb,2,0.8,3
+fall,0,Mon,0,Clear + Few clouds,0.52,0,Sep,11,0.68,317
+springer,0,Sun,0,Clear + Few clouds,0.22,1,Mar,5,0.42,10
+springer,0,Thu,1,Clear + Few clouds,0.26,0,Jan,12,0.33,79
+fall,0,Fri,1,Clear + Few clouds,0.64,0,July,4,0.89,4
+summer,0,Mon,0,Clear + Few clouds,0.62,1,Apri,18,0.25,310
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.26,0,Apri,2,0.93,7
+fall,0,Sat,1,Clear + Few clouds,0.64,0,Aug,5,0.83,17
+fall,0,Sun,0,Clear + Few clouds,0.74,0,Jun,13,0.4,371
+winter,0,Sun,0,Clear + Few clouds,0.24,0,Oct,19,0.87,39
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Apri,4,0.81,3
+fall,0,Wed,1,Clear + Few clouds,0.74,0,Sep,15,0.51,180
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.52,0,May,0,0.77,27
+winter,0,Fri,1,Mist + Cloudy,0.5,0,Oct,13,0.88,74
+winter,0,Sun,0,Mist + Cloudy,0.52,1,Oct,20,0.72,296
+winter,0,Tue,1,Clear + Few clouds,0.46,1,Dec,20,0.88,300
+winter,0,Fri,1,Clear + Few clouds,0.26,0,Dec,22,0.65,92
+fall,0,Thu,1,Clear + Few clouds,0.62,1,Sep,16,0.35,466
+fall,0,Sun,0,Clear + Few clouds,0.78,1,Jun,14,0.33,609
+springer,0,Thu,1,Mist + Cloudy,0.3,0,Mar,5,0.93,3
+winter,0,Sat,1,Clear + Few clouds,0.66,0,Oct,15,0.41,270
+fall,0,Wed,1,Clear + Few clouds,0.8,0,Jun,16,0.59,335
+winter,0,Fri,1,Mist + Cloudy,0.36,1,Nov,7,0.57,420
+fall,0,Mon,0,Mist + Cloudy,0.64,1,Aug,8,0.69,124
+fall,0,Mon,0,Clear + Few clouds,0.76,0,Aug,13,0.45,431
+springer,0,Mon,0,Clear + Few clouds,0.3,1,Feb,18,0.52,181
+springer,0,Sun,0,Clear + Few clouds,0.44,0,Mar,10,0.38,140
+springer,0,Fri,1,Clear + Few clouds,0.52,1,Feb,13,0.39,218
+winter,0,Sun,0,Clear + Few clouds,0.46,0,Oct,8,0.82,103
+summer,0,Sun,0,Clear + Few clouds,0.54,1,Jun,5,0.68,23
+fall,0,Sat,1,Mist + Cloudy,0.68,0,Sep,13,0.65,279
+winter,0,Thu,1,Clear + Few clouds,0.4,0,Nov,20,0.66,182
+summer,0,Sat,1,Clear + Few clouds,0.52,1,Apri,14,0.27,348
+fall,0,Mon,0,Clear + Few clouds,0.74,1,Aug,7,0.74,68
+winter,0,Fri,1,Clear + Few clouds,0.32,0,Nov,5,0.81,28
+summer,0,Sat,1,Clear + Few clouds,0.56,1,Jun,0,0.56,77
+fall,0,Sat,1,Clear + Few clouds,0.64,1,Sep,7,0.89,486
+fall,0,Sun,0,Clear + Few clouds,0.64,1,Jun,6,0.89,42
+springer,0,Mon,0,Clear + Few clouds,0.36,1,Mar,11,0.43,299
+summer,0,Wed,1,Clear + Few clouds,0.4,0,Mar,6,0.87,60
+winter,0,Sun,0,Mist + Cloudy,0.4,0,Oct,12,0.82,158
+springer,0,Fri,1,Clear + Few clouds,0.14,1,Jan,10,0.59,108
+winter,0,Thu,1,Clear + Few clouds,0.44,1,Dec,17,0.35,605
+summer,0,Sat,1,Mist + Cloudy,0.62,1,May,10,0.73,199
+springer,0,Tue,1,Mist + Cloudy,0.26,1,Jan,21,1.0,120
+fall,0,Sun,0,Clear + Few clouds,0.86,0,July,10,0.41,198
+fall,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.8,0,July,17,0.49,358
+fall,0,Fri,1,Clear + Few clouds,0.7,1,Aug,22,0.7,291
+summer,0,Fri,1,Mist + Cloudy,0.6,0,May,19,0.64,364
+summer,0,Thu,1,Clear + Few clouds,0.68,1,Jun,1,0.79,27
+winter,0,Thu,1,Clear + Few clouds,0.46,0,Nov,12,0.55,189
+summer,0,Sun,0,Clear + Few clouds,0.54,1,Jun,4,0.68,13
+summer,0,Sun,0,Clear + Few clouds,0.6,0,May,22,0.69,204
+fall,0,Thu,1,Clear + Few clouds,0.82,1,July,9,0.56,297
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.44,1,Dec,12,1.0,173
+fall,0,Tue,1,Clear + Few clouds,0.72,0,Sep,13,0.54,163
+fall,0,Tue,1,Mist + Cloudy,0.74,1,July,14,0.55,242
+fall,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.64,1,Aug,11,0.78,272
+summer,0,Sat,1,Clear + Few clouds,0.36,1,Apri,10,0.4,238
+summer,0,Wed,1,Clear + Few clouds,0.26,1,Mar,10,0.35,138
+springer,0,Sun,0,Clear + Few clouds,0.34,0,Dec,14,0.39,85
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Jan,3,0.69,15
+summer,0,Mon,0,Mist + Cloudy,0.54,1,May,3,0.83,28
+winter,0,Wed,1,Mist + Cloudy,0.42,1,Nov,12,0.67,313
+summer,0,Sat,1,Clear + Few clouds,0.32,0,Apri,20,0.53,77
+winter,0,Wed,1,Mist + Cloudy,0.56,0,Oct,8,0.83,406
+winter,0,Sat,1,Clear + Few clouds,0.46,1,Nov,20,0.41,142
+springer,0,Fri,1,Clear + Few clouds,0.72,1,Mar,16,0.37,426
+summer,0,Thu,1,Mist + Cloudy,0.54,0,May,0,0.88,23
+fall,0,Fri,1,Mist + Cloudy,0.72,1,July,5,0.7,40
+fall,0,Mon,0,Clear + Few clouds,0.66,1,July,3,0.69,55
+winter,0,Mon,0,Clear + Few clouds,0.68,0,Sep,17,0.74,420
+springer,0,Sun,0,Clear + Few clouds,0.48,1,Mar,15,0.29,399
+springer,0,Fri,1,Mist + Cloudy,0.34,0,Feb,2,0.53,6
+fall,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.76,1,July,16,0.66,386
+fall,0,Sun,0,Clear + Few clouds,0.66,0,Aug,1,0.78,67
+summer,0,Sun,0,Clear + Few clouds,0.48,0,May,3,0.82,19
+springer,0,Sun,0,Clear + Few clouds,0.24,1,Feb,21,0.35,85
+winter,0,Sat,1,Mist + Cloudy,0.42,0,Oct,9,0.58,222
+summer,0,Mon,0,Clear + Few clouds,0.5,1,Mar,18,0.72,491
+springer,0,Wed,1,Mist + Cloudy,0.32,0,Jan,16,0.42,116
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Dec,3,0.48,7
+fall,0,Sun,0,Clear + Few clouds,0.8,1,Aug,21,0.59,289
+summer,0,Fri,1,Clear + Few clouds,0.48,0,May,3,1.0,4
+springer,0,Sun,0,Mist + Cloudy,0.3,1,Feb,0,0.7,53
+springer,1,Tue,0,Clear + Few clouds,0.26,1,Jan,19,0.56,144
+fall,0,Sat,1,Mist + Cloudy,0.64,1,Aug,1,0.73,42
+springer,0,Mon,0,Clear + Few clouds,0.14,0,Jan,10,0.46,58
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Feb,1,0.7,43
+winter,0,Fri,1,Clear + Few clouds,0.22,1,Dec,4,0.55,9
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,May,20,0.88,213
+summer,0,Thu,1,Mist + Cloudy,0.32,0,Mar,7,0.45,136
+springer,0,Wed,1,Clear + Few clouds,0.26,0,Feb,20,0.33,101
+fall,0,Wed,1,Clear + Few clouds,0.72,0,Aug,15,0.34,601
+summer,0,Thu,1,Clear + Few clouds,0.74,0,May,14,0.55,168
+summer,0,Thu,1,Clear + Few clouds,0.28,1,Apri,7,0.52,321
+fall,0,Fri,1,Mist + Cloudy,0.68,0,Aug,5,0.89,20
+springer,0,Tue,1,Mist + Cloudy,0.34,0,Feb,5,0.93,5
+winter,0,Sat,1,Mist + Cloudy,0.56,1,Sep,7,0.94,394
+springer,0,Fri,1,Clear + Few clouds,0.34,1,Jan,19,0.34,265
+winter,0,Sun,0,Clear + Few clouds,0.24,1,Nov,6,0.7,21
+springer,0,Thu,1,Mist + Cloudy,0.2,1,Jan,20,0.4,123
+winter,0,Mon,0,Clear + Few clouds,0.24,0,Nov,4,0.87,6
+springer,1,Wed,0,Clear + Few clouds,0.3,1,Dec,11,0.75,86
+winter,0,Fri,1,Mist + Cloudy,0.34,0,Nov,15,0.49,116
+winter,0,Wed,1,Mist + Cloudy,0.48,1,Oct,11,0.69,193
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.38,1,Dec,19,0.94,122
+fall,0,Fri,1,Clear + Few clouds,0.8,1,July,13,0.33,277
+springer,0,Mon,0,Mist + Cloudy,0.34,0,Feb,20,0.42,42
+summer,0,Wed,1,Mist + Cloudy,0.58,1,May,9,0.88,355
+summer,0,Tue,1,Clear + Few clouds,0.42,1,Apri,2,0.71,8
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.16,0,Jan,20,0.93,32
+fall,0,Sat,1,Mist + Cloudy,0.64,0,Sep,22,0.73,147
+springer,0,Sat,1,Mist + Cloudy,0.4,1,Mar,4,0.87,3
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.34,1,Apri,12,0.71,129
+fall,0,Fri,1,Clear + Few clouds,0.84,0,July,20,0.71,237
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Jan,2,0.93,2
+summer,0,Mon,0,Clear + Few clouds,0.54,1,Jun,8,0.6,140
+springer,0,Sat,1,Mist + Cloudy,0.2,0,Jan,13,0.37,73
+springer,0,Sat,1,Clear + Few clouds,0.34,1,Mar,22,0.31,107
+summer,0,Sat,1,Clear + Few clouds,0.42,1,Apri,7,0.94,359
+summer,0,Mon,0,Mist + Cloudy,0.66,0,May,10,0.83,251
+springer,0,Thu,1,Mist + Cloudy,0.24,0,Mar,8,0.87,249
+summer,0,Tue,1,Clear + Few clouds,0.48,1,Mar,11,0.31,178
+summer,0,Sat,1,Clear + Few clouds,0.64,1,May,18,0.38,669
+winter,0,Tue,1,Clear + Few clouds,0.28,0,Dec,12,0.52,145
+springer,0,Sun,0,Mist + Cloudy,0.26,0,Feb,9,0.56,74
+summer,0,Tue,1,Mist + Cloudy,0.72,0,Apri,18,0.23,386
+fall,0,Sat,1,Clear + Few clouds,0.38,0,Sep,5,0.76,32
+springer,0,Mon,0,Clear + Few clouds,0.28,1,Feb,20,0.56,50
+winter,0,Tue,1,Mist + Cloudy,0.46,0,Dec,23,0.88,62
+summer,0,Tue,1,Clear + Few clouds,0.56,0,Apri,21,0.37,151
+summer,0,Sun,0,Clear + Few clouds,0.76,0,Jun,11,0.62,325
+springer,0,Thu,1,Clear + Few clouds,0.34,0,Mar,11,0.53,73
+winter,0,Sun,0,Clear + Few clouds,0.32,0,Nov,21,0.66,118
+springer,0,Wed,1,Mist + Cloudy,0.36,0,Mar,18,0.62,225
+fall,0,Sat,1,Clear + Few clouds,0.88,1,July,12,0.28,331
+winter,0,Mon,0,Mist + Cloudy,0.36,1,Dec,23,0.93,33
+summer,0,Sat,1,Clear + Few clouds,0.34,0,Apri,4,0.53,3
+winter,0,Mon,0,Clear + Few clouds,0.36,0,Oct,23,0.81,25
+summer,0,Thu,1,Clear + Few clouds,0.4,0,May,21,0.62,150
+winter,0,Sun,0,Mist + Cloudy,0.36,1,Nov,15,0.46,448
+fall,0,Wed,1,Clear + Few clouds,0.76,1,Sep,16,0.7,458
+fall,1,Tue,0,Mist + Cloudy,0.76,0,July,11,0.55,349
+fall,0,Mon,0,Clear + Few clouds,0.7,0,July,1,0.61,113
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Dec,1,0.47,15
+winter,0,Thu,1,Clear + Few clouds,0.48,1,Dec,3,0.67,7
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.64,1,Jun,21,0.78,85
+winter,0,Thu,1,Clear + Few clouds,0.24,1,Dec,8,0.87,678
+summer,0,Thu,1,Clear + Few clouds,0.62,1,Jun,11,0.43,226
+springer,0,Wed,1,Mist + Cloudy,0.46,1,Mar,4,0.82,1
+winter,0,Mon,0,Clear + Few clouds,0.5,0,Oct,18,0.63,284
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.58,1,Sep,18,0.83,167
+summer,0,Tue,1,Clear + Few clouds,0.38,1,Apri,5,0.62,20
+winter,0,Mon,0,Clear + Few clouds,0.26,1,Nov,19,0.41,127
+fall,0,Tue,1,Clear + Few clouds,0.7,0,Aug,10,0.48,121
+summer,0,Sat,1,Clear + Few clouds,0.62,1,May,19,0.41,483
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,3,0.94,2
+summer,0,Fri,1,Mist + Cloudy,0.8,0,May,16,0.49,291
+springer,0,Tue,1,Mist + Cloudy,0.18,0,Jan,12,0.55,68
+winter,0,Tue,1,Clear + Few clouds,0.18,0,Dec,3,0.74,2
+springer,0,Sun,0,Mist + Cloudy,0.32,0,Dec,1,0.66,16
+springer,0,Tue,1,Clear + Few clouds,0.6,0,Feb,14,0.15,90
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,2,0.88,1
+fall,1,Tue,0,Clear + Few clouds,0.68,1,Sep,7,0.85,43
+summer,0,Tue,1,Clear + Few clouds,0.58,0,Jun,6,0.88,112
+winter,0,Sat,1,Clear + Few clouds,0.26,1,Nov,6,0.65,131
+winter,0,Wed,1,Mist + Cloudy,0.38,1,Oct,6,0.82,143
+winter,0,Tue,1,Mist + Cloudy,0.36,1,Nov,3,0.66,2
+fall,0,Sat,1,Mist + Cloudy,0.7,0,Sep,16,0.61,381
+springer,0,Sun,0,Clear + Few clouds,0.3,0,Feb,20,0.56,68
+summer,0,Thu,1,Clear + Few clouds,0.66,0,Jun,20,0.44,330
+winter,0,Sat,1,Clear + Few clouds,0.32,0,Oct,9,0.57,229
+fall,0,Mon,0,Clear + Few clouds,0.62,1,Aug,23,0.83,80
+summer,0,Tue,1,Clear + Few clouds,0.64,1,Jun,13,0.41,274
+summer,0,Wed,1,Mist + Cloudy,0.58,1,Jun,14,0.46,276
+summer,0,Thu,1,Clear + Few clouds,0.72,1,Jun,15,0.32,281
+summer,0,Wed,1,Mist + Cloudy,0.36,0,Apri,14,0.57,76
+fall,0,Wed,1,Clear + Few clouds,0.7,0,July,1,0.79,12
+winter,0,Mon,0,Clear + Few clouds,0.36,0,Oct,0,0.87,88
+summer,0,Sun,0,Clear + Few clouds,0.62,0,Jun,6,0.83,27
+fall,0,Fri,1,Clear + Few clouds,0.74,0,Aug,10,0.66,129
+fall,0,Mon,0,Clear + Few clouds,0.76,1,July,20,0.7,285
+summer,0,Wed,1,Clear + Few clouds,0.7,1,May,18,0.61,733
+fall,0,Fri,1,Mist + Cloudy,0.7,1,Sep,5,0.84,38
+fall,0,Thu,1,Mist + Cloudy,0.68,1,July,8,0.79,674
+fall,0,Sat,1,Mist + Cloudy,0.76,0,July,8,0.77,384
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,7,0.94,92
+winter,0,Sun,0,Mist + Cloudy,0.64,1,Oct,13,0.57,710
+summer,0,Wed,1,Clear + Few clouds,0.5,1,Apri,23,0.59,79
+springer,0,Fri,1,Clear + Few clouds,0.3,1,Jan,20,0.49,177
+springer,0,Mon,0,Mist + Cloudy,0.26,1,Dec,1,0.56,28
+winter,0,Sun,0,Clear + Few clouds,0.24,0,Dec,4,0.65,9
+springer,0,Sun,0,Mist + Cloudy,0.34,0,Mar,10,0.93,103
+summer,0,Sat,1,Mist + Cloudy,0.76,0,May,12,0.55,243
+fall,0,Sat,1,Clear + Few clouds,0.68,1,Aug,0,0.83,82
+summer,0,Wed,1,Clear + Few clouds,0.36,1,Apri,3,0.71,2
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.24,1,Feb,20,0.87,125
+summer,0,Sun,0,Mist + Cloudy,0.64,1,May,19,0.36,439
+summer,0,Tue,1,Mist + Cloudy,0.56,0,Apri,9,0.83,165
+winter,0,Sat,1,Clear + Few clouds,0.6,0,Sep,20,0.94,179
+winter,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.62,1,Oct,17,0.69,425
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.62,1,Aug,2,0.88,43
+fall,0,Fri,1,Mist + Cloudy,0.62,0,Sep,22,1.0,187
+summer,0,Wed,1,Mist + Cloudy,0.52,1,May,5,0.72,17
+springer,0,Sat,1,Clear + Few clouds,0.22,0,Jan,11,0.41,59
+springer,0,Tue,1,Clear + Few clouds,0.06,0,Jan,9,0.41,102
+springer,0,Sat,1,Mist + Cloudy,0.42,1,Jan,7,1.0,134
+winter,0,Tue,1,Clear + Few clouds,0.6,1,Sep,14,0.28,303
+winter,1,Tue,0,Clear + Few clouds,0.44,0,Oct,6,0.94,44
+fall,0,Mon,0,Clear + Few clouds,0.66,0,July,0,0.65,125
+winter,0,Thu,1,Clear + Few clouds,0.34,0,Nov,1,0.66,8
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.6,1,May,23,0.78,86
+winter,0,Tue,1,Clear + Few clouds,0.2,1,Nov,2,0.69,5
+springer,0,Fri,1,Clear + Few clouds,0.36,0,Mar,1,0.71,12
+springer,0,Wed,1,Clear + Few clouds,0.18,1,Jan,2,0.51,3
+summer,0,Sat,1,Clear + Few clouds,0.64,0,Jun,11,0.31,192
+fall,0,Thu,1,Clear + Few clouds,0.7,0,July,0,0.84,40
+springer,0,Sun,0,Clear + Few clouds,0.24,1,Mar,9,0.41,148
+summer,0,Sun,0,Clear + Few clouds,0.56,1,Jun,1,0.56,95
+summer,0,Sun,0,Clear + Few clouds,0.56,0,May,8,0.68,126
+springer,0,Sun,0,Clear + Few clouds,0.18,0,Jan,21,0.74,36
+summer,0,Fri,1,Mist + Cloudy,0.48,1,Mar,4,1.0,6
+fall,0,Fri,1,Clear + Few clouds,0.9,1,July,19,0.45,614
+springer,0,Sat,1,Mist + Cloudy,0.4,1,Mar,7,0.87,278
+winter,0,Wed,1,Clear + Few clouds,0.58,1,Oct,20,0.64,379
+summer,0,Thu,1,Clear + Few clouds,0.64,1,May,21,0.73,393
+winter,0,Thu,1,Mist + Cloudy,0.3,1,Oct,2,0.81,7
+winter,0,Mon,0,Clear + Few clouds,0.46,0,Nov,14,0.55,320
+fall,0,Wed,1,Clear + Few clouds,0.74,1,Aug,10,0.62,204
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.52,0,May,13,1.0,248
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Feb,20,0.3,105
+springer,0,Wed,1,Clear + Few clouds,0.36,1,Feb,13,0.32,190
+summer,0,Tue,1,Clear + Few clouds,0.58,1,Jun,21,0.49,265
+winter,0,Thu,1,Clear + Few clouds,0.34,1,Nov,13,0.42,214
+summer,0,Mon,0,Clear + Few clouds,0.66,1,Jun,20,0.39,314
+winter,0,Sun,0,Clear + Few clouds,0.28,0,Dec,9,0.61,149
+fall,0,Sun,0,Mist + Cloudy,0.62,0,Sep,1,0.94,83
+fall,0,Sun,0,Mist + Cloudy,0.66,1,Aug,22,0.89,168
+fall,0,Tue,1,Clear + Few clouds,0.68,0,July,7,0.74,277
+summer,0,Sun,0,Mist + Cloudy,0.28,0,Mar,19,0.45,138
+fall,0,Sun,0,Clear + Few clouds,0.96,1,July,15,0.26,306
+springer,0,Wed,1,Clear + Few clouds,0.4,1,Jan,18,0.62,423
+springer,0,Mon,0,Clear + Few clouds,0.3,1,Dec,12,0.42,196
+springer,0,Sat,1,Mist + Cloudy,0.32,0,Feb,2,1.0,3
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.22,0,Jan,4,0.93,2
+winter,0,Sat,1,Clear + Few clouds,0.3,0,Nov,4,0.75,7
+fall,0,Mon,0,Clear + Few clouds,0.72,0,Aug,8,0.79,89
+springer,0,Fri,1,Mist + Cloudy,0.44,0,Mar,17,0.0,111
+springer,0,Sat,1,Clear + Few clouds,0.24,1,Dec,1,0.6,9
+fall,0,Thu,1,Clear + Few clouds,0.5,1,Sep,21,0.59,349
+springer,0,Sun,0,Clear + Few clouds,0.32,1,Jan,23,0.31,85
+springer,0,Sat,1,Clear + Few clouds,0.36,0,Dec,5,0.93,8
+springer,0,Wed,1,Clear + Few clouds,0.44,1,Feb,13,0.38,184
+springer,0,Thu,1,Clear + Few clouds,0.24,0,Mar,3,0.7,3
+summer,0,Thu,1,Mist + Cloudy,0.5,1,Apri,5,0.39,34
+winter,0,Tue,1,Clear + Few clouds,0.46,0,Nov,19,0.59,300
+springer,0,Fri,1,Mist + Cloudy,0.46,0,Mar,18,0.59,310
+winter,0,Sat,1,Clear + Few clouds,0.22,1,Nov,4,0.75,3
+springer,0,Wed,1,Mist + Cloudy,0.16,0,Feb,0,0.64,8
+fall,0,Mon,0,Clear + Few clouds,0.74,1,Aug,2,0.7,73
+springer,0,Fri,1,Clear + Few clouds,0.14,0,Mar,8,0.39,220
+winter,0,Sun,0,Clear + Few clouds,0.44,1,Oct,4,0.72,18
+fall,0,Sat,1,Mist + Cloudy,0.68,1,Sep,10,0.65,246
+springer,0,Thu,1,Mist + Cloudy,0.34,0,Mar,17,0.76,194
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.62,1,May,23,0.83,96
+fall,0,Mon,0,Clear + Few clouds,0.8,0,July,0,0.59,119
+summer,0,Wed,1,Clear + Few clouds,0.64,1,Jun,10,0.73,180
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Sep,12,0.43,290
+springer,0,Thu,1,Clear + Few clouds,0.34,1,Jan,5,0.46,29
+fall,0,Tue,1,Clear + Few clouds,0.86,0,July,16,0.56,239
+fall,0,Fri,1,Clear + Few clouds,0.6,0,Sep,0,0.78,51
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Feb,17,0.4,175
+springer,0,Mon,0,Clear + Few clouds,0.2,1,Dec,2,0.51,18
+fall,0,Wed,1,Clear + Few clouds,0.7,1,Sep,17,0.28,970
+summer,0,Sun,0,Mist + Cloudy,0.52,1,Mar,9,0.83,249
+summer,0,Fri,1,Clear + Few clouds,0.46,1,Mar,6,0.59,117
+springer,0,Mon,0,Clear + Few clouds,0.14,0,Jan,17,0.26,55
+springer,0,Sat,1,Clear + Few clouds,0.42,1,Feb,3,0.82,5
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.7,1,May,16,0.61,278
+fall,0,Tue,1,Clear + Few clouds,0.74,0,Aug,15,0.3,199
+fall,0,Sat,1,Clear + Few clouds,0.96,1,Jun,18,0.31,464
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Aug,3,0.73,4
+summer,0,Fri,1,Clear + Few clouds,0.58,1,Apri,19,0.46,586
+fall,0,Sat,1,Clear + Few clouds,0.74,1,Aug,21,0.66,286
+springer,0,Tue,1,Clear + Few clouds,0.16,0,Jan,9,0.43,88
+winter,0,Tue,1,Clear + Few clouds,0.48,0,Oct,22,0.75,79
+springer,0,Thu,1,Clear + Few clouds,0.28,1,Jan,9,0.52,202
+springer,0,Sun,0,Clear + Few clouds,0.44,0,Feb,13,0.16,155
+fall,0,Wed,1,Clear + Few clouds,0.72,0,Jun,21,0.74,229
+springer,1,Tue,0,Mist + Cloudy,0.24,1,Feb,5,0.6,6
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.3,0,Apri,19,0.93,53
+winter,0,Wed,1,Clear + Few clouds,0.4,0,Oct,4,0.82,7
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.62,1,May,3,0.88,5
+winter,0,Thu,1,Clear + Few clouds,0.34,1,Nov,16,0.46,321
+winter,0,Mon,0,Clear + Few clouds,0.42,1,Nov,22,0.71,134
+winter,0,Tue,1,Clear + Few clouds,0.44,1,Sep,4,0.67,8
+winter,0,Thu,1,Mist + Cloudy,0.52,0,Oct,2,0.77,7
+springer,0,Fri,1,Clear + Few clouds,0.44,1,Mar,4,0.77,14
+fall,0,Mon,0,Clear + Few clouds,0.9,0,July,12,0.25,338
+springer,0,Sat,1,Clear + Few clouds,0.36,1,Feb,23,0.4,82
+winter,0,Wed,1,Clear + Few clouds,0.3,1,Nov,21,0.49,187
+springer,0,Mon,0,Mist + Cloudy,0.4,0,Jan,7,0.76,1
+fall,0,Wed,1,Clear + Few clouds,0.74,1,Aug,13,0.4,331
+springer,0,Thu,1,Clear + Few clouds,0.46,0,Feb,15,0.28,117
+springer,0,Thu,1,Clear + Few clouds,0.4,1,Feb,4,0.5,1
+springer,0,Sat,1,Mist + Cloudy,0.2,1,Jan,21,0.37,104
+fall,0,Tue,1,Clear + Few clouds,0.7,0,July,23,0.84,87
+fall,0,Tue,1,Clear + Few clouds,0.72,0,July,17,0.74,485
+fall,0,Tue,1,Clear + Few clouds,0.6,1,Sep,20,0.4,390
+fall,0,Sat,1,Clear + Few clouds,0.66,1,Aug,2,0.61,19
+summer,0,Mon,0,Clear + Few clouds,0.5,1,Mar,17,0.72,419
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.2,1,Dec,10,0.86,8
+summer,0,Thu,1,Mist + Cloudy,0.62,1,Jun,8,0.73,713
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.76,0,Jun,11,0.66,136
+fall,0,Sun,0,Mist + Cloudy,0.64,1,Jun,3,0.83,42
+fall,0,Tue,1,Mist + Cloudy,0.72,0,July,6,0.84,107
+fall,0,Wed,1,Mist + Cloudy,0.7,1,Aug,8,0.7,705
+summer,0,Sun,0,Mist + Cloudy,0.62,1,Apri,18,0.35,481
+winter,0,Tue,1,Clear + Few clouds,0.42,1,Dec,23,0.82,102
+winter,1,Sat,0,Clear + Few clouds,0.36,0,Nov,16,0.34,238
+summer,0,Sat,1,Clear + Few clouds,0.34,0,Apri,18,0.46,241
+winter,0,Tue,1,Clear + Few clouds,0.52,0,Oct,10,0.45,135
+summer,0,Fri,1,Clear + Few clouds,0.48,1,Mar,19,0.39,468
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.6,0,May,19,0.78,279
+fall,0,Thu,1,Mist + Cloudy,0.8,0,Aug,0,0.49,43
+summer,0,Fri,1,Clear + Few clouds,0.64,0,Apri,0,0.78,54
+fall,1,Tue,0,Mist + Cloudy,0.76,0,July,20,0.55,386
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.76,1,Sep,20,0.67,207
+fall,1,Tue,0,Clear + Few clouds,0.74,1,Sep,17,0.7,498
+springer,0,Sat,1,Mist + Cloudy,0.44,1,Mar,21,0.94,152
+winter,0,Wed,1,Mist + Cloudy,0.48,0,Nov,20,0.82,238
+summer,0,Fri,1,Clear + Few clouds,0.52,1,Jun,2,0.77,12
+summer,0,Thu,1,Mist + Cloudy,0.6,1,May,8,0.73,671
+fall,0,Thu,1,Clear + Few clouds,0.74,1,July,3,0.66,4
+winter,0,Tue,1,Mist + Cloudy,0.36,0,Oct,21,0.76,116
+fall,0,Mon,0,Clear + Few clouds,0.7,1,July,21,0.79,345
+springer,0,Sat,1,Mist + Cloudy,0.44,1,Feb,0,0.58,46
+springer,0,Mon,0,Clear + Few clouds,0.1,0,Jan,3,0.46,4
+springer,0,Thu,1,Clear + Few clouds,0.4,1,Feb,10,0.62,133
+springer,1,Tue,0,Mist + Cloudy,0.24,1,Jan,21,0.41,66
+winter,0,Mon,0,Clear + Few clouds,0.36,1,Nov,9,0.77,273
+fall,0,Tue,1,Clear + Few clouds,0.7,0,July,22,0.84,125
+winter,0,Sun,0,Mist + Cloudy,0.36,1,Nov,13,0.46,449
+summer,0,Fri,1,Clear + Few clouds,0.6,1,May,1,0.88,30
+springer,0,Mon,0,Clear + Few clouds,0.12,1,Feb,11,0.42,124
+springer,0,Tue,1,Mist + Cloudy,0.22,1,Jan,15,1.0,74
+springer,0,Fri,1,Clear + Few clouds,0.24,0,Jan,16,0.38,78
+winter,0,Thu,1,Clear + Few clouds,0.44,0,Oct,3,0.67,3
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.64,1,Jun,1,0.89,58
+fall,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,Sep,12,0.94,22
+summer,0,Sat,1,Clear + Few clouds,0.72,0,Jun,7,0.66,267
+springer,0,Tue,1,Clear + Few clouds,0.52,1,Feb,18,0.27,527
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Feb,7,0.76,302
+fall,0,Thu,1,Clear + Few clouds,0.7,1,Aug,23,0.74,152
+winter,0,Wed,1,Clear + Few clouds,0.4,0,Oct,3,0.82,6
+winter,0,Fri,1,Clear + Few clouds,0.4,0,Nov,21,0.76,144
+summer,0,Sat,1,Clear + Few clouds,0.66,1,May,16,0.34,568
+springer,0,Thu,1,Mist + Cloudy,0.24,0,Mar,7,0.87,141
+winter,0,Fri,1,Clear + Few clouds,0.6,1,Oct,23,0.56,155
+winter,0,Sat,1,Clear + Few clouds,0.42,0,Nov,18,0.32,374
+summer,0,Sun,0,Mist + Cloudy,0.44,1,Mar,18,0.72,341
+summer,0,Tue,1,Clear + Few clouds,0.44,1,Apri,8,0.3,617
+winter,0,Tue,1,Clear + Few clouds,0.44,1,Oct,8,0.67,728
+winter,0,Mon,0,Clear + Few clouds,0.26,0,Dec,5,0.81,4
+springer,0,Thu,1,Clear + Few clouds,0.44,1,Feb,14,0.54,177
+winter,0,Mon,0,Clear + Few clouds,0.44,0,Oct,8,0.62,99
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Apri,0,0.81,6
+fall,0,Fri,1,Clear + Few clouds,0.86,0,July,13,0.41,155
+summer,0,Mon,0,Clear + Few clouds,0.66,1,May,1,0.74,78
+springer,0,Thu,1,Mist + Cloudy,0.26,1,Feb,11,0.65,102
+springer,0,Tue,1,Mist + Cloudy,0.16,0,Jan,9,0.59,112
+winter,0,Tue,1,Clear + Few clouds,0.56,0,Nov,15,0.37,170
+winter,0,Tue,1,Clear + Few clouds,0.5,0,Oct,21,0.77,177
+fall,0,Sun,0,Mist + Cloudy,0.64,1,Aug,5,0.73,14
+fall,0,Mon,0,Mist + Cloudy,0.66,1,Jun,3,0.65,60
+summer,0,Wed,1,Clear + Few clouds,0.66,1,Jun,11,0.69,230
+fall,0,Tue,1,Clear + Few clouds,0.7,1,July,0,0.74,58
+fall,0,Thu,1,Clear + Few clouds,0.66,0,July,23,0.83,116
+summer,0,Wed,1,Mist + Cloudy,0.5,1,May,2,0.72,8
+fall,0,Fri,1,Clear + Few clouds,0.5,1,Sep,0,0.63,58
+summer,0,Thu,1,Mist + Cloudy,0.58,0,May,14,0.78,138
+summer,0,Sat,1,Clear + Few clouds,0.82,0,Jun,17,0.52,517
+winter,0,Fri,1,Mist + Cloudy,0.26,1,Dec,2,0.56,8
+summer,0,Fri,1,Clear + Few clouds,0.34,0,May,2,0.66,5
+springer,0,Sat,1,Clear + Few clouds,0.28,1,Jan,17,0.33,332
+fall,0,Thu,1,Clear + Few clouds,0.66,0,Jun,1,0.78,21
+summer,0,Sat,1,Clear + Few clouds,0.64,0,Jun,21,0.29,247
+fall,0,Mon,0,Clear + Few clouds,0.64,1,Aug,14,0.89,377
+fall,0,Mon,0,Mist + Cloudy,0.64,1,Aug,2,0.89,116
+springer,0,Tue,1,Mist + Cloudy,0.3,0,Mar,8,0.56,241
+winter,0,Fri,1,Clear + Few clouds,0.6,1,Sep,3,0.78,7
+summer,0,Thu,1,Mist + Cloudy,0.5,1,Apri,3,0.42,6
+fall,0,Sat,1,Clear + Few clouds,0.68,1,Aug,3,0.79,6
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.32,1,Nov,8,0.87,211
+winter,0,Mon,0,Clear + Few clouds,0.42,0,Nov,7,0.67,23
+winter,0,Thu,1,Clear + Few clouds,0.6,0,Sep,22,0.88,87
+summer,0,Tue,1,Mist + Cloudy,0.54,0,Apri,11,0.52,123
+summer,0,Sat,1,Clear + Few clouds,0.52,0,Jun,4,0.48,6
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.62,1,Sep,22,0.69,215
+springer,0,Mon,0,Clear + Few clouds,0.34,1,Jan,1,0.42,72
+summer,0,Sat,1,Clear + Few clouds,0.62,0,May,14,0.53,197
+springer,0,Wed,1,Mist + Cloudy,0.22,0,Jan,14,0.8,28
+springer,0,Mon,0,Mist + Cloudy,0.34,0,Mar,22,0.53,38
+summer,0,Wed,1,Clear + Few clouds,0.54,0,Jun,4,0.6,3
+winter,0,Sat,1,Clear + Few clouds,0.44,1,Nov,12,0.41,262
+summer,0,Sun,0,Clear + Few clouds,0.56,1,Jun,3,0.6,27
+summer,1,Tue,0,Clear + Few clouds,0.62,1,May,6,0.73,20
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.3,0,Mar,19,1.0,11
+springer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.32,0,Dec,11,0.66,30
+fall,0,Wed,1,Clear + Few clouds,0.8,1,Sep,13,0.55,275
+summer,0,Sun,0,Clear + Few clouds,0.64,1,Jun,19,0.36,554
+springer,0,Sat,1,Clear + Few clouds,0.44,1,Mar,0,0.77,57
+springer,0,Tue,1,Clear + Few clouds,0.24,1,Jan,3,0.52,3
+springer,0,Mon,0,Clear + Few clouds,0.2,1,Dec,5,0.51,6
+fall,0,Mon,0,Clear + Few clouds,0.72,1,July,2,0.74,90
+springer,0,Fri,1,Clear + Few clouds,0.42,1,Feb,12,0.82,148
+winter,0,Fri,1,Clear + Few clouds,0.36,1,Nov,11,0.29,171
+fall,0,Sat,1,Clear + Few clouds,0.4,0,Sep,4,0.71,4
+summer,0,Wed,1,Clear + Few clouds,0.52,0,May,22,0.55,150
+summer,0,Thu,1,Clear + Few clouds,0.52,1,Jun,0,0.59,49
+springer,0,Fri,1,Clear + Few clouds,0.14,0,Jan,3,0.5,3
+springer,1,Wed,0,Clear + Few clouds,0.28,1,Dec,10,0.81,32
+fall,0,Thu,1,Clear + Few clouds,0.74,1,Aug,17,0.55,851
+springer,0,Sat,1,Clear + Few clouds,0.32,0,Dec,11,0.66,171
+summer,0,Sun,0,Mist + Cloudy,0.52,1,Mar,15,0.59,605
+fall,0,Mon,0,Mist + Cloudy,0.56,0,Sep,18,0.6,289
+fall,0,Fri,1,Clear + Few clouds,0.74,0,Jun,20,0.33,340
+winter,1,Fri,0,Clear + Few clouds,0.22,1,Nov,7,0.75,56
+summer,0,Fri,1,Mist + Cloudy,0.3,0,Mar,12,0.7,94
+fall,0,Sun,0,Clear + Few clouds,0.82,0,July,1,0.52,70
+springer,0,Tue,1,Clear + Few clouds,0.32,1,Feb,21,0.57,154
+fall,0,Mon,0,Clear + Few clouds,0.72,0,July,23,0.66,72
+summer,0,Wed,1,Mist + Cloudy,0.52,1,May,5,0.72,20
+fall,0,Sat,1,Clear + Few clouds,0.54,1,Sep,0,0.68,66
+summer,0,Wed,1,Clear + Few clouds,0.72,1,May,9,0.7,257
+springer,0,Mon,0,Mist + Cloudy,0.24,1,Feb,1,0.93,51
+summer,0,Thu,1,Mist + Cloudy,0.66,1,Jun,0,0.94,34
+springer,1,Wed,0,Mist + Cloudy,0.32,1,Dec,18,0.66,43
+fall,0,Sat,1,Mist + Cloudy,0.8,1,Jun,18,0.55,505
+winter,0,Wed,1,Clear + Few clouds,0.46,1,Oct,0,0.63,48
+fall,0,Thu,1,Clear + Few clouds,0.7,0,July,1,0.84,11
+fall,0,Fri,1,Mist + Cloudy,0.64,0,Sep,11,0.89,165
+fall,0,Fri,1,Clear + Few clouds,0.8,1,Jun,23,0.59,146
+springer,1,Tue,0,Clear + Few clouds,0.3,1,Feb,21,0.39,98
+fall,0,Tue,1,Clear + Few clouds,0.64,1,Sep,12,0.44,332
+summer,0,Tue,1,Clear + Few clouds,0.54,0,May,20,0.49,239
+summer,0,Sun,0,Clear + Few clouds,0.36,1,Apri,5,0.66,7
+fall,0,Wed,1,Clear + Few clouds,0.6,0,Sep,17,0.83,511
+springer,0,Mon,0,Clear + Few clouds,0.02,0,Jan,3,0.62,5
+winter,0,Wed,1,Clear + Few clouds,0.32,1,Nov,11,0.7,155
+fall,0,Wed,1,Clear + Few clouds,0.6,1,Aug,7,0.78,519
+fall,0,Wed,1,Clear + Few clouds,0.8,1,Aug,15,0.52,306
+summer,0,Sun,0,Clear + Few clouds,0.34,0,Apri,20,0.53,85
+winter,0,Wed,1,Clear + Few clouds,0.36,1,Dec,21,0.5,168
+winter,0,Sat,1,Clear + Few clouds,0.24,0,Dec,2,0.75,10
+fall,0,Wed,1,Clear + Few clouds,0.74,0,Aug,14,0.33,209
+summer,1,Tue,0,Clear + Few clouds,0.76,0,May,20,0.58,237
+fall,0,Thu,1,Clear + Few clouds,0.64,0,Aug,22,0.69,157
+winter,0,Sat,1,Clear + Few clouds,0.54,0,Sep,20,0.52,230
+fall,0,Tue,1,Clear + Few clouds,0.62,1,Aug,4,0.83,12
+fall,0,Sat,1,Clear + Few clouds,0.94,0,July,13,0.31,156
+winter,0,Thu,1,Clear + Few clouds,0.26,0,Dec,2,0.75,2
+summer,0,Thu,1,Clear + Few clouds,0.6,1,Mar,17,0.6,604
+fall,0,Thu,1,Clear + Few clouds,0.64,0,Aug,3,0.78,5
+winter,0,Mon,0,Clear + Few clouds,0.42,0,Oct,16,0.32,320
+summer,0,Fri,1,Clear + Few clouds,0.7,1,Jun,12,0.42,336
+winter,0,Sat,1,Clear + Few clouds,0.32,0,Nov,9,0.76,95
+summer,0,Tue,1,Mist + Cloudy,0.62,1,Jun,18,0.69,642
+winter,0,Sun,0,Clear + Few clouds,0.46,0,Oct,2,0.82,45
+winter,0,Sat,1,Clear + Few clouds,0.4,0,Oct,1,0.62,26
+summer,0,Mon,0,Clear + Few clouds,0.5,0,Apri,18,0.77,240
+fall,0,Sun,0,Clear + Few clouds,0.82,1,Sep,14,0.52,626
+springer,0,Mon,0,Clear + Few clouds,0.2,0,Dec,8,0.8,5
+winter,0,Fri,1,Clear + Few clouds,0.22,0,Dec,7,0.6,244
+fall,0,Tue,1,Clear + Few clouds,0.74,0,Aug,7,0.62,282
+springer,0,Fri,1,Mist + Cloudy,0.3,0,Dec,14,0.52,142
+fall,0,Sun,0,Mist + Cloudy,0.64,1,July,5,0.73,5
+springer,0,Thu,1,Mist + Cloudy,0.48,0,Dec,10,0.82,89
+summer,0,Mon,0,Clear + Few clouds,0.64,1,May,2,0.73,61
+fall,0,Sat,1,Mist + Cloudy,0.76,1,Aug,12,0.45,371
+fall,0,Sun,0,Clear + Few clouds,0.64,0,Jun,4,0.57,11
+winter,0,Tue,1,Mist + Cloudy,0.52,0,Nov,22,0.83,109
+fall,0,Sat,1,Mist + Cloudy,0.66,1,July,6,0.89,126
+summer,0,Sun,0,Mist + Cloudy,0.4,1,Apri,13,0.37,389
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Jun,16,0.43,473
+springer,0,Sat,1,Mist + Cloudy,0.46,1,Mar,19,0.88,296
+winter,0,Mon,0,Clear + Few clouds,0.34,0,Nov,2,0.81,31
+summer,0,Sat,1,Clear + Few clouds,0.5,1,Apri,20,0.29,286
+fall,0,Sun,0,Clear + Few clouds,0.74,0,Sep,13,0.55,370
+winter,0,Sat,1,Clear + Few clouds,0.6,0,Sep,21,1.0,138
+winter,0,Tue,1,Clear + Few clouds,0.5,0,Nov,17,0.45,528
+summer,0,Mon,0,Clear + Few clouds,0.54,1,Apri,14,0.34,653
+springer,0,Mon,0,Clear + Few clouds,0.22,1,Feb,5,0.44,5
+summer,0,Fri,1,Clear + Few clouds,0.34,0,Apri,5,0.76,6
+summer,0,Fri,1,Clear + Few clouds,0.62,0,Apri,16,0.78,270
+fall,0,Sun,0,Clear + Few clouds,0.74,1,Sep,13,0.51,707
+springer,0,Sun,0,Clear + Few clouds,0.42,0,Feb,17,0.19,127
+fall,0,Thu,1,Mist + Cloudy,0.78,1,Sep,11,0.62,217
+springer,0,Mon,0,Clear + Few clouds,0.42,0,Mar,16,0.32,224
+winter,0,Sun,0,Clear + Few clouds,0.46,0,Oct,1,0.55,73
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.44,0,Nov,3,1.0,4
+fall,0,Thu,1,Clear + Few clouds,0.72,0,Aug,1,0.54,17
+summer,0,Sat,1,Clear + Few clouds,0.76,1,Jun,14,0.31,373
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Mar,17,0.81,128
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.28,0,Mar,15,0.81,70
+springer,0,Tue,1,Mist + Cloudy,0.22,1,Jan,6,0.6,88
+summer,0,Sun,0,Mist + Cloudy,0.64,1,Jun,21,0.5,290
+fall,0,Sat,1,Clear + Few clouds,0.74,0,Jun,19,0.4,385
+summer,0,Sun,0,Clear + Few clouds,0.58,1,Jun,2,0.53,67
+winter,0,Mon,0,Clear + Few clouds,0.6,1,Sep,14,0.38,666
+fall,0,Thu,1,Clear + Few clouds,0.78,1,Sep,15,0.7,245
+summer,0,Sat,1,Clear + Few clouds,0.66,1,Mar,19,0.5,686
+summer,0,Sun,0,Clear + Few clouds,0.7,0,May,11,0.65,349
+fall,0,Mon,0,Clear + Few clouds,0.88,1,July,18,0.32,370
+fall,0,Fri,1,Clear + Few clouds,0.74,0,Jun,19,0.33,455
+springer,0,Sat,1,Clear + Few clouds,0.36,1,Jan,12,0.5,191
+springer,0,Sat,1,Clear + Few clouds,0.24,0,Jan,23,0.6,23
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Feb,8,0.48,93
+summer,0,Sun,0,Clear + Few clouds,0.62,1,May,11,0.38,586
+fall,0,Tue,1,Clear + Few clouds,0.7,1,Aug,22,0.84,161
+winter,0,Wed,1,Clear + Few clouds,0.48,1,Dec,23,0.67,96
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Apri,10,0.38,217
+springer,0,Mon,0,Clear + Few clouds,0.28,1,Mar,20,0.38,88
+fall,0,Wed,1,Clear + Few clouds,0.76,1,July,11,0.58,224
+summer,0,Wed,1,Clear + Few clouds,0.6,0,Jun,2,0.49,10
+springer,0,Sun,0,Clear + Few clouds,0.18,0,Jan,16,0.29,76
+summer,1,Tue,0,Clear + Few clouds,0.76,1,Apri,14,0.45,288
+winter,0,Mon,0,Clear + Few clouds,0.42,1,Oct,1,0.58,117
+winter,0,Tue,1,Mist + Cloudy,0.52,1,Oct,9,0.63,340
+summer,0,Wed,1,Clear + Few clouds,0.3,1,Apri,6,0.7,120
+winter,0,Sun,0,Clear + Few clouds,0.42,0,Nov,22,0.47,118
+summer,0,Tue,1,Clear + Few clouds,0.5,1,May,2,0.77,6
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.16,1,Jan,7,0.93,13
+winter,0,Mon,0,Clear + Few clouds,0.56,0,Oct,22,0.49,130
+springer,0,Sat,1,Mist + Cloudy,0.44,0,Feb,6,0.72,50
+fall,0,Fri,1,Clear + Few clouds,0.72,0,July,23,0.66,129
+springer,0,Thu,1,Mist + Cloudy,0.08,1,Jan,11,0.42,46
+springer,0,Sun,0,Clear + Few clouds,0.64,1,Mar,15,0.53,679
+winter,0,Tue,1,Mist + Cloudy,0.36,0,Dec,9,0.87,190
+springer,0,Mon,0,Mist + Cloudy,0.36,0,Jan,12,0.66,93
+springer,0,Sat,1,Clear + Few clouds,0.12,0,Jan,18,0.3,120
+fall,0,Mon,0,Clear + Few clouds,0.72,1,July,3,0.84,33
+fall,0,Fri,1,Mist + Cloudy,0.76,0,July,8,0.79,381
+winter,0,Sun,0,Clear + Few clouds,0.32,1,Nov,23,0.57,148
+springer,0,Tue,1,Clear + Few clouds,0.24,1,Mar,0,0.44,17
+winter,0,Mon,0,Clear + Few clouds,0.4,1,Oct,7,0.62,56
+springer,0,Wed,1,Mist + Cloudy,0.26,1,Feb,10,0.6,98
+summer,0,Fri,1,Mist + Cloudy,0.54,1,Apri,18,0.77,664
+winter,0,Sun,0,Mist + Cloudy,0.28,0,Dec,12,0.45,244
+summer,0,Sat,1,Clear + Few clouds,0.76,1,Jun,18,0.27,723
+springer,0,Sun,0,Clear + Few clouds,0.58,1,Mar,19,0.64,417
+winter,0,Mon,0,Mist + Cloudy,0.52,1,Sep,21,0.48,196
+summer,0,Sat,1,Mist + Cloudy,0.5,0,May,5,0.88,25
+winter,0,Tue,1,Clear + Few clouds,0.4,0,Oct,1,0.82,15
+springer,0,Wed,1,Mist + Cloudy,0.38,0,Mar,16,0.46,114
+springer,0,Sun,0,Mist + Cloudy,0.46,0,Mar,19,0.67,89
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.56,1,Sep,16,0.88,114
+summer,0,Sun,0,Clear + Few clouds,0.38,0,Apri,18,0.54,179
+springer,0,Thu,1,Clear + Few clouds,0.2,0,Mar,4,0.75,1
+fall,0,Fri,1,Clear + Few clouds,0.74,1,July,1,0.51,30
+springer,0,Mon,0,Clear + Few clouds,0.16,1,Feb,15,0.4,155
+winter,0,Mon,0,Clear + Few clouds,0.52,1,Sep,22,0.48,138
+fall,0,Sun,0,Clear + Few clouds,0.62,0,July,0,0.65,110
+springer,0,Fri,1,Clear + Few clouds,0.14,0,Jan,22,0.46,30
+springer,0,Sat,1,Clear + Few clouds,0.58,0,Feb,21,0.21,72
+summer,0,Sat,1,Clear + Few clouds,0.56,1,May,11,0.35,291
+fall,0,Tue,1,Mist + Cloudy,0.64,1,Aug,10,0.69,193
+springer,0,Fri,1,Mist + Cloudy,0.28,1,Jan,1,0.75,21
+summer,0,Sat,1,Clear + Few clouds,0.46,0,May,6,0.88,117
+winter,0,Fri,1,Clear + Few clouds,0.44,0,Oct,6,0.82,92
+summer,0,Sun,0,Mist + Cloudy,0.52,0,Apri,19,0.94,71
+springer,0,Sun,0,Clear + Few clouds,0.34,0,Mar,12,0.53,158
+winter,0,Mon,0,Clear + Few clouds,0.34,0,Oct,7,0.76,29
+summer,0,Sat,1,Clear + Few clouds,0.7,1,May,18,0.54,641
+springer,1,Wed,0,Clear + Few clouds,0.36,1,Dec,15,0.5,107
+summer,0,Mon,0,Clear + Few clouds,0.66,0,Apri,11,0.65,317
+springer,0,Sun,0,Clear + Few clouds,0.24,0,Jan,8,0.75,8
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Jan,10,0.7,191
+summer,0,Sun,0,Mist + Cloudy,0.7,1,Jun,19,0.42,461
+springer,0,Wed,1,Mist + Cloudy,0.24,1,Feb,7,0.6,280
+fall,0,Wed,1,Mist + Cloudy,0.66,1,Sep,8,0.83,672
+fall,0,Sun,0,Clear + Few clouds,0.68,0,Jun,21,0.51,202
+fall,0,Wed,1,Clear + Few clouds,0.68,1,July,4,0.79,4
+fall,0,Wed,1,Clear + Few clouds,0.82,0,Jun,11,0.46,167
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.24,1,Feb,3,0.87,17
+summer,0,Sat,1,Clear + Few clouds,0.32,1,Mar,8,0.66,593
+fall,0,Tue,1,Clear + Few clouds,0.76,1,July,9,0.62,348
+springer,0,Tue,1,Clear + Few clouds,0.58,0,Feb,13,0.19,120
+fall,0,Sat,1,Mist + Cloudy,0.84,0,July,8,0.63,322
+winter,0,Sun,0,Clear + Few clouds,0.54,1,Oct,11,0.52,612
+springer,0,Fri,1,Mist + Cloudy,0.36,1,Jan,17,0.34,412
+winter,0,Wed,1,Clear + Few clouds,0.44,1,Sep,6,0.77,194
+winter,0,Sat,1,Clear + Few clouds,0.3,1,Nov,6,0.7,122
+fall,0,Mon,0,Mist + Cloudy,0.72,0,Jun,19,0.48,317
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Aug,1,0.83,25
+fall,0,Sun,0,Clear + Few clouds,0.7,0,Aug,2,0.84,77
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Feb,16,0.37,78
+springer,0,Wed,1,Clear + Few clouds,0.24,0,Feb,15,0.48,69
+fall,0,Tue,1,Mist + Cloudy,0.72,0,Jun,14,0.58,158
+fall,0,Sat,1,Clear + Few clouds,0.7,0,Jun,22,0.48,167
+fall,0,Sat,1,Clear + Few clouds,0.7,1,Aug,7,0.74,421
+summer,0,Tue,1,Clear + Few clouds,0.7,0,Jun,18,0.61,538
+fall,0,Thu,1,Clear + Few clouds,0.76,0,July,10,0.7,110
+winter,0,Wed,1,Mist + Cloudy,0.32,1,Nov,1,0.7,6
+summer,0,Sat,1,Clear + Few clouds,0.54,1,Apri,11,0.68,254
+fall,0,Sat,1,Clear + Few clouds,0.7,1,Sep,15,0.54,423
+springer,0,Tue,1,Clear + Few clouds,0.46,1,Feb,14,0.36,158
+winter,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.36,0,Oct,20,0.87,66
+fall,0,Tue,1,Mist + Cloudy,0.72,0,July,14,0.79,90
+winter,0,Sun,0,Clear + Few clouds,0.5,0,Nov,14,0.36,435
+fall,0,Sat,1,Clear + Few clouds,0.82,1,July,19,0.52,516
+winter,0,Sat,1,Clear + Few clouds,0.48,0,Oct,9,0.77,241
+fall,0,Fri,1,Clear + Few clouds,0.56,1,Sep,9,0.6,355
+springer,0,Mon,0,Clear + Few clouds,0.4,0,Feb,19,0.54,102
+summer,0,Thu,1,Clear + Few clouds,0.62,1,May,10,0.78,191
+springer,0,Wed,1,Clear + Few clouds,0.7,1,Mar,18,0.34,734
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Nov,11,0.94,32
+springer,1,Tue,0,Clear + Few clouds,0.3,1,Feb,22,0.45,62
+springer,0,Thu,1,Mist + Cloudy,0.48,0,Dec,14,0.88,51
+winter,0,Fri,1,Mist + Cloudy,0.56,1,Oct,13,0.78,313
+winter,0,Sun,0,Clear + Few clouds,0.56,1,Oct,0,0.83,191
+fall,0,Mon,0,Clear + Few clouds,0.74,0,July,3,0.66,50
+summer,0,Thu,1,Clear + Few clouds,0.46,0,May,5,0.88,20
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.5,1,May,21,0.82,34
+winter,0,Sun,0,Clear + Few clouds,0.48,1,Oct,19,0.55,341
+fall,0,Sun,0,Clear + Few clouds,0.76,1,Sep,11,0.62,578
+summer,0,Fri,1,Mist + Cloudy,0.46,1,May,1,0.88,24
+summer,0,Sat,1,Mist + Cloudy,0.52,0,May,16,0.88,300
+summer,0,Tue,1,Mist + Cloudy,0.34,0,Mar,1,0.71,7
+summer,0,Wed,1,Mist + Cloudy,0.5,0,Apri,20,0.72,168
+winter,0,Tue,1,Clear + Few clouds,0.42,1,Dec,2,0.77,10
+winter,0,Mon,0,Clear + Few clouds,0.5,1,Sep,0,0.59,147
+winter,0,Sun,0,Clear + Few clouds,0.44,0,Oct,3,0.88,20
+springer,0,Thu,1,Clear + Few clouds,0.18,0,Jan,10,0.55,39
+fall,0,Mon,0,Clear + Few clouds,0.82,1,Jun,18,0.34,534
+summer,0,Wed,1,Clear + Few clouds,0.66,0,Apri,10,0.69,120
+fall,0,Fri,1,Clear + Few clouds,0.82,1,Aug,16,0.46,406
+summer,0,Tue,1,Clear + Few clouds,0.44,0,May,3,0.77,16
+springer,0,Sun,0,Mist + Cloudy,0.32,0,Jan,20,0.39,41
+summer,0,Thu,1,Clear + Few clouds,0.54,1,May,4,0.94,4
+winter,0,Sat,1,Clear + Few clouds,0.22,0,Dec,3,0.8,1
+winter,0,Mon,0,Clear + Few clouds,0.58,1,Oct,18,0.6,453
+springer,0,Mon,0,Mist + Cloudy,0.3,1,Jan,6,0.52,2
+summer,0,Thu,1,Clear + Few clouds,0.6,0,Apri,23,0.4,93
+summer,0,Sat,1,Clear + Few clouds,0.38,1,Apri,7,0.5,315
+winter,0,Sat,1,Clear + Few clouds,0.4,1,Nov,13,0.43,294
+summer,0,Sat,1,Clear + Few clouds,0.34,0,Apri,17,0.46,281
+fall,0,Wed,1,Mist + Cloudy,0.7,1,July,21,0.7,196
+springer,0,Mon,0,Clear + Few clouds,0.34,1,Jan,18,0.23,168
+springer,0,Thu,1,Clear + Few clouds,0.28,0,Mar,9,0.56,148
+fall,0,Tue,1,Clear + Few clouds,0.66,0,Aug,21,0.65,184
+summer,0,Sun,0,Clear + Few clouds,0.74,0,Jun,12,0.66,420
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Dec,4,0.88,7
+winter,0,Wed,1,Mist + Cloudy,0.5,0,Nov,22,0.94,87
+fall,0,Fri,1,Clear + Few clouds,0.72,0,Jun,0,0.79,49
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.32,1,Nov,10,0.81,57
+summer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.46,0,Apri,13,0.94,58
+fall,0,Mon,0,Clear + Few clouds,0.64,1,Aug,2,0.69,86
+winter,1,Fri,0,Clear + Few clouds,0.5,0,Nov,15,0.31,149
+winter,0,Fri,1,Clear + Few clouds,0.48,0,Oct,12,0.48,199
+fall,0,Mon,0,Clear + Few clouds,0.76,0,July,20,0.55,268
+springer,0,Wed,1,Mist + Cloudy,0.54,1,Mar,9,0.88,325
+summer,0,Tue,1,Mist + Cloudy,0.62,1,May,22,0.73,142
+winter,0,Mon,0,Clear + Few clouds,0.24,0,Dec,20,0.6,104
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Feb,5,0.7,30
+fall,0,Mon,0,Clear + Few clouds,0.66,0,Jun,9,0.54,206
+fall,0,Fri,1,Mist + Cloudy,0.72,0,Jun,3,0.74,5
+summer,0,Mon,0,Clear + Few clouds,0.34,0,Mar,16,0.34,143
+summer,0,Mon,0,Clear + Few clouds,0.4,0,May,5,0.82,10
+springer,0,Fri,1,Clear + Few clouds,0.38,1,Jan,22,0.76,133
+fall,0,Wed,1,Clear + Few clouds,0.76,1,Aug,18,0.62,854
+summer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.46,1,Apri,8,0.82,362
+summer,0,Tue,1,Clear + Few clouds,0.18,0,Mar,5,0.43,8
+fall,0,Fri,1,Mist + Cloudy,0.72,1,Sep,13,0.79,191
+springer,0,Sat,1,Mist + Cloudy,0.24,1,Dec,0,0.6,25
+springer,1,Tue,0,Clear + Few clouds,0.28,1,Jan,21,0.52,49
+fall,0,Sat,1,Mist + Cloudy,0.72,1,Aug,3,0.79,9
+springer,0,Sun,0,Clear + Few clouds,0.4,0,Mar,7,0.5,13
+fall,0,Sun,0,Mist + Cloudy,0.62,0,July,5,0.88,15
+winter,0,Sun,0,Mist + Cloudy,0.26,0,Dec,6,0.56,17
+summer,0,Wed,1,Clear + Few clouds,0.48,0,Apri,3,0.63,3
+springer,0,Tue,1,Clear + Few clouds,0.22,0,Mar,9,0.64,134
+fall,0,Thu,1,Clear + Few clouds,0.76,1,Jun,12,0.29,322
+fall,0,Sat,1,Clear + Few clouds,0.82,0,July,0,0.63,60
+summer,0,Sat,1,Clear + Few clouds,0.64,1,May,21,0.69,235
+summer,0,Fri,1,Clear + Few clouds,0.56,0,May,15,0.78,188
+fall,0,Thu,1,Clear + Few clouds,0.7,1,Aug,10,0.61,225
+winter,0,Sat,1,Mist + Cloudy,0.38,1,Dec,17,0.66,568
+summer,0,Sun,0,Clear + Few clouds,0.6,1,May,1,0.83,107
+springer,0,Tue,1,Clear + Few clouds,0.14,0,Jan,18,0.59,153
+winter,0,Tue,1,Mist + Cloudy,0.64,0,Sep,10,0.89,154
+fall,0,Fri,1,Clear + Few clouds,0.8,1,Aug,18,0.59,767
+springer,0,Fri,1,Clear + Few clouds,0.36,0,Feb,9,0.57,179
+summer,0,Sat,1,Clear + Few clouds,0.32,1,Apri,5,0.53,23
+winter,0,Sat,1,Clear + Few clouds,0.24,1,Nov,6,0.81,20
+fall,0,Sat,1,Clear + Few clouds,0.88,0,July,17,0.47,306
+springer,0,Tue,1,Clear + Few clouds,0.38,0,Mar,13,0.36,75
+summer,0,Tue,1,Clear + Few clouds,0.38,1,Apri,4,0.62,2
+springer,0,Sun,0,Mist + Cloudy,0.42,1,Mar,6,0.94,30
+springer,0,Sat,1,Mist + Cloudy,0.3,1,Feb,12,0.42,176
+summer,0,Wed,1,Clear + Few clouds,0.34,0,Apri,20,0.46,91
+summer,0,Thu,1,Mist + Cloudy,0.6,0,Apri,9,0.88,181
+fall,0,Mon,0,Clear + Few clouds,0.8,0,Sep,16,0.59,337
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.32,1,Nov,7,0.87,107
+winter,0,Sat,1,Mist + Cloudy,0.62,0,Sep,5,0.94,22
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Mar,0,0.66,13
+summer,0,Fri,1,Mist + Cloudy,0.46,1,May,5,0.88,21
+summer,0,Mon,0,Clear + Few clouds,0.42,0,Apri,11,0.41,243
+springer,0,Tue,1,Clear + Few clouds,0.38,0,Feb,19,0.43,98
+winter,0,Sat,1,Clear + Few clouds,0.3,1,Nov,3,0.7,3
+fall,0,Sat,1,Clear + Few clouds,0.82,0,Aug,16,0.28,334
+springer,0,Wed,1,Clear + Few clouds,0.26,0,Dec,1,0.7,6
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Aug,10,0.58,146
+springer,0,Sat,1,Mist + Cloudy,0.32,1,Dec,14,0.39,219
+summer,0,Sun,0,Clear + Few clouds,0.6,0,Jun,3,0.88,20
+fall,0,Fri,1,Clear + Few clouds,0.6,1,Sep,22,0.69,251
+fall,0,Tue,1,Clear + Few clouds,0.74,1,Aug,22,0.7,207
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.24,0,Apri,7,0.93,95
+fall,0,Wed,1,Clear + Few clouds,0.7,0,Jun,8,0.79,456
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Mar,2,0.41,42
+springer,0,Fri,1,Clear + Few clouds,0.46,1,Mar,5,0.67,26
+springer,0,Sat,1,Clear + Few clouds,0.12,0,Jan,19,0.3,96
+summer,0,Wed,1,Mist + Cloudy,0.4,0,Mar,23,0.58,32
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Feb,15,0.25,50
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Dec,13,1.0,71
+springer,0,Mon,0,Clear + Few clouds,0.14,1,Feb,22,0.43,28
+summer,0,Sat,1,Clear + Few clouds,0.6,0,May,18,0.56,473
+winter,0,Mon,0,Mist + Cloudy,0.4,1,Nov,16,0.62,372
+fall,0,Sun,0,Clear + Few clouds,0.6,1,Aug,5,0.78,9
+summer,0,Fri,1,Clear + Few clouds,0.52,0,May,12,0.34,196
+winter,0,Fri,1,Mist + Cloudy,0.3,1,Dec,5,0.7,35
+summer,0,Sat,1,Clear + Few clouds,0.4,1,Mar,19,0.62,395
+summer,0,Mon,0,Clear + Few clouds,0.38,1,Apri,8,0.76,107
+springer,0,Mon,0,Mist + Cloudy,0.14,1,Jan,6,0.5,8
+springer,0,Thu,1,Clear + Few clouds,0.54,1,Mar,15,0.37,209
+summer,0,Wed,1,Clear + Few clouds,0.54,1,Jun,21,0.56,283
+fall,0,Mon,0,Mist + Cloudy,0.72,1,July,9,0.79,221
+winter,0,Fri,1,Mist + Cloudy,0.54,1,Oct,22,0.83,229
+fall,0,Tue,1,Clear + Few clouds,0.74,0,July,9,0.67,203
+summer,0,Sun,0,Clear + Few clouds,0.56,0,Jun,7,0.56,87
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.38,0,Nov,7,0.94,121
+fall,0,Tue,1,Mist + Cloudy,0.64,1,Sep,15,0.65,338
+fall,0,Thu,1,Mist + Cloudy,0.66,0,Sep,13,0.74,181
+winter,0,Fri,1,Clear + Few clouds,0.48,0,Nov,17,0.55,498
+fall,0,Mon,0,Clear + Few clouds,0.66,1,Sep,19,0.36,496
+springer,0,Thu,1,Clear + Few clouds,0.3,0,Mar,22,0.26,48
+summer,0,Sat,1,Clear + Few clouds,0.72,0,Jun,16,0.26,349
+summer,0,Sat,1,Clear + Few clouds,0.36,0,May,3,0.71,9
+springer,0,Sat,1,Clear + Few clouds,0.64,0,Mar,13,0.41,175
+summer,0,Tue,1,Clear + Few clouds,0.32,1,Apri,23,0.76,59
+springer,0,Wed,1,Clear + Few clouds,0.54,1,Jan,16,0.26,307
+springer,0,Thu,1,Clear + Few clouds,0.34,0,Feb,15,0.25,72
+springer,0,Sun,0,Clear + Few clouds,0.44,0,Feb,12,0.18,119
+summer,0,Wed,1,Mist + Cloudy,0.52,0,May,9,0.48,205
+springer,0,Wed,1,Clear + Few clouds,0.3,0,Jan,16,0.49,83
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Feb,5,0.69,4
+springer,0,Sun,0,Mist + Cloudy,0.2,1,Feb,19,0.4,87
+summer,0,Wed,1,Clear + Few clouds,0.6,1,May,23,0.78,95
+winter,1,Tue,0,Mist + Cloudy,0.64,0,Oct,18,0.53,473
+winter,0,Tue,1,Mist + Cloudy,0.36,0,Oct,8,0.71,372
+fall,0,Sun,0,Clear + Few clouds,0.74,1,Sep,10,0.7,422
+springer,0,Thu,1,Clear + Few clouds,0.24,0,Dec,19,0.41,151
+summer,0,Sat,1,Clear + Few clouds,0.56,0,Apri,10,0.4,156
+summer,0,Mon,0,Clear + Few clouds,0.6,0,May,8,0.73,94
+springer,0,Sun,0,Clear + Few clouds,0.26,0,Mar,8,0.65,53
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.16,1,Jan,11,0.8,133
+summer,0,Fri,1,Clear + Few clouds,0.74,1,May,13,0.35,293
+summer,0,Fri,1,Mist + Cloudy,0.56,0,Jun,4,0.68,6
+springer,0,Sun,0,Clear + Few clouds,0.2,0,Jan,15,0.32,74
+fall,0,Thu,1,Mist + Cloudy,0.76,1,July,19,0.62,516
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Apri,4,0.94,3
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,4,0.88,7
+summer,0,Fri,1,Clear + Few clouds,0.44,0,Apri,20,0.62,203
+fall,0,Thu,1,Mist + Cloudy,0.76,1,Aug,14,0.52,255
+springer,0,Wed,1,Clear + Few clouds,0.16,1,Mar,8,0.59,501
+winter,0,Mon,0,Clear + Few clouds,0.34,1,Nov,10,0.49,360
+fall,0,Wed,1,Clear + Few clouds,0.58,0,Sep,3,0.83,4
+summer,1,Sat,0,Clear + Few clouds,0.52,0,Apri,12,0.55,200
+springer,0,Sat,1,Mist + Cloudy,0.3,0,Mar,21,0.7,70
+springer,0,Wed,1,Clear + Few clouds,0.26,0,Mar,9,0.41,151
+winter,0,Wed,1,Clear + Few clouds,0.36,0,Nov,22,0.87,108
+fall,0,Sat,1,Clear + Few clouds,0.5,1,Sep,3,0.77,12
+fall,0,Wed,1,Clear + Few clouds,0.84,0,July,19,0.44,337
+fall,0,Wed,1,Clear + Few clouds,0.68,0,Aug,2,0.69,8
+summer,0,Sat,1,Mist + Cloudy,0.72,1,Mar,14,0.42,432
+winter,0,Wed,1,Clear + Few clouds,0.62,1,Oct,18,0.53,826
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Apri,14,0.87,36
+fall,0,Fri,1,Clear + Few clouds,0.88,1,Jun,16,0.23,387
+fall,0,Fri,1,Clear + Few clouds,0.64,1,July,6,0.73,178
+fall,0,Sun,0,Clear + Few clouds,0.62,1,Aug,4,0.83,10
+winter,0,Thu,1,Clear + Few clouds,0.32,1,Nov,18,0.53,567
+summer,1,Sat,0,Clear + Few clouds,0.4,0,Apri,2,0.76,18
+summer,0,Wed,1,Clear + Few clouds,0.68,1,May,16,0.61,386
+summer,0,Sun,0,Mist + Cloudy,0.58,0,Apri,22,0.78,169
+winter,0,Sun,0,Clear + Few clouds,0.32,0,Dec,11,0.53,236
+springer,0,Mon,0,Clear + Few clouds,0.24,0,Feb,6,0.87,3
+summer,0,Fri,1,Mist + Cloudy,0.54,1,Apri,14,0.77,169
+springer,0,Wed,1,Clear + Few clouds,0.16,0,Jan,6,0.74,36
+springer,0,Thu,1,Clear + Few clouds,0.22,1,Jan,19,0.37,256
+summer,0,Tue,1,Clear + Few clouds,0.42,1,Apri,22,0.44,123
+winter,0,Fri,1,Clear + Few clouds,0.3,1,Dec,14,0.42,212
+winter,0,Sun,0,Clear + Few clouds,0.26,1,Dec,1,0.81,69
+fall,0,Tue,1,Clear + Few clouds,0.82,0,Aug,19,0.43,416
+summer,0,Thu,1,Clear + Few clouds,0.56,1,May,18,0.73,813
+summer,0,Wed,1,Clear + Few clouds,0.68,1,Jun,18,0.83,653
+summer,0,Tue,1,Clear + Few clouds,0.62,0,May,17,0.38,598
+springer,0,Fri,1,Clear + Few clouds,0.26,0,Jan,3,0.56,1
+winter,0,Sat,1,Clear + Few clouds,0.5,0,Oct,21,0.68,166
+summer,0,Sun,0,Clear + Few clouds,0.32,1,Apri,6,0.36,19
+fall,0,Mon,0,Clear + Few clouds,0.76,0,Sep,12,0.66,435
+winter,0,Sun,0,Clear + Few clouds,0.62,0,Oct,14,0.5,465
+fall,0,Tue,1,Clear + Few clouds,0.82,1,Aug,15,0.34,274
+fall,0,Sat,1,Clear + Few clouds,0.8,1,Sep,14,0.59,253
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.6,1,Oct,9,0.69,359
+summer,0,Thu,1,Mist + Cloudy,0.58,0,Apri,7,0.88,246
+springer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.44,0,Feb,20,0.88,45
+springer,0,Mon,0,Clear + Few clouds,0.06,0,Jan,8,0.62,19
+fall,0,Sun,0,Clear + Few clouds,0.66,0,July,7,0.78,71
+fall,0,Wed,1,Clear + Few clouds,0.7,0,July,0,0.79,28
+summer,0,Wed,1,Clear + Few clouds,0.32,1,Apri,7,0.66,390
+springer,0,Thu,1,Mist + Cloudy,0.24,0,Mar,6,0.85,49
+summer,0,Sat,1,Clear + Few clouds,0.44,1,Apri,10,0.38,236
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.44,0,Nov,20,0.88,99
+springer,0,Fri,1,Mist + Cloudy,0.54,1,Mar,11,0.6,204
+fall,0,Sat,1,Clear + Few clouds,0.76,1,July,23,0.66,189
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Aug,4,0.73,5
+winter,0,Sun,0,Clear + Few clouds,0.22,0,Dec,21,0.44,83
+summer,0,Sun,0,Mist + Cloudy,0.52,1,Mar,10,0.88,345
+winter,0,Thu,1,Clear + Few clouds,0.58,0,Oct,19,0.56,374
+summer,0,Wed,1,Clear + Few clouds,0.6,1,Apri,8,0.43,673
+winter,0,Wed,1,Mist + Cloudy,0.52,1,Nov,0,0.83,23
+winter,0,Sat,1,Mist + Cloudy,0.48,1,Nov,16,0.41,357
+summer,0,Tue,1,Clear + Few clouds,0.7,1,Jun,0,0.65,41
+springer,0,Sat,1,Clear + Few clouds,0.22,0,Feb,11,0.47,64
+fall,0,Thu,1,Clear + Few clouds,0.52,1,Sep,6,0.63,172
+springer,0,Sun,0,Mist + Cloudy,0.4,1,Mar,7,1.0,86
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.26,1,Dec,0,0.87,3
+springer,0,Tue,1,Clear + Few clouds,0.28,1,Jan,22,0.48,94
+summer,0,Sat,1,Clear + Few clouds,0.68,1,May,10,0.79,232
+springer,0,Mon,0,Mist + Cloudy,0.42,1,Mar,8,0.88,96
+summer,0,Sun,0,Clear + Few clouds,0.74,0,Jun,13,0.28,456
+fall,0,Thu,1,Clear + Few clouds,0.66,1,Sep,18,0.44,977
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Mar,7,0.64,110
+winter,0,Sun,0,Clear + Few clouds,0.3,0,Nov,9,0.56,141
+springer,0,Sat,1,Clear + Few clouds,0.46,1,Mar,15,0.24,238
+springer,0,Thu,1,Mist + Cloudy,0.32,0,Mar,20,0.87,91
+winter,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.24,0,Oct,12,0.87,50
+winter,0,Tue,1,Clear + Few clouds,0.46,0,Nov,12,0.67,179
+winter,0,Sat,1,Clear + Few clouds,0.52,0,Sep,6,0.83,98
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.42,0,Dec,15,0.94,30
+summer,0,Sat,1,Clear + Few clouds,0.72,1,Jun,16,0.37,558
+summer,0,Mon,0,Mist + Cloudy,0.74,0,Jun,12,0.55,396
+winter,0,Tue,1,Clear + Few clouds,0.34,0,Oct,0,0.87,16
+springer,0,Mon,0,Mist + Cloudy,0.26,0,Jan,5,0.56,2
+summer,0,Sat,1,Mist + Cloudy,0.62,1,May,7,0.88,359
+winter,0,Sat,1,Mist + Cloudy,0.46,1,Nov,18,0.44,208
+fall,0,Sat,1,Clear + Few clouds,0.5,1,Sep,5,0.82,49
+summer,0,Wed,1,Mist + Cloudy,0.56,0,May,11,0.43,125
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.48,1,Mar,18,0.82,408
+summer,0,Sun,0,Clear + Few clouds,0.26,0,Mar,10,0.41,125
+springer,0,Sun,0,Clear + Few clouds,0.26,0,Feb,22,0.93,45
+springer,0,Thu,1,Clear + Few clouds,0.32,1,Jan,20,0.61,235
+summer,0,Tue,1,Clear + Few clouds,0.76,0,Jun,18,0.31,556
+fall,0,Wed,1,Clear + Few clouds,0.64,0,Aug,0,0.69,31
+summer,0,Tue,1,Clear + Few clouds,0.42,1,Apri,7,0.28,331
+winter,0,Sat,1,Clear + Few clouds,0.36,1,Nov,10,0.5,197
+springer,0,Wed,1,Mist + Cloudy,0.26,1,Feb,6,0.56,90
+fall,0,Wed,1,Clear + Few clouds,0.74,1,Aug,17,0.51,878
+springer,0,Sun,0,Clear + Few clouds,0.22,1,Jan,9,0.8,130
+fall,0,Sat,1,Clear + Few clouds,0.8,1,July,8,0.41,585
+summer,0,Sat,1,Clear + Few clouds,0.58,0,May,17,0.4,553
+winter,0,Thu,1,Mist + Cloudy,0.28,1,Dec,23,0.56,79
+winter,0,Mon,0,Clear + Few clouds,0.28,0,Dec,18,0.45,138
+springer,0,Thu,1,Clear + Few clouds,0.48,1,Mar,4,0.67,5
+winter,0,Tue,1,Mist + Cloudy,0.36,0,Oct,7,0.71,249
+springer,0,Fri,1,Clear + Few clouds,0.44,0,Mar,10,0.54,78
+fall,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.72,1,Aug,12,0.74,626
+springer,0,Thu,1,Clear + Few clouds,0.38,0,Feb,23,0.4,33
+springer,0,Thu,1,Clear + Few clouds,0.4,0,Mar,12,0.43,82
+winter,0,Wed,1,Mist + Cloudy,0.48,0,Nov,23,0.94,39
+fall,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.68,0,Aug,0,0.69,62
+winter,0,Mon,0,Mist + Cloudy,0.44,1,Oct,14,0.67,314
+winter,0,Sat,1,Mist + Cloudy,0.3,1,Nov,1,0.65,21
+springer,0,Fri,1,Clear + Few clouds,0.26,1,Jan,22,0.6,71
+summer,0,Sat,1,Clear + Few clouds,0.58,1,Apri,20,0.56,341
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Dec,3,0.55,2
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.36,1,Dec,23,1.0,51
+springer,0,Fri,1,Clear + Few clouds,0.34,1,Feb,17,0.34,399
+fall,0,Sat,1,Clear + Few clouds,0.38,0,Sep,6,0.71,93
+fall,0,Fri,1,Clear + Few clouds,0.82,1,Jun,21,0.52,311
+springer,0,Sun,0,Clear + Few clouds,0.44,0,Dec,16,0.51,195
+fall,0,Fri,1,Mist + Cloudy,0.66,0,Sep,12,0.69,179
+winter,0,Tue,1,Mist + Cloudy,0.46,1,Dec,21,0.94,245
+fall,0,Tue,1,Mist + Cloudy,0.56,0,Sep,23,0.73,68
+winter,0,Mon,0,Clear + Few clouds,0.44,0,Oct,7,0.86,44
+springer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.28,1,Mar,18,0.55,375
+fall,0,Tue,1,Clear + Few clouds,0.86,1,July,14,0.34,230
+fall,0,Sun,0,Clear + Few clouds,0.88,1,July,15,0.32,497
+fall,0,Fri,1,Clear + Few clouds,0.66,0,Aug,20,0.83,165
+winter,0,Sat,1,Clear + Few clouds,0.46,0,Nov,16,0.36,290
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.76,1,July,20,0.55,376
+springer,0,Mon,0,Clear + Few clouds,0.2,0,Dec,5,0.75,1
+summer,0,Fri,1,Clear + Few clouds,0.52,1,Apri,21,0.83,250
+winter,1,Fri,0,Clear + Few clouds,0.48,0,Nov,13,0.33,175
+fall,0,Wed,1,Mist + Cloudy,0.9,0,Aug,17,0.27,556
+springer,0,Tue,1,Mist + Cloudy,0.36,0,Feb,13,0.57,64
+springer,0,Thu,1,Mist + Cloudy,0.36,1,Feb,13,0.93,76
+summer,0,Sun,0,Mist + Cloudy,0.3,0,Apri,0,0.61,32
+summer,0,Mon,0,Clear + Few clouds,0.66,0,Jun,20,0.69,279
+springer,0,Mon,0,Clear + Few clouds,0.04,0,Jan,1,0.57,13
+summer,0,Sun,0,Mist + Cloudy,0.36,0,Apri,12,0.81,202
+winter,0,Thu,1,Clear + Few clouds,0.7,0,Sep,13,0.74,162
+winter,0,Sat,1,Clear + Few clouds,0.28,1,Dec,23,0.75,134
+winter,0,Wed,1,Mist + Cloudy,0.5,1,Oct,9,0.72,334
+springer,0,Sun,0,Mist + Cloudy,0.16,0,Jan,7,0.74,9
+winter,0,Thu,1,Clear + Few clouds,0.36,0,Nov,20,0.62,68
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.62,1,Oct,21,0.94,289
+winter,0,Tue,1,Clear + Few clouds,0.54,0,Oct,0,0.56,37
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,May,6,0.93,21
+fall,0,Mon,0,Clear + Few clouds,0.66,0,Aug,3,0.83,51
+winter,0,Thu,1,Mist + Cloudy,0.72,1,Oct,15,0.62,319
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Feb,15,0.54,63
+winter,0,Thu,1,Clear + Few clouds,0.38,1,Dec,19,0.43,414
+springer,0,Sun,0,Mist + Cloudy,0.46,0,Jan,14,0.72,106
+fall,0,Thu,1,Clear + Few clouds,0.8,0,July,11,0.31,136
+springer,0,Tue,1,Mist + Cloudy,0.16,0,Jan,18,0.55,156
+springer,0,Wed,1,Clear + Few clouds,0.32,1,Feb,6,0.45,100
+winter,0,Wed,1,Clear + Few clouds,0.42,1,Sep,5,0.77,47
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Aug,22,0.65,171
+fall,0,Thu,1,Clear + Few clouds,0.86,0,July,14,0.53,127
+fall,0,Sat,1,Clear + Few clouds,0.78,1,Aug,14,0.43,338
+winter,0,Wed,1,Clear + Few clouds,0.2,0,Dec,6,0.8,92
+summer,0,Fri,1,Clear + Few clouds,0.62,0,Jun,20,0.83,201
+springer,0,Mon,0,Clear + Few clouds,0.24,1,Feb,23,0.7,42
+winter,0,Fri,1,Mist + Cloudy,0.56,1,Oct,11,0.56,268
+springer,1,Wed,0,Mist + Cloudy,0.26,1,Dec,1,0.87,13
+summer,0,Wed,1,Clear + Few clouds,0.8,1,Jun,20,0.55,458
+fall,1,Tue,0,Clear + Few clouds,0.8,0,July,14,0.46,408
+fall,0,Sun,0,Clear + Few clouds,0.96,1,July,12,0.31,342
+winter,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.26,0,Oct,7,0.87,7
+springer,0,Sun,0,Mist + Cloudy,0.24,0,Jan,5,0.75,1
+winter,0,Mon,0,Clear + Few clouds,0.38,0,Nov,0,0.66,93
+summer,0,Sat,1,Clear + Few clouds,0.72,1,Jun,18,0.39,693
+springer,0,Tue,1,Clear + Few clouds,0.38,0,Mar,17,0.4,271
+winter,0,Sun,0,Clear + Few clouds,0.5,0,Oct,9,0.77,217
+winter,0,Sat,1,Clear + Few clouds,0.36,0,Oct,4,0.71,6
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Mar,23,0.41,83
+springer,0,Fri,1,Mist + Cloudy,0.22,0,Dec,0,0.47,28
+winter,0,Tue,1,Mist + Cloudy,0.4,0,Oct,18,0.76,412
+springer,0,Sun,0,Clear + Few clouds,0.04,0,Jan,9,0.41,40
+fall,0,Wed,1,Clear + Few clouds,0.78,1,Aug,18,0.4,818
+springer,0,Fri,1,Mist + Cloudy,0.14,0,Jan,5,0.69,4
+summer,0,Tue,1,Clear + Few clouds,0.52,0,May,22,0.68,116
+fall,0,Fri,1,Clear + Few clouds,0.9,1,Jun,16,0.35,320
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Oct,14,0.94,97
+springer,0,Sun,0,Clear + Few clouds,0.34,1,Jan,13,0.57,373
+winter,0,Thu,1,Clear + Few clouds,0.46,0,Oct,7,0.77,301
+winter,0,Wed,1,Mist + Cloudy,0.48,1,Oct,21,0.77,225
+springer,0,Mon,0,Clear + Few clouds,0.26,1,Jan,3,0.28,21
+summer,0,Fri,1,Clear + Few clouds,0.5,1,Apri,17,0.31,822
+springer,0,Thu,1,Clear + Few clouds,0.3,1,Mar,2,0.56,4
+springer,0,Fri,1,Clear + Few clouds,0.26,0,Mar,17,0.22,202
+summer,0,Thu,1,Clear + Few clouds,0.68,0,Jun,11,0.36,164
+springer,0,Wed,1,Clear + Few clouds,0.4,1,Feb,20,0.3,204
+winter,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Nov,1,0.52,12
+springer,0,Mon,0,Clear + Few clouds,0.34,1,Dec,15,0.34,137
+springer,0,Fri,1,Clear + Few clouds,0.14,0,Jan,9,0.5,139
+fall,0,Sat,1,Mist + Cloudy,0.84,1,Aug,17,0.53,741
+fall,0,Tue,1,Clear + Few clouds,0.8,1,Aug,13,0.49,289
+fall,0,Fri,1,Clear + Few clouds,0.72,0,Aug,17,0.84,312
+winter,0,Fri,1,Mist + Cloudy,0.38,1,Nov,13,0.54,217
+summer,0,Sat,1,Clear + Few clouds,0.56,1,Apri,17,0.24,738
+winter,0,Fri,1,Mist + Cloudy,0.58,0,Oct,23,0.88,47
+winter,0,Fri,1,Mist + Cloudy,0.52,1,Oct,7,0.88,495
+summer,0,Sat,1,Clear + Few clouds,0.62,1,May,12,0.41,360
+fall,0,Sun,0,Clear + Few clouds,0.94,0,July,16,0.38,221
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.64,0,Sep,17,0.94,113
+summer,0,Mon,0,Mist + Cloudy,0.46,0,May,21,0.82,105
+fall,0,Thu,1,Clear + Few clouds,0.62,1,Aug,2,0.73,6
+summer,0,Tue,1,Clear + Few clouds,0.7,0,Jun,15,0.37,185
+summer,0,Sat,1,Clear + Few clouds,0.42,0,Apri,22,0.58,146
+fall,0,Fri,1,Clear + Few clouds,0.62,1,Aug,4,0.73,8
+fall,0,Tue,1,Mist + Cloudy,0.62,1,Aug,8,0.73,655
+springer,1,Tue,0,Mist + Cloudy,0.34,0,Feb,0,0.42,37
+fall,0,Wed,1,Mist + Cloudy,0.66,1,Aug,6,0.89,147
+winter,0,Tue,1,Clear + Few clouds,0.42,0,Nov,7,0.88,277
+springer,0,Mon,0,Clear + Few clouds,0.32,1,Jan,9,0.53,125
+springer,0,Mon,0,Clear + Few clouds,0.14,1,Feb,20,0.42,57
+summer,0,Mon,0,Mist + Cloudy,0.46,0,May,19,0.84,178
+summer,0,Sat,1,Mist + Cloudy,0.3,0,Mar,20,0.39,81
+winter,0,Fri,1,Clear + Few clouds,0.32,1,Dec,15,0.39,270
+summer,0,Mon,0,Clear + Few clouds,0.36,0,Apri,5,0.71,3
+springer,0,Thu,1,Clear + Few clouds,0.16,1,Jan,23,0.47,38
+fall,0,Sat,1,Clear + Few clouds,0.76,1,Jun,8,0.55,613
+fall,0,Thu,1,Clear + Few clouds,0.64,1,July,3,0.89,5
+summer,0,Thu,1,Clear + Few clouds,0.42,0,Apri,3,0.94,2
+springer,0,Wed,1,Mist + Cloudy,0.34,0,Mar,19,0.71,152
+fall,1,Thu,0,Clear + Few clouds,0.92,1,July,15,0.35,454
+winter,0,Thu,1,Clear + Few clouds,0.26,0,Dec,1,0.75,8
+fall,0,Fri,1,Clear + Few clouds,0.68,1,Sep,19,0.74,558
+springer,0,Sun,0,Clear + Few clouds,0.3,1,Mar,21,0.39,110
+winter,0,Wed,1,Clear + Few clouds,0.42,0,Nov,10,0.71,129
+springer,1,Tue,0,Clear + Few clouds,0.3,1,Feb,23,0.39,26
+winter,0,Tue,1,Mist + Cloudy,0.36,1,Nov,6,0.66,131
+fall,0,Thu,1,Clear + Few clouds,0.7,1,Aug,19,0.61,649
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.3,1,Nov,4,0.81,5
+winter,0,Thu,1,Clear + Few clouds,0.4,0,Nov,19,0.76,282
+springer,0,Thu,1,Clear + Few clouds,0.24,1,Jan,18,0.32,355
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.46,1,Mar,15,0.82,107
+summer,0,Sun,0,Clear + Few clouds,0.56,0,Apri,19,0.83,283
+springer,0,Wed,1,Clear + Few clouds,0.6,1,Mar,20,0.49,351
+summer,0,Thu,1,Clear + Few clouds,0.44,1,Apri,3,0.58,3
+summer,0,Sat,1,Mist + Cloudy,0.34,1,Apri,5,0.53,21
+fall,0,Wed,1,Clear + Few clouds,0.62,1,Jun,10,0.41,190
+winter,0,Tue,1,Mist + Cloudy,0.46,1,Dec,20,0.77,300
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.34,0,Mar,2,1.0,5
+fall,0,Sat,1,Mist + Cloudy,0.62,0,Sep,6,1.0,57
+summer,0,Fri,1,Clear + Few clouds,0.34,0,May,3,0.66,4
+summer,1,Tue,0,Clear + Few clouds,0.6,1,May,5,0.78,9
+springer,0,Wed,1,Clear + Few clouds,0.36,0,Mar,17,0.27,248
+fall,0,Mon,0,Clear + Few clouds,0.72,0,Jun,10,0.48,332
+springer,0,Sun,0,Clear + Few clouds,0.38,0,Mar,21,0.62,82
+fall,0,Thu,1,Clear + Few clouds,0.6,0,Aug,0,0.69,32
+springer,0,Sun,0,Clear + Few clouds,0.08,0,Jan,13,0.35,84
+summer,0,Thu,1,Clear + Few clouds,0.56,1,Mar,20,0.78,374
+fall,0,Sat,1,Mist + Cloudy,0.7,1,July,15,0.84,216
+springer,0,Mon,0,Clear + Few clouds,0.3,1,Jan,20,0.39,111
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Nov,13,0.6,153
+fall,0,Wed,1,Mist + Cloudy,0.6,1,Sep,19,0.88,324
+springer,0,Tue,1,Mist + Cloudy,0.36,0,Feb,7,0.93,92
+springer,0,Sat,1,Clear + Few clouds,0.22,0,Jan,16,0.41,90
+winter,0,Mon,0,Mist + Cloudy,0.34,1,Dec,7,0.87,27
+summer,0,Sun,0,Clear + Few clouds,0.72,0,Jun,10,0.62,244
+summer,0,Tue,1,Clear + Few clouds,0.64,0,Jun,13,0.65,179
+summer,0,Sat,1,Clear + Few clouds,0.34,1,Mar,4,0.53,2
+springer,0,Sat,1,Mist + Cloudy,0.42,1,Feb,13,0.71,183
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.42,1,Feb,17,0.94,256
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.72,0,Aug,19,0.84,171
+springer,0,Fri,1,Mist + Cloudy,0.3,1,Jan,11,0.87,111
+fall,0,Wed,1,Mist + Cloudy,0.6,1,Sep,21,0.88,207
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.66,1,Aug,23,0.78,163
+springer,0,Wed,1,Clear + Few clouds,0.3,1,Feb,2,0.61,4
+summer,0,Mon,0,Clear + Few clouds,0.6,0,May,14,0.49,366
+winter,0,Sun,0,Clear + Few clouds,0.48,1,Oct,20,0.55,247
+winter,0,Mon,0,Clear + Few clouds,0.54,0,Nov,12,0.56,256
+springer,0,Sun,0,Clear + Few clouds,0.22,0,Feb,2,0.6,12
+winter,1,Tue,0,Mist + Cloudy,0.36,1,Oct,8,0.71,397
+fall,0,Sun,0,Clear + Few clouds,0.58,0,Sep,3,1.0,37
+winter,0,Fri,1,Mist + Cloudy,0.56,1,Oct,20,0.68,387
+springer,0,Wed,1,Clear + Few clouds,0.2,0,Feb,7,0.32,105
+fall,0,Tue,1,Clear + Few clouds,0.52,1,Sep,7,0.77,492
+springer,0,Fri,1,Clear + Few clouds,0.5,1,Mar,3,0.63,7
+fall,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.64,0,Sep,18,0.89,237
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Jan,13,0.44,49
+summer,0,Sat,1,Mist + Cloudy,0.62,1,May,6,0.88,113
+summer,0,Tue,1,Clear + Few clouds,0.58,1,May,19,0.56,546
+winter,0,Tue,1,Clear + Few clouds,0.46,1,Sep,0,0.63,64
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Dec,18,0.94,51
+winter,0,Thu,1,Clear + Few clouds,0.26,1,Dec,7,0.75,363
+winter,0,Mon,0,Clear + Few clouds,0.24,0,Oct,7,0.75,22
+summer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.2,0,Mar,3,0.69,14
+fall,0,Tue,1,Clear + Few clouds,0.72,0,Aug,7,0.62,267
+summer,0,Sat,1,Clear + Few clouds,0.46,0,Apri,4,0.51,6
+fall,0,Thu,1,Clear + Few clouds,0.74,0,Aug,18,0.55,621
+summer,0,Thu,1,Clear + Few clouds,0.64,0,Jun,21,0.47,257
+springer,0,Sat,1,Clear + Few clouds,0.3,0,Feb,19,0.52,90
+fall,0,Tue,1,Clear + Few clouds,0.66,1,July,6,0.83,161
+summer,0,Fri,1,Mist + Cloudy,0.46,0,Apri,3,0.51,7
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.34,1,Jan,17,0.87,134
+fall,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.64,1,Aug,13,0.83,162
+fall,0,Sun,0,Clear + Few clouds,0.6,1,Aug,6,0.83,27
+fall,0,Sat,1,Clear + Few clouds,0.8,0,Aug,14,0.29,186
+winter,0,Fri,1,Clear + Few clouds,0.26,0,Dec,3,0.56,7
+winter,0,Wed,1,Mist + Cloudy,0.56,0,Oct,23,0.83,57
+fall,0,Sun,0,Mist + Cloudy,0.6,1,Sep,4,0.69,6
+fall,0,Thu,1,Clear + Few clouds,0.76,1,July,11,0.33,281
+summer,0,Tue,1,Mist + Cloudy,0.58,1,Jun,14,0.68,219
+springer,0,Tue,1,Clear + Few clouds,0.32,0,Feb,21,0.7,78
+fall,0,Wed,1,Mist + Cloudy,0.74,1,July,7,0.7,526
+summer,0,Wed,1,Clear + Few clouds,0.56,0,Jun,23,0.68,110
+summer,0,Fri,1,Clear + Few clouds,0.64,0,May,1,0.73,16
+springer,0,Sun,0,Mist + Cloudy,0.44,1,Mar,9,0.88,321
+winter,0,Sun,0,Clear + Few clouds,0.24,0,Dec,20,0.35,124
+fall,0,Wed,1,Clear + Few clouds,0.8,0,July,22,0.46,194
+winter,0,Sun,0,Clear + Few clouds,0.32,0,Nov,20,0.66,165
+fall,0,Wed,1,Mist + Cloudy,0.6,1,Sep,20,0.88,290
+fall,1,Tue,0,Mist + Cloudy,0.6,0,Sep,22,0.88,64
+summer,0,Thu,1,Mist + Cloudy,0.58,0,Apri,8,0.88,444
+winter,0,Sun,0,Clear + Few clouds,0.26,0,Dec,1,0.65,71
+winter,1,Fri,0,Clear + Few clouds,0.36,0,Nov,10,0.57,98
+summer,0,Fri,1,Clear + Few clouds,0.48,0,May,8,0.82,421
+fall,0,Mon,0,Clear + Few clouds,0.64,0,Jun,0,0.53,115
+summer,0,Sat,1,Clear + Few clouds,0.56,0,May,12,0.49,246
+fall,0,Thu,1,Mist + Cloudy,0.72,1,Aug,9,0.62,367
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Sep,16,0.94,106
+springer,0,Sat,1,Mist + Cloudy,0.2,0,Feb,0,0.44,13
+winter,0,Sun,0,Clear + Few clouds,0.28,0,Dec,15,0.45,228
+summer,0,Wed,1,Clear + Few clouds,0.64,0,Jun,15,0.47,178
+fall,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.64,0,Sep,17,0.89,285
+winter,0,Wed,1,Clear + Few clouds,0.42,1,Sep,4,0.71,9
+summer,0,Sat,1,Clear + Few clouds,0.54,0,May,9,0.68,234
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.6,0,Sep,20,0.83,102
+springer,0,Tue,1,Mist + Cloudy,0.52,0,Feb,10,0.72,92
+summer,0,Thu,1,Clear + Few clouds,0.54,0,May,4,1.0,3
+fall,0,Fri,1,Clear + Few clouds,0.64,0,Aug,5,0.61,25
+springer,0,Mon,0,Mist + Cloudy,0.26,1,Dec,2,0.56,19
+fall,0,Fri,1,Clear + Few clouds,0.78,1,Aug,15,0.46,305
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.14,0,Feb,19,0.86,88
+fall,0,Tue,1,Mist + Cloudy,0.5,0,Sep,3,0.77,5
+springer,0,Fri,1,Clear + Few clouds,0.2,0,Feb,3,0.64,2
+summer,0,Tue,1,Mist + Cloudy,0.46,0,Apri,6,1.0,61
+fall,0,Tue,1,Mist + Cloudy,0.64,1,Sep,17,0.65,842
+springer,0,Fri,1,Mist + Cloudy,0.22,1,Feb,4,0.75,1
+fall,0,Wed,1,Clear + Few clouds,0.76,1,July,10,0.62,190
+summer,0,Sun,0,Clear + Few clouds,0.34,1,Apri,6,0.76,21
+fall,0,Sat,1,Mist + Cloudy,0.74,0,Aug,18,0.74,410
+fall,0,Sat,1,Mist + Cloudy,0.62,0,Sep,9,0.83,220
+fall,0,Sat,1,Clear + Few clouds,0.74,0,Aug,10,0.33,130
+springer,0,Sat,1,Clear + Few clouds,0.36,1,Jan,22,0.5,135
+springer,0,Sun,0,Mist + Cloudy,0.3,1,Feb,5,0.42,3
+springer,0,Sun,0,Clear + Few clouds,0.16,1,Jan,10,0.47,149
+springer,0,Sat,1,Clear + Few clouds,0.14,0,Feb,7,0.59,87
+summer,0,Sat,1,Clear + Few clouds,0.64,0,Jun,20,0.78,232
+winter,0,Thu,1,Clear + Few clouds,0.32,1,Dec,10,0.7,164
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.54,0,Sep,13,0.88,29
+springer,0,Fri,1,Clear + Few clouds,0.58,1,Mar,14,0.35,211
+fall,0,Thu,1,Mist + Cloudy,0.76,1,July,11,0.58,229
+summer,0,Wed,1,Clear + Few clouds,0.66,1,Apri,15,0.24,308
+winter,1,Tue,0,Clear + Few clouds,0.6,1,Nov,13,0.6,420
+fall,0,Wed,1,Clear + Few clouds,0.66,0,Aug,5,0.74,21
+winter,0,Thu,1,Clear + Few clouds,0.32,1,Dec,23,0.66,88
+springer,0,Sun,0,Clear + Few clouds,0.16,0,Feb,0,0.69,30
+winter,0,Tue,1,Mist + Cloudy,0.56,1,Oct,4,0.68,10
+springer,1,Tue,0,Clear + Few clouds,0.34,0,Dec,11,0.46,91
+fall,0,Wed,1,Mist + Cloudy,0.54,0,Sep,18,0.88,373
+fall,0,Thu,1,Mist + Cloudy,0.8,0,Jun,12,0.59,188
+fall,0,Thu,1,Clear + Few clouds,0.64,1,Aug,3,0.83,7
+fall,0,Mon,0,Mist + Cloudy,0.72,0,Jun,18,0.45,382
+winter,0,Sun,0,Clear + Few clouds,0.5,0,Oct,22,0.77,149
+winter,0,Tue,1,Clear + Few clouds,0.56,0,Nov,18,0.56,489
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.16,1,Jan,4,0.8,2
+winter,0,Wed,1,Mist + Cloudy,0.36,1,Dec,12,0.53,226
+summer,0,Thu,1,Mist + Cloudy,0.5,1,Mar,3,0.88,8
+fall,0,Wed,1,Clear + Few clouds,0.84,0,July,12,0.28,147
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.74,1,July,19,0.62,614
+fall,0,Sat,1,Clear + Few clouds,0.62,1,Aug,6,0.78,157
+summer,0,Mon,0,Clear + Few clouds,0.42,0,May,2,0.77,50
+fall,0,Fri,1,Clear + Few clouds,0.84,1,July,16,0.47,358
+summer,0,Mon,0,Clear + Few clouds,0.56,0,May,19,0.64,239
+springer,0,Thu,1,Mist + Cloudy,0.24,1,Feb,22,0.87,98
+summer,0,Mon,0,Clear + Few clouds,0.64,0,May,20,0.65,231
+winter,0,Mon,0,Clear + Few clouds,0.3,1,Nov,21,0.52,87
+summer,0,Thu,1,Clear + Few clouds,0.74,0,May,17,0.51,601
+winter,0,Mon,0,Clear + Few clouds,0.56,1,Oct,21,0.73,196
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,4,0.88,5
+summer,0,Mon,0,Clear + Few clouds,0.28,0,Apri,4,0.7,3
+springer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Feb,13,0.94,32
+fall,0,Mon,0,Clear + Few clouds,0.54,1,Sep,1,0.64,117
+winter,0,Thu,1,Mist + Cloudy,0.4,1,Oct,21,0.5,192
+springer,0,Mon,0,Mist + Cloudy,0.4,0,Mar,2,0.82,32
+summer,0,Tue,1,Clear + Few clouds,0.64,0,May,20,0.83,310
+fall,0,Tue,1,Clear + Few clouds,0.78,0,Aug,18,0.43,543
+fall,0,Mon,0,Clear + Few clouds,0.64,0,July,5,0.69,12
+fall,0,Thu,1,Clear + Few clouds,0.74,0,Aug,13,0.37,221
+springer,0,Sat,1,Clear + Few clouds,0.26,1,Jan,19,0.38,206
+summer,0,Sun,0,Clear + Few clouds,0.74,1,May,13,0.55,524
+winter,0,Sat,1,Clear + Few clouds,0.34,0,Oct,0,0.66,44
+springer,0,Thu,1,Mist + Cloudy,0.5,0,Dec,20,0.94,167
+fall,0,Thu,1,Clear + Few clouds,0.8,1,Aug,12,0.49,284
+springer,0,Fri,1,Mist + Cloudy,0.3,1,Jan,10,0.81,108
+springer,0,Sat,1,Mist + Cloudy,0.36,0,Mar,14,0.5,89
+winter,0,Mon,0,Mist + Cloudy,0.34,1,Dec,6,0.87,6
+winter,0,Sun,0,Clear + Few clouds,0.26,0,Dec,3,0.6,26
+winter,1,Tue,0,Mist + Cloudy,0.4,1,Oct,21,0.76,151
+winter,0,Thu,1,Clear + Few clouds,0.34,1,Nov,17,0.31,563
+fall,0,Sun,0,Clear + Few clouds,0.86,1,July,13,0.41,498
+springer,0,Wed,1,Clear + Few clouds,0.64,1,Mar,14,0.53,212
+summer,0,Mon,0,Clear + Few clouds,0.66,1,May,10,0.34,432
+winter,0,Fri,1,Clear + Few clouds,0.4,0,Dec,14,0.4,150
+fall,0,Sat,1,Clear + Few clouds,0.7,0,Sep,17,0.79,505
+springer,0,Tue,1,Mist + Cloudy,0.26,1,Dec,20,0.6,89
+fall,0,Sun,0,Clear + Few clouds,0.68,1,Sep,6,0.79,36
+winter,0,Fri,1,Mist + Cloudy,0.26,1,Nov,0,0.65,34
+summer,0,Wed,1,Clear + Few clouds,0.5,1,Apri,11,0.36,239
+fall,0,Tue,1,Clear + Few clouds,0.68,0,Aug,4,0.65,12
+springer,0,Fri,1,Clear + Few clouds,0.44,1,Mar,8,0.77,623
+fall,0,Thu,1,Clear + Few clouds,0.72,1,July,4,0.7,6
+fall,0,Thu,1,Mist + Cloudy,0.62,0,Sep,22,0.94,127
+summer,0,Tue,1,Mist + Cloudy,0.52,1,Apri,22,0.55,134
+summer,0,Tue,1,Mist + Cloudy,0.6,0,Jun,11,0.78,94
+summer,0,Sat,1,Clear + Few clouds,0.54,1,Apri,0,0.68,73
+winter,0,Sat,1,Clear + Few clouds,0.22,0,Nov,6,0.44,71
+fall,0,Mon,0,Clear + Few clouds,0.76,0,Sep,17,0.66,376
+winter,0,Mon,0,Clear + Few clouds,0.3,0,Dec,14,0.28,242
+winter,0,Mon,0,Clear + Few clouds,0.62,1,Oct,12,0.46,562
+summer,0,Fri,1,Clear + Few clouds,0.44,1,Apri,20,0.41,312
+fall,0,Wed,1,Clear + Few clouds,0.82,1,Aug,14,0.41,255
+summer,0,Sat,1,Clear + Few clouds,0.34,0,Apri,19,0.49,136
+springer,1,Tue,0,Mist + Cloudy,0.2,0,Jan,1,0.44,16
+summer,0,Wed,1,Clear + Few clouds,0.36,0,Apri,19,0.43,160
+springer,0,Sun,0,Clear + Few clouds,0.3,1,Feb,18,0.28,133
+winter,0,Mon,0,Clear + Few clouds,0.3,1,Nov,0,0.61,102
+winter,0,Fri,1,Mist + Cloudy,0.36,1,Dec,14,0.53,214
+summer,0,Tue,1,Clear + Few clouds,0.48,1,Mar,13,0.29,301
+summer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.46,1,Apri,9,0.88,201
+fall,0,Thu,1,Clear + Few clouds,0.74,1,Aug,19,0.66,652
+winter,0,Fri,1,Mist + Cloudy,0.4,0,Nov,4,0.62,4
+winter,0,Tue,1,Clear + Few clouds,0.44,1,Oct,1,0.77,18
+summer,0,Sun,0,Mist + Cloudy,0.56,0,May,17,0.88,272
+springer,0,Thu,1,Mist + Cloudy,0.62,1,Mar,11,0.41,220
+springer,0,Fri,1,Clear + Few clouds,0.48,1,Mar,19,0.41,328
+winter,0,Thu,1,Clear + Few clouds,0.4,1,Dec,11,0.54,200
+winter,0,Wed,1,Mist + Cloudy,0.6,0,Oct,13,0.73,180
+fall,0,Thu,1,Clear + Few clouds,0.68,1,July,23,0.57,239
+summer,0,Mon,0,Clear + Few clouds,0.64,1,Jun,13,0.53,614
+winter,0,Sun,0,Mist + Cloudy,0.34,1,Dec,17,0.76,320
+winter,0,Fri,1,Clear + Few clouds,0.42,0,Oct,7,0.77,318
+winter,0,Mon,0,Clear + Few clouds,0.64,1,Oct,16,0.41,581
+fall,0,Mon,0,Clear + Few clouds,0.74,1,Sep,16,0.7,474
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.64,1,May,13,0.65,219
+summer,0,Sat,1,Mist + Cloudy,0.64,1,Jun,7,0.89,402
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.48,1,Jan,10,1.0,126
+fall,0,Sun,0,Mist + Cloudy,0.7,0,Aug,9,0.84,156
+summer,0,Wed,1,Mist + Cloudy,0.52,1,May,1,0.59,9
+springer,0,Sun,0,Clear + Few clouds,0.4,1,Feb,22,0.4,118
+springer,0,Sat,1,Clear + Few clouds,0.24,1,Jan,20,0.41,136
+fall,0,Tue,1,Clear + Few clouds,0.76,1,Jun,18,0.27,791
+summer,0,Sun,0,Mist + Cloudy,0.4,1,Mar,21,0.71,143
+summer,0,Mon,0,Clear + Few clouds,0.7,1,Jun,17,0.34,578
+winter,0,Sat,1,Clear + Few clouds,0.24,0,Dec,1,0.65,14
+fall,0,Sat,1,Clear + Few clouds,0.7,1,Jun,4,0.65,10
+springer,0,Tue,1,Clear + Few clouds,0.24,0,Mar,10,0.6,58
+springer,0,Mon,0,Clear + Few clouds,0.24,1,Dec,21,0.7,42
+winter,0,Tue,1,Clear + Few clouds,0.36,1,Nov,12,0.43,244
+fall,0,Wed,1,Clear + Few clouds,0.7,1,Sep,15,0.28,326
+fall,0,Tue,1,Clear + Few clouds,0.76,1,July,21,0.62,296
+winter,0,Mon,0,Clear + Few clouds,0.54,0,Nov,13,0.6,313
+winter,0,Fri,1,Clear + Few clouds,0.52,0,Nov,15,0.52,162
+springer,0,Mon,0,Clear + Few clouds,0.3,1,Jan,1,0.28,73
+springer,0,Sat,1,Clear + Few clouds,0.2,0,Jan,13,0.21,73
+springer,0,Mon,0,Mist + Cloudy,0.46,0,Jan,3,0.94,6
+summer,0,Sun,0,Mist + Cloudy,0.52,0,May,9,0.94,100
+fall,0,Sat,1,Clear + Few clouds,0.6,0,Aug,3,0.88,11
+fall,0,Sat,1,Clear + Few clouds,0.88,1,Aug,13,0.27,368
+fall,0,Sat,1,Clear + Few clouds,0.7,1,Aug,0,0.65,85
+springer,0,Mon,0,Clear + Few clouds,0.26,0,Feb,0,0.7,39
+springer,0,Sat,1,Clear + Few clouds,0.28,1,Dec,19,0.45,153
+fall,1,Tue,0,Mist + Cloudy,0.7,1,Sep,8,0.84,127
+springer,0,Tue,1,Clear + Few clouds,0.4,1,Feb,17,0.43,430
+fall,0,Sun,0,Clear + Few clouds,0.76,1,Aug,15,0.37,596
+springer,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Feb,6,0.9,74
+summer,0,Sun,0,Clear + Few clouds,0.52,0,May,2,0.72,40
+springer,0,Mon,0,Mist + Cloudy,0.26,0,Feb,10,0.41,104
+winter,0,Sat,1,Clear + Few clouds,0.5,0,Oct,12,0.45,240
+summer,0,Fri,1,Clear + Few clouds,0.54,0,Apri,23,0.39,110
+winter,0,Sun,0,Clear + Few clouds,0.42,1,Oct,3,0.77,29
+springer,0,Sat,1,Clear + Few clouds,0.46,1,Jan,17,0.36,476
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Nov,10,0.94,36
+springer,0,Sat,1,Clear + Few clouds,0.42,1,Feb,16,0.32,307
+springer,0,Fri,1,Mist + Cloudy,0.44,0,Dec,18,0.62,288
+winter,0,Sun,0,Mist + Cloudy,0.32,1,Dec,11,0.76,392
+summer,0,Wed,1,Mist + Cloudy,0.6,1,Jun,0,0.78,35
+summer,0,Sun,0,Mist + Cloudy,0.38,1,Apri,11,0.4,358
+springer,0,Thu,1,Clear + Few clouds,0.14,0,Feb,8,0.54,235
+springer,0,Fri,1,Mist + Cloudy,0.22,0,Jan,21,0.55,48
+springer,0,Sun,0,Clear + Few clouds,0.3,1,Feb,11,0.7,270
+winter,0,Sun,0,Mist + Cloudy,0.56,1,Oct,16,0.64,612
+fall,0,Sat,1,Mist + Cloudy,0.66,0,Jun,7,0.83,268
+springer,0,Fri,1,Mist + Cloudy,0.44,0,Dec,17,0.67,356
+fall,0,Wed,1,Clear + Few clouds,0.54,0,Aug,6,0.6,114
+springer,0,Wed,1,Clear + Few clouds,0.28,0,Jan,15,0.52,65
+fall,0,Thu,1,Clear + Few clouds,0.74,1,Aug,20,0.66,500
+springer,0,Sat,1,Clear + Few clouds,0.1,0,Feb,2,0.54,3
+springer,1,Tue,0,Mist + Cloudy,0.24,1,Jan,13,0.41,228
+fall,0,Fri,1,Clear + Few clouds,0.72,1,July,3,0.7,5
+winter,0,Tue,1,Mist + Cloudy,0.3,1,Nov,6,0.49,139
+springer,0,Wed,1,Mist + Cloudy,0.32,1,Jan,1,0.93,9
+summer,0,Sat,1,Clear + Few clouds,0.32,0,Apri,21,0.53,93
+springer,0,Fri,1,Clear + Few clouds,0.22,0,Mar,13,0.25,80
+summer,0,Fri,1,Mist + Cloudy,0.6,1,May,6,0.88,156
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.64,1,Jun,14,0.89,60
+summer,0,Tue,1,Mist + Cloudy,0.26,0,Mar,12,0.25,79
+winter,0,Sat,1,Clear + Few clouds,0.46,1,Nov,21,0.47,98
+winter,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.56,0,Oct,6,0.88,94
+winter,0,Thu,1,Clear + Few clouds,0.24,1,Nov,23,0.7,87
+winter,0,Tue,1,Mist + Cloudy,0.28,0,Nov,7,0.93,311
+summer,1,Tue,0,Clear + Few clouds,0.62,1,May,0,0.83,65
+fall,0,Thu,1,Clear + Few clouds,0.7,0,Aug,7,0.58,305
+fall,0,Fri,1,Clear + Few clouds,0.6,0,Sep,7,0.78,342
+summer,0,Wed,1,Clear + Few clouds,0.62,0,Jun,18,0.51,538
+summer,0,Mon,0,Mist + Cloudy,0.48,0,May,12,0.77,281
+winter,0,Tue,1,Mist + Cloudy,0.36,1,Nov,2,0.66,5
+winter,0,Thu,1,Mist + Cloudy,0.26,1,Nov,6,0.65,136
+summer,0,Fri,1,Clear + Few clouds,0.72,0,Jun,12,0.54,206
+winter,0,Sun,0,Clear + Few clouds,0.5,0,Oct,0,0.63,130
+springer,0,Wed,1,Clear + Few clouds,0.44,1,Jan,22,0.35,129
+winter,0,Fri,1,Clear + Few clouds,0.2,1,Nov,4,0.75,7
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.66,1,Jun,12,0.83,95
+fall,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,8,0.94,288
+fall,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.76,1,Aug,18,0.62,891
+winter,0,Fri,1,Mist + Cloudy,0.54,0,Oct,3,1.0,6
+fall,0,Fri,1,Clear + Few clouds,0.84,1,July,12,0.49,274
+winter,0,Sun,0,Clear + Few clouds,0.36,0,Nov,12,0.46,372
+winter,0,Sun,0,Mist + Cloudy,0.34,0,Nov,19,0.71,182
+fall,1,Tue,0,Mist + Cloudy,0.7,1,Sep,9,0.84,229
+fall,0,Sat,1,Clear + Few clouds,0.76,0,Jun,18,0.37,452
+summer,0,Wed,1,Clear + Few clouds,0.6,0,Jun,1,0.49,13
+fall,0,Sat,1,Mist + Cloudy,0.68,0,Sep,18,0.65,355
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Dec,4,0.48,5
+summer,0,Wed,1,Clear + Few clouds,0.44,1,Mar,17,0.16,614
+springer,0,Sat,1,Clear + Few clouds,0.3,1,Dec,16,0.49,250
+fall,0,Wed,1,Clear + Few clouds,0.86,0,July,16,0.36,254
+springer,0,Fri,1,Clear + Few clouds,0.42,1,Mar,8,0.94,594
+winter,0,Wed,1,Clear + Few clouds,0.52,0,Nov,6,0.83,89
+fall,0,Sat,1,Clear + Few clouds,0.94,0,July,13,0.51,123
+springer,0,Thu,1,Mist + Cloudy,0.36,0,Mar,10,0.81,68
+springer,0,Tue,1,Clear + Few clouds,0.34,1,Mar,5,0.61,16
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.54,1,Oct,22,0.77,207
+winter,0,Fri,1,Mist + Cloudy,0.6,1,Oct,15,0.6,353
+summer,0,Thu,1,Clear + Few clouds,0.76,0,Jun,23,0.75,116
+springer,0,Sat,1,Mist + Cloudy,0.3,1,Dec,15,0.42,263
+winter,0,Fri,1,Mist + Cloudy,0.26,1,Nov,1,0.65,16
+fall,0,Sat,1,Clear + Few clouds,0.64,0,Aug,4,0.78,7
+fall,0,Wed,1,Clear + Few clouds,0.68,1,July,4,0.65,6
+fall,0,Fri,1,Clear + Few clouds,0.78,0,July,9,0.59,210
+winter,0,Mon,0,Clear + Few clouds,0.2,0,Dec,0,0.51,74
+fall,0,Tue,1,Clear + Few clouds,0.7,1,Aug,23,0.7,128
+summer,0,Sat,1,Clear + Few clouds,0.52,1,Apri,17,0.23,655
+springer,0,Wed,1,Mist + Cloudy,0.4,1,Jan,15,0.71,208
+summer,0,Sun,0,Clear + Few clouds,0.58,0,Apri,14,0.78,391
+fall,0,Sun,0,Clear + Few clouds,0.6,0,July,4,0.73,16
+fall,0,Thu,1,Mist + Cloudy,0.66,0,July,16,0.89,141
+summer,0,Fri,1,Clear + Few clouds,0.56,1,May,5,0.68,35
+winter,0,Fri,1,Clear + Few clouds,0.36,1,Nov,12,0.4,236
+summer,0,Fri,1,Clear + Few clouds,0.6,0,Apri,16,0.35,213
+winter,0,Tue,1,Clear + Few clouds,0.56,0,Oct,1,0.54,17
+winter,0,Sun,0,Clear + Few clouds,0.38,0,Nov,17,0.4,334
+springer,0,Wed,1,Clear + Few clouds,0.12,0,Feb,22,0.33,29
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.32,1,Nov,3,0.7,4
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.56,1,May,5,0.88,35
+winter,0,Sat,1,Clear + Few clouds,0.34,0,Dec,19,0.61,199
+summer,0,Sun,0,Clear + Few clouds,0.5,1,Apri,14,0.22,578
+summer,0,Tue,1,Clear + Few clouds,0.74,0,Apri,17,0.48,452
+springer,0,Thu,1,Clear + Few clouds,0.16,0,Jan,20,0.5,56
+summer,0,Wed,1,Clear + Few clouds,0.6,0,May,19,0.43,434
+winter,0,Sun,0,Mist + Cloudy,0.58,0,Sep,1,0.94,79
+winter,0,Wed,1,Mist + Cloudy,0.5,1,Oct,18,0.72,784
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.66,1,July,22,0.89,68
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,1,0.94,4
+springer,0,Thu,1,Clear + Few clouds,0.24,0,Feb,9,0.52,124
+springer,0,Fri,1,Mist + Cloudy,0.28,1,Jan,3,0.75,6
+winter,0,Sun,0,Mist + Cloudy,0.26,0,Dec,7,0.56,20
+springer,0,Wed,1,Clear + Few clouds,0.38,1,Feb,17,0.4,432
+winter,0,Fri,1,Clear + Few clouds,0.26,1,Dec,22,0.6,148
+springer,0,Thu,1,Clear + Few clouds,0.14,0,Jan,2,0.86,1
+springer,0,Wed,1,Clear + Few clouds,0.5,1,Jan,14,0.29,160
+fall,0,Fri,1,Clear + Few clouds,0.72,0,Sep,18,0.54,531
+springer,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.22,0,Feb,13,1.0,72
+springer,0,Mon,0,Clear + Few clouds,0.52,1,Mar,20,0.77,198
+springer,0,Tue,1,Clear + Few clouds,0.32,1,Jan,14,0.24,115
+springer,0,Mon,0,Clear + Few clouds,0.2,1,Jan,5,0.51,7
+summer,0,Mon,0,Mist + Cloudy,0.5,0,May,16,0.72,214
+winter,0,Wed,1,Mist + Cloudy,0.38,1,Oct,5,0.82,19
+springer,0,Mon,0,Clear + Few clouds,0.08,1,Feb,7,0.53,18
+summer,0,Sat,1,Clear + Few clouds,0.78,1,May,16,0.52,584
+springer,0,Tue,1,Mist + Cloudy,0.24,1,Mar,10,0.6,86
+fall,0,Sun,0,Clear + Few clouds,0.6,1,Sep,0,0.83,207
+summer,0,Sun,0,Clear + Few clouds,0.48,0,May,7,0.59,40
+winter,0,Sun,0,Mist + Cloudy,0.38,0,Nov,21,0.82,92
+summer,0,Mon,0,Clear + Few clouds,0.66,0,May,23,0.89,135
+fall,0,Thu,1,Mist + Cloudy,0.52,1,Sep,4,0.68,10
+winter,0,Tue,1,Clear + Few clouds,0.46,0,Nov,1,0.77,13
+fall,0,Sun,0,Mist + Cloudy,0.7,1,July,2,0.54,101
+springer,0,Thu,1,Clear + Few clouds,0.2,0,Feb,5,0.47,5
+summer,0,Fri,1,Mist + Cloudy,0.74,0,Jun,23,0.57,97
+springer,0,Thu,1,Clear + Few clouds,0.26,1,Jan,0,0.81,28
+winter,0,Sun,0,Clear + Few clouds,0.62,1,Oct,10,0.69,539
+fall,0,Wed,1,Clear + Few clouds,0.72,1,July,1,0.58,14
+summer,0,Tue,1,Mist + Cloudy,0.64,1,May,16,0.73,315
+fall,0,Sat,1,Clear + Few clouds,0.7,1,Sep,16,0.54,567
+winter,0,Fri,1,Mist + Cloudy,0.62,1,Oct,3,0.88,11
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.4,1,Dec,7,0.87,23
+summer,0,Fri,1,Mist + Cloudy,0.28,0,Mar,3,1.0,1
+winter,0,Mon,0,Clear + Few clouds,0.68,0,Oct,14,0.47,500
+fall,0,Sun,0,Clear + Few clouds,0.54,1,Sep,7,0.52,73
+summer,0,Fri,1,Clear + Few clouds,0.46,1,Mar,20,0.38,335
+winter,0,Wed,1,Mist + Cloudy,0.38,0,Nov,21,0.87,125
+winter,0,Thu,1,Clear + Few clouds,0.7,1,Oct,18,0.65,810
+springer,1,Tue,0,Mist + Cloudy,0.24,0,Feb,18,0.87,66
+winter,0,Sat,1,Mist + Cloudy,0.6,0,Sep,3,1.0,8
+summer,0,Tue,1,Clear + Few clouds,0.62,0,Jun,7,0.78,299
+summer,0,Sat,1,Clear + Few clouds,0.48,1,Apri,0,0.67,64
+fall,0,Sun,0,Clear + Few clouds,0.66,0,Aug,2,0.78,53
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.36,1,Feb,10,0.81,141
+springer,0,Sun,0,Clear + Few clouds,0.22,1,Feb,8,0.87,102
+winter,0,Wed,1,Clear + Few clouds,0.32,1,Nov,19,0.49,356
+winter,0,Sun,0,Clear + Few clouds,0.3,0,Nov,22,0.65,82
+summer,0,Sat,1,Clear + Few clouds,0.46,1,Apri,12,0.36,307
+summer,0,Tue,1,Clear + Few clouds,0.66,0,Jun,0,0.83,26
+summer,0,Sun,0,Clear + Few clouds,0.82,0,Jun,14,0.49,380
+winter,0,Fri,1,Clear + Few clouds,0.44,0,Oct,21,0.51,165
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Jan,14,0.32,72
+fall,0,Wed,1,Mist + Cloudy,0.58,0,Sep,14,0.88,112
+springer,0,Wed,1,Clear + Few clouds,0.16,0,Jan,7,0.74,108
+summer,0,Thu,1,Clear + Few clouds,0.88,1,Jun,14,0.39,190
+summer,0,Fri,1,Clear + Few clouds,0.66,1,Mar,18,0.65,801
+springer,0,Sun,0,Mist + Cloudy,0.32,0,Jan,21,0.39,57
+springer,0,Tue,1,Mist + Cloudy,0.26,1,Dec,10,0.65,103
+fall,0,Tue,1,Mist + Cloudy,0.5,0,Sep,7,0.82,332
+winter,0,Wed,1,Clear + Few clouds,0.56,0,Nov,16,0.46,289
+summer,0,Tue,1,Mist + Cloudy,0.58,1,May,21,0.83,152
+winter,0,Sun,0,Clear + Few clouds,0.26,0,Dec,18,0.38,172
+summer,0,Sat,1,Mist + Cloudy,0.34,0,Apri,1,0.76,9
+winter,0,Thu,1,Mist + Cloudy,0.54,0,Oct,13,0.94,106
+summer,0,Tue,1,Clear + Few clouds,0.56,0,May,23,0.88,57
+springer,0,Sat,1,Mist + Cloudy,0.56,0,Mar,12,0.49,195
+summer,0,Tue,1,Clear + Few clouds,0.72,0,Apri,14,0.54,146
+fall,0,Fri,1,Clear + Few clouds,0.86,1,Jun,14,0.25,254
+summer,0,Tue,1,Clear + Few clouds,0.76,0,Apri,15,0.23,143
+summer,0,Tue,1,Clear + Few clouds,0.56,0,May,1,0.88,9
+summer,0,Tue,1,Clear + Few clouds,0.46,1,Apri,9,0.31,286
+summer,0,Sat,1,Clear + Few clouds,0.76,1,Jun,16,0.29,523
+winter,0,Thu,1,Mist + Cloudy,0.62,1,Oct,1,0.94,19
+winter,0,Fri,1,Clear + Few clouds,0.66,1,Oct,18,0.57,887
+winter,0,Sun,0,Clear + Few clouds,0.26,1,Nov,5,0.41,3
+fall,0,Sat,1,Mist + Cloudy,0.68,1,July,16,0.83,436
+springer,0,Sun,0,Clear + Few clouds,0.26,1,Dec,1,0.44,35
+springer,0,Wed,1,Clear + Few clouds,0.44,1,Feb,14,0.38,138
+fall,0,Thu,1,Mist + Cloudy,0.64,0,Sep,23,0.69,72
+fall,0,Mon,0,Clear + Few clouds,0.46,0,Sep,7,0.72,44
+summer,0,Mon,0,Clear + Few clouds,0.4,0,Apri,3,0.66,25
+springer,0,Tue,1,Mist + Cloudy,0.14,0,Jan,9,0.5,94
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Dec,16,1.0,88
+fall,0,Sun,0,Mist + Cloudy,0.7,0,Aug,8,0.65,118
+springer,0,Mon,0,Clear + Few clouds,0.24,0,Jan,12,0.41,104
+summer,0,Wed,1,Clear + Few clouds,0.54,1,Apri,22,0.3,162
+summer,0,Mon,0,Clear + Few clouds,0.62,1,May,7,0.88,52
+fall,0,Thu,1,Clear + Few clouds,0.84,0,July,18,0.59,497
+fall,0,Fri,1,Clear + Few clouds,0.74,1,Jun,23,0.48,171
+winter,0,Thu,1,Clear + Few clouds,0.52,1,Oct,18,0.59,884
+fall,0,Fri,1,Clear + Few clouds,0.72,0,Aug,10,0.71,113
+springer,0,Wed,1,Mist + Cloudy,0.24,1,Feb,8,0.7,513
+fall,0,Sun,0,Clear + Few clouds,0.74,1,Aug,0,0.79,161
+winter,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.3,0,Oct,23,0.81,39
+summer,0,Sun,0,Mist + Cloudy,0.72,0,May,16,0.39,471
+springer,0,Sat,1,Mist + Cloudy,0.42,1,Jan,6,1.0,72
+fall,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.9,0,July,16,0.39,182
+summer,0,Sun,0,Clear + Few clouds,0.52,1,Apri,2,0.77,81
+fall,0,Mon,0,Clear + Few clouds,0.66,1,July,1,0.83,158
+fall,0,Wed,1,Clear + Few clouds,0.76,0,July,22,0.55,158
+winter,1,Tue,0,"Light Snow, Light Rain + Thunderstorm",0.42,1,Oct,15,0.58,370
+summer,0,Mon,0,Mist + Cloudy,0.4,1,Mar,12,0.94,360
+summer,0,Mon,0,Clear + Few clouds,0.72,1,May,16,0.42,577
+fall,0,Fri,1,Clear + Few clouds,0.72,1,July,6,0.66,152
+fall,0,Thu,1,Clear + Few clouds,0.72,0,July,22,0.48,180
+winter,0,Sat,1,Clear + Few clouds,0.26,1,Nov,7,0.65,341
+summer,0,Mon,0,Clear + Few clouds,0.46,0,May,23,0.88,50
+springer,0,Sat,1,Clear + Few clouds,0.4,0,Dec,8,0.76,182
+springer,0,Mon,0,Mist + Cloudy,0.22,0,Mar,23,1.0,9
+springer,0,Wed,1,Clear + Few clouds,0.14,1,Jan,6,0.59,85
+springer,0,Wed,1,Clear + Few clouds,0.44,1,Jan,19,0.51,331
+fall,0,Tue,1,Clear + Few clouds,0.74,0,July,21,0.66,202
+fall,0,Thu,1,Clear + Few clouds,0.72,0,Jun,9,0.79,219
+springer,0,Sat,1,Mist + Cloudy,0.32,0,Mar,11,0.57,81
+winter,0,Wed,1,Clear + Few clouds,0.56,0,Oct,17,0.37,585
+winter,0,Sun,0,Mist + Cloudy,0.38,1,Dec,22,0.94,160
+fall,0,Mon,0,Clear + Few clouds,0.9,0,July,14,0.24,326
+summer,0,Thu,1,Clear + Few clouds,0.3,1,Apri,3,0.49,2
+springer,0,Wed,1,Clear + Few clouds,0.34,0,Mar,15,0.34,64
+fall,0,Wed,1,Clear + Few clouds,0.62,0,Aug,5,0.73,30
+springer,0,Wed,1,Mist + Cloudy,0.12,0,Feb,7,0.8,40
+fall,0,Fri,1,Clear + Few clouds,0.86,0,July,16,0.47,256
+summer,0,Sun,0,Clear + Few clouds,0.36,1,Apri,3,0.32,28
+fall,0,Sat,1,Clear + Few clouds,0.62,1,Sep,3,0.83,9
+fall,0,Tue,1,Clear + Few clouds,0.74,0,Jun,16,0.55,275
+summer,0,Sun,0,Mist + Cloudy,0.52,0,May,10,0.94,167
+winter,0,Mon,0,Clear + Few clouds,0.58,1,Sep,10,0.46,479
+fall,0,Wed,1,Clear + Few clouds,0.68,0,July,2,0.89,7
+springer,0,Wed,1,Clear + Few clouds,0.16,1,Jan,4,0.55,5
+summer,0,Sat,1,Clear + Few clouds,0.64,1,Jun,1,0.53,34
+winter,0,Sat,1,Mist + Cloudy,0.6,0,Sep,2,1.0,20
+summer,0,Tue,1,Clear + Few clouds,0.58,0,Jun,2,0.88,8
+winter,0,Sun,0,Clear + Few clouds,0.2,0,Dec,22,0.75,80
+springer,0,Mon,0,Clear + Few clouds,0.34,0,Feb,12,0.46,174
+springer,0,Wed,1,Clear + Few clouds,0.44,1,Feb,16,0.35,276
+summer,0,Wed,1,Clear + Few clouds,0.3,1,Apri,4,0.7,3
+springer,0,Fri,1,Mist + Cloudy,0.24,1,Feb,0,0.87,26
+fall,0,Tue,1,Clear + Few clouds,0.74,1,Jun,19,0.27,582
+springer,0,Sat,1,Clear + Few clouds,0.3,1,Mar,9,0.81,314
+springer,0,Sat,1,Mist + Cloudy,0.34,1,Feb,16,0.42,268
+summer,0,Sun,0,Clear + Few clouds,0.64,1,May,2,0.89,64
+springer,0,Mon,0,Mist + Cloudy,0.36,0,Jan,18,0.46,53
+summer,0,Wed,1,Clear + Few clouds,0.8,1,May,12,0.55,237
+summer,0,Tue,1,Clear + Few clouds,0.4,1,Apri,3,0.76,4
+fall,0,Wed,1,Clear + Few clouds,0.62,0,Aug,23,0.61,80
+winter,0,Tue,1,Mist + Cloudy,0.54,0,Nov,11,0.6,128
+winter,0,Sun,0,Clear + Few clouds,0.56,1,Sep,18,0.46,594
+winter,0,Thu,1,Clear + Few clouds,0.24,1,Nov,8,0.6,692
+winter,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.5,1,Sep,20,0.72,194
+winter,0,Thu,1,Clear + Few clouds,0.36,1,Oct,22,0.57,165
+winter,0,Tue,1,Clear + Few clouds,0.56,1,Oct,17,0.64,766
+winter,0,Fri,1,Mist + Cloudy,0.24,0,Dec,4,0.6,2
+winter,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.4,1,Dec,16,0.94,302
+fall,0,Mon,0,Clear + Few clouds,0.56,1,Sep,22,0.68,127
+winter,0,Fri,1,Mist + Cloudy,0.36,0,Nov,6,1.0,114
+summer,0,Thu,1,Clear + Few clouds,0.66,0,Jun,0,0.89,41
+winter,1,Sat,0,Clear + Few clouds,0.34,0,Nov,0,0.53,66
+winter,0,Sat,1,Clear + Few clouds,0.34,1,Nov,23,0.53,119
+fall,0,Fri,1,Clear + Few clouds,0.8,0,Aug,16,0.46,245
+winter,0,Fri,1,Clear + Few clouds,0.34,0,Dec,19,0.46,228
+fall,1,Tue,0,Mist + Cloudy,0.66,0,Sep,17,0.89,114
+fall,0,Fri,1,Clear + Few clouds,0.44,1,Sep,3,0.77,6
+summer,0,Sat,1,Mist + Cloudy,0.34,0,Apri,8,0.53,346
+springer,0,Thu,1,Clear + Few clouds,0.3,1,Jan,10,0.42,93
+fall,0,Tue,1,Clear + Few clouds,0.68,0,Jun,22,0.69,145
+summer,0,Sun,0,Clear + Few clouds,0.54,1,Jun,8,0.64,210
+summer,0,Wed,1,Clear + Few clouds,0.62,0,Jun,10,0.46,130
+fall,0,Thu,1,Clear + Few clouds,0.72,1,Sep,0,0.74,37
+winter,0,Thu,1,Clear + Few clouds,0.48,1,Oct,6,0.82,173
+fall,0,Wed,1,Clear + Few clouds,0.74,1,July,8,0.7,743
+summer,0,Sat,1,Mist + Cloudy,0.4,0,Apri,11,0.62,98
+springer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.42,0,Feb,10,0.94,49
+springer,0,Mon,0,Mist + Cloudy,0.4,1,Mar,5,0.94,6
+winter,0,Tue,1,Clear + Few clouds,0.28,0,Dec,19,0.61,241
+winter,0,Sun,0,Clear + Few clouds,0.42,0,Oct,9,0.67,169
+summer,0,Tue,1,Mist + Cloudy,0.3,1,Apri,9,0.75,272
+summer,0,Mon,0,Clear + Few clouds,0.32,0,Apri,7,0.57,33
+summer,0,Wed,1,Clear + Few clouds,0.58,0,Apri,7,0.83,270
+winter,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.46,0,Nov,9,0.94,82
+summer,0,Fri,1,Clear + Few clouds,0.44,1,Apri,20,0.33,280
+summer,0,Wed,1,Clear + Few clouds,0.62,1,Apri,13,0.29,239
+fall,0,Mon,0,Clear + Few clouds,0.64,1,Aug,1,0.65,131
+springer,0,Wed,1,Mist + Cloudy,0.38,0,Mar,13,0.25,98
+summer,0,Tue,1,Mist + Cloudy,0.6,0,Jun,9,0.78,219
+winter,0,Sun,0,Mist + Cloudy,0.3,1,Nov,23,0.7,133
+fall,0,Tue,1,Clear + Few clouds,0.62,0,Aug,0,0.73,34
+fall,0,Fri,1,Clear + Few clouds,0.6,0,Sep,4,0.78,7
+winter,0,Fri,1,Clear + Few clouds,0.22,1,Nov,6,0.69,121
+winter,0,Tue,1,Mist + Cloudy,0.5,0,Nov,10,0.63,111
+winter,0,Fri,1,Clear + Few clouds,0.56,1,Sep,4,0.94,8
+fall,0,Wed,1,Mist + Cloudy,0.54,0,Sep,1,0.88,14
+summer,0,Wed,1,Mist + Cloudy,0.5,0,Apri,14,0.82,44
+springer,0,Mon,0,Clear + Few clouds,0.22,1,Mar,7,0.69,17
+winter,0,Sat,1,Clear + Few clouds,0.36,0,Nov,21,0.71,85
+summer,0,Tue,1,Mist + Cloudy,0.62,1,Jun,20,0.73,362
+fall,0,Mon,0,Clear + Few clouds,0.7,1,July,6,0.79,27
+winter,0,Sun,0,Clear + Few clouds,0.24,0,Dec,7,0.65,11
+fall,0,Wed,1,Mist + Cloudy,0.82,1,July,9,0.49,320
+winter,0,Thu,1,Mist + Cloudy,0.34,0,Nov,17,0.49,380
+summer,0,Wed,1,Mist + Cloudy,0.64,0,May,3,0.94,4
+winter,0,Mon,0,Mist + Cloudy,0.38,1,Dec,17,0.82,243
+summer,0,Sat,1,Clear + Few clouds,0.72,0,Jun,23,0.74,146
+summer,0,Tue,1,Mist + Cloudy,0.46,1,Apri,22,0.41,108
+fall,0,Tue,1,Clear + Few clouds,0.82,0,July,18,0.49,558
+fall,0,Sun,0,Clear + Few clouds,0.7,1,July,4,0.79,11
+summer,0,Tue,1,Clear + Few clouds,0.58,0,May,19,0.83,308
+summer,0,Mon,0,Mist + Cloudy,0.54,1,May,1,0.68,94
+fall,0,Sun,0,Clear + Few clouds,0.62,0,July,6,0.69,32
+springer,1,Tue,0,Mist + Cloudy,0.18,0,Jan,13,0.47,93
+summer,0,Wed,1,Clear + Few clouds,0.64,1,May,21,0.65,282
+springer,0,Mon,0,Mist + Cloudy,0.36,0,Jan,10,0.81,53
+springer,0,Mon,0,Clear + Few clouds,0.5,1,Mar,19,0.31,258
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.28,1,Dec,18,0.93,43
+winter,0,Mon,0,Clear + Few clouds,0.26,1,Nov,7,0.65,50
+springer,0,Sat,1,Clear + Few clouds,0.18,0,Jan,11,0.51,53
+springer,0,Sun,0,Clear + Few clouds,0.18,0,Jan,10,0.59,59
+fall,0,Tue,1,Clear + Few clouds,0.84,1,July,18,0.53,794
+fall,0,Fri,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Sep,5,0.94,14
+springer,0,Mon,0,Clear + Few clouds,0.2,0,Feb,6,0.47,2
+springer,0,Mon,0,Clear + Few clouds,0.4,0,Feb,12,0.54,193
+winter,0,Mon,0,Clear + Few clouds,0.36,0,Oct,8,0.87,88
+fall,0,Wed,1,Clear + Few clouds,0.68,0,Sep,10,0.69,135
+springer,0,Sun,0,Clear + Few clouds,0.4,0,Dec,10,0.76,128
+fall,0,Wed,1,Mist + Cloudy,0.76,0,Jun,18,0.7,536
+summer,0,Wed,1,Mist + Cloudy,0.6,1,Jun,8,0.78,673
+winter,0,Thu,1,Mist + Cloudy,0.44,0,Oct,8,0.67,464
+winter,0,Wed,1,Clear + Few clouds,0.48,1,Dec,19,0.67,460
+springer,1,Tue,0,Clear + Few clouds,0.34,1,Feb,19,0.34,172
+springer,0,Tue,1,Clear + Few clouds,0.26,1,Jan,23,0.6,52
+winter,0,Sat,1,Clear + Few clouds,0.26,0,Nov,22,0.52,97
+summer,0,Sun,0,Mist + Cloudy,0.5,0,May,3,0.88,35
+springer,0,Sun,0,Clear + Few clouds,0.32,0,Dec,15,0.39,97
+fall,0,Mon,0,Clear + Few clouds,0.68,0,Sep,18,0.65,339
+fall,0,Sat,1,Mist + Cloudy,0.66,0,Sep,12,0.69,260
+springer,0,Mon,0,Mist + Cloudy,0.16,1,Jan,15,0.8,176
+springer,1,Tue,0,Clear + Few clouds,0.24,1,Jan,19,0.38,93
+fall,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Jun,3,0.83,2
+fall,0,Mon,0,Clear + Few clouds,0.72,0,Aug,9,0.74,231
+winter,0,Mon,0,Clear + Few clouds,0.34,0,Oct,20,0.57,92
+summer,1,Tue,0,Clear + Few clouds,0.82,1,May,16,0.56,501
+springer,0,Wed,1,Mist + Cloudy,0.56,1,Mar,0,0.52,26
+springer,0,Tue,1,Clear + Few clouds,0.26,0,Mar,0,0.65,11
+summer,0,Mon,0,Clear + Few clouds,0.52,0,May,20,0.77,174
+springer,0,Sat,1,Mist + Cloudy,0.32,0,Mar,3,0.93,2
+springer,0,Wed,1,Clear + Few clouds,0.22,0,Feb,9,0.29,110
+summer,0,Wed,1,Clear + Few clouds,0.5,1,Apri,15,0.23,236
+springer,0,Tue,1,Clear + Few clouds,0.56,1,Mar,23,0.56,63
+fall,0,Thu,1,Clear + Few clouds,0.74,0,Aug,14,0.4,196
+summer,0,Thu,1,Mist + Cloudy,0.72,1,May,15,0.48,274
+summer,0,Sat,1,Clear + Few clouds,0.44,0,May,0,0.44,56
+springer,0,Sun,0,Clear + Few clouds,0.2,1,Jan,11,0.4,178
+summer,0,Sun,0,Mist + Cloudy,0.68,1,Apri,18,0.47,416
+fall,0,Sat,1,Clear + Few clouds,0.8,0,Aug,14,0.59,219
+summer,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.66,1,Jun,11,0.83,65
+springer,0,Fri,1,Clear + Few clouds,0.5,1,Mar,2,0.59,19
+summer,0,Wed,1,Clear + Few clouds,0.62,0,May,14,0.73,184
+springer,0,Mon,0,Clear + Few clouds,0.32,1,Dec,13,0.39,186
+summer,0,Sat,1,"Light Snow, Light Rain + Thunderstorm",0.32,0,Apri,17,0.93,148
+summer,0,Fri,1,Clear + Few clouds,0.42,1,Apri,10,0.35,246
+summer,0,Sun,0,Mist + Cloudy,0.36,1,Mar,7,0.87,44
+winter,0,Sat,1,Clear + Few clouds,0.52,1,Oct,23,0.83,178
+fall,0,Sat,1,Clear + Few clouds,0.66,0,July,20,0.83,250
+fall,0,Sun,0,Clear + Few clouds,0.78,0,July,8,0.59,114
+fall,0,Fri,1,Clear + Few clouds,0.72,1,Jun,3,0.74,11
+fall,0,Thu,1,Clear + Few clouds,0.86,0,July,15,0.5,138
+summer,0,Sun,0,Clear + Few clouds,0.34,1,Apri,7,0.49,55
+winter,0,Tue,1,Clear + Few clouds,0.62,0,Nov,16,0.46,315
+springer,0,Thu,1,Clear + Few clouds,0.3,1,Jan,21,0.65,185
+winter,0,Mon,0,Clear + Few clouds,0.22,1,Nov,4,0.44,2
+springer,0,Sat,1,Mist + Cloudy,0.34,1,Mar,9,0.42,284
+fall,0,Wed,1,Mist + Cloudy,0.78,0,Aug,22,0.59,191
+fall,0,Fri,1,Clear + Few clouds,0.66,0,Aug,3,0.69,6
+winter,0,Sat,1,Clear + Few clouds,0.42,1,Oct,20,0.47,308
+springer,0,Mon,0,Clear + Few clouds,0.28,1,Dec,15,0.38,138
+fall,0,Tue,1,Clear + Few clouds,0.64,1,Sep,13,0.65,343
+winter,0,Wed,1,"Light Snow, Light Rain + Thunderstorm",0.58,1,Oct,7,0.83,260
+fall,0,Sat,1,Clear + Few clouds,0.86,1,Aug,11,0.28,309
+fall,0,Mon,0,Clear + Few clouds,0.78,1,Jun,20,0.46,332
+winter,0,Fri,1,Clear + Few clouds,0.66,1,Sep,19,0.65,559
+winter,0,Sun,0,Clear + Few clouds,0.26,1,Dec,0,0.81,108
+summer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.4,0,Apri,3,0.94,2
+springer,0,Wed,1,Clear + Few clouds,0.24,0,Jan,21,0.65,45
+winter,0,Mon,0,Mist + Cloudy,0.5,1,Oct,1,0.72,133
+fall,0,Sat,1,Clear + Few clouds,0.66,0,Jun,2,0.83,14
+springer,0,Sat,1,Mist + Cloudy,0.28,1,Feb,0,0.65,43
+springer,0,Mon,0,"Light Snow, Light Rain + Thunderstorm",0.4,0,Jan,8,0.71,8
+fall,0,Tue,1,Clear + Few clouds,0.74,0,July,18,0.74,533
+springer,0,Fri,1,Mist + Cloudy,0.16,0,Jan,7,0.59,95
+fall,0,Thu,1,Clear + Few clouds,0.6,1,Aug,5,0.78,40
+springer,0,Sun,0,Clear + Few clouds,0.42,0,Mar,15,0.44,182
+springer,0,Sat,1,Clear + Few clouds,0.26,1,Jan,2,0.48,11
+winter,0,Thu,1,Mist + Cloudy,0.7,1,Oct,12,0.7,358
+fall,0,Wed,1,Clear + Few clouds,0.66,1,July,2,0.83,8
+fall,0,Sat,1,Mist + Cloudy,0.62,0,Sep,1,1.0,8
+winter,0,Wed,1,Clear + Few clouds,0.42,1,Oct,3,0.67,2
+summer,0,Mon,0,Clear + Few clouds,0.36,0,Apri,9,0.5,142
+fall,1,Tue,0,"Light Snow, Light Rain + Thunderstorm",0.66,0,Sep,20,0.94,82
+summer,0,Sun,0,Mist + Cloudy,0.54,1,Jun,2,0.88,41
+summer,0,Sat,1,Clear + Few clouds,0.42,1,May,7,0.5,351
+springer,0,Thu,1,Clear + Few clouds,0.22,0,Feb,21,0.47,63
+summer,0,Sat,1,Clear + Few clouds,0.68,0,May,0,0.69,69
+winter,0,Mon,0,Clear + Few clouds,0.28,1,Nov,17,0.41,181
+summer,0,Thu,1,Clear + Few clouds,0.66,1,May,10,0.61,192
+springer,0,Wed,1,Clear + Few clouds,0.22,0,Jan,11,0.51,57
+winter,0,Tue,1,Clear + Few clouds,0.26,1,Nov,23,0.6,53
+fall,0,Thu,1,Clear + Few clouds,0.76,0,July,20,0.45,294
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.22,0,Jan,2,0.93,3
+summer,0,Sat,1,Clear + Few clouds,0.54,0,Jun,5,1.0,13
+summer,0,Mon,0,Mist + Cloudy,0.6,0,Jun,9,0.78,164
+winter,0,Fri,1,Clear + Few clouds,0.24,1,Dec,23,0.65,93
+springer,0,Fri,1,Clear + Few clouds,0.5,0,Feb,22,0.59,76
+springer,0,Sun,0,Clear + Few clouds,0.4,1,Feb,13,0.43,384
+summer,0,Wed,1,Mist + Cloudy,0.52,1,May,3,0.68,6
+fall,0,Sat,1,Mist + Cloudy,0.76,0,Aug,11,0.62,214
+winter,0,Tue,1,Clear + Few clouds,0.4,0,Dec,16,0.4,208
+winter,0,Thu,1,Clear + Few clouds,0.44,0,Oct,6,0.82,117
+summer,0,Sun,0,Clear + Few clouds,0.58,0,May,0,0.88,94
+summer,0,Thu,1,Clear + Few clouds,0.26,0,Apri,1,0.6,2
+fall,0,Wed,1,Clear + Few clouds,0.66,0,Aug,23,0.65,77
+winter,0,Mon,0,Mist + Cloudy,0.36,0,Oct,18,0.81,174
+winter,0,Wed,1,Clear + Few clouds,0.44,1,Dec,16,0.41,363
+winter,0,Mon,0,Mist + Cloudy,0.48,0,Nov,21,0.77,105
+fall,0,Mon,0,Clear + Few clouds,0.96,1,July,14,0.36,312
+fall,0,Mon,0,Clear + Few clouds,0.8,1,July,13,0.49,483
+summer,0,Sat,1,Mist + Cloudy,0.36,0,Apri,14,0.46,87
+fall,0,Sun,0,Clear + Few clouds,0.82,1,July,17,0.46,479
+fall,0,Thu,1,Clear + Few clouds,0.72,0,Aug,11,0.42,171
+springer,0,Sat,1,Clear + Few clouds,0.18,0,Jan,20,0.47,51
+springer,0,Wed,1,Clear + Few clouds,0.2,1,Feb,6,0.75,86
+springer,0,Wed,1,Clear + Few clouds,0.32,1,Feb,22,0.57,118
+springer,1,Tue,0,Clear + Few clouds,0.26,0,Dec,23,0.7,29
+fall,0,Sat,1,Clear + Few clouds,0.66,0,July,7,0.54,243
+fall,0,Fri,1,Clear + Few clouds,0.88,0,July,13,0.56,102
+springer,0,Thu,1,Mist + Cloudy,0.46,1,Feb,23,0.41,62
+winter,0,Sun,0,Clear + Few clouds,0.24,0,Dec,6,0.65,11
+springer,0,Fri,1,Clear + Few clouds,0.2,1,Jan,1,0.51,5
+springer,0,Tue,1,Clear + Few clouds,0.2,0,Mar,5,0.75,1
+winter,0,Sat,1,Mist + Cloudy,0.52,1,Oct,5,0.88,50
+springer,0,Wed,1,Mist + Cloudy,0.24,0,Feb,18,0.81,168
+summer,0,Fri,1,Clear + Few clouds,0.54,1,Apri,12,0.49,264
+fall,0,Wed,1,Clear + Few clouds,0.72,1,Aug,22,0.66,189
+summer,0,Tue,1,Clear + Few clouds,0.56,0,May,8,0.73,394
+summer,0,Tue,1,Clear + Few clouds,0.72,0,Jun,19,0.54,407
+fall,0,Tue,1,Mist + Cloudy,0.7,0,Aug,2,0.65,8
+springer,0,Sun,0,Clear + Few clouds,0.14,0,Feb,8,0.86,30
+springer,0,Thu,1,Clear + Few clouds,0.06,1,Jan,10,0.45,64
+winter,0,Fri,1,Clear + Few clouds,0.32,0,Nov,16,0.39,195
+fall,0,Mon,0,Mist + Cloudy,0.7,0,Aug,1,0.84,73
+springer,0,Wed,1,Mist + Cloudy,0.2,0,Jan,12,0.86,3
+summer,0,Fri,1,Mist + Cloudy,0.48,1,May,0,0.82,90
+winter,0,Thu,1,Clear + Few clouds,0.34,1,Nov,22,0.49,88
+fall,0,Sat,1,Clear + Few clouds,0.72,0,Aug,9,0.34,205
+springer,0,Sat,1,Mist + Cloudy,0.32,1,Dec,13,0.39,240
+summer,0,Thu,1,Clear + Few clouds,0.74,0,Apri,14,0.4,148
+winter,0,Thu,1,Clear + Few clouds,0.42,1,Oct,13,0.5,213
+fall,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.62,0,Jun,2,0.78,6
+springer,0,Sun,0,Clear + Few clouds,0.14,1,Jan,7,0.5,24
+summer,0,Wed,1,Clear + Few clouds,0.56,1,Apri,21,0.26,297
+springer,0,Sat,1,Clear + Few clouds,0.32,0,Dec,23,0.66,25
+winter,0,Wed,1,Mist + Cloudy,0.48,1,Oct,22,0.77,162
+winter,1,Tue,0,"Light Snow, Light Rain + Thunderstorm",0.54,1,Nov,21,0.73,155
+fall,0,Mon,0,Clear + Few clouds,0.64,1,Sep,15,0.41,557
+springer,0,Thu,1,Clear + Few clouds,0.26,0,Mar,1,0.52,4
+summer,0,Wed,1,Clear + Few clouds,0.78,0,Jun,18,0.46,551
+winter,0,Tue,1,Clear + Few clouds,0.22,1,Nov,6,0.69,124
+fall,0,Mon,0,Clear + Few clouds,0.64,0,Sep,8,0.78,94
+fall,0,Tue,1,Clear + Few clouds,0.6,0,Aug,7,0.88,258
+springer,0,Tue,1,Clear + Few clouds,0.34,0,Mar,20,0.46,129
+springer,0,Sat,1,Mist + Cloudy,0.24,0,Jan,0,0.7,21
+fall,0,Tue,1,Mist + Cloudy,0.72,1,July,8,0.74,751
+summer,0,Mon,0,Clear + Few clouds,0.5,1,Apri,15,0.55,573
+fall,0,Wed,1,Clear + Few clouds,0.66,0,Aug,0,0.74,29
+summer,0,Wed,1,Clear + Few clouds,0.64,1,May,12,0.73,264
+winter,1,Tue,0,Clear + Few clouds,0.56,0,Oct,21,0.88,175
+winter,0,Fri,1,Clear + Few clouds,0.36,0,Oct,22,0.66,111
+winter,0,Tue,1,Clear + Few clouds,0.42,0,Nov,6,0.82,104
+springer,0,Mon,0,Clear + Few clouds,0.22,0,Jan,11,0.75,59
+springer,0,Thu,1,Mist + Cloudy,0.28,1,Feb,8,0.75,116
+winter,0,Sun,0,Clear + Few clouds,0.38,0,Nov,18,0.46,208
+summer,0,Wed,1,Mist + Cloudy,0.62,0,May,14,0.33,176
+fall,0,Thu,1,Mist + Cloudy,0.6,0,Sep,21,1.0,200
+summer,0,Sat,1,Clear + Few clouds,0.42,1,Apri,12,0.35,337
+springer,0,Fri,1,Mist + Cloudy,0.3,1,Feb,9,0.7,202
+fall,0,Sun,0,Clear + Few clouds,0.78,1,Jun,22,0.62,172
+fall,0,Fri,1,Clear + Few clouds,0.66,1,Sep,20,0.78,406
+winter,0,Tue,1,Clear + Few clouds,0.56,0,Oct,3,0.49,2
+summer,0,Wed,1,Clear + Few clouds,0.62,1,May,10,0.78,174
+fall,0,Thu,1,Clear + Few clouds,0.84,0,Aug,14,0.34,178
+springer,0,Mon,0,Mist + Cloudy,0.26,1,Dec,4,0.56,7
+springer,0,Thu,1,"Light Snow, Light Rain + Thunderstorm",0.26,1,Dec,15,0.87,13
+fall,0,Mon,0,Clear + Few clouds,0.66,0,Aug,9,0.74,53
+fall,0,Mon,0,Clear + Few clouds,0.84,1,July,8,0.53,130
+summer,0,Tue,1,"Light Snow, Light Rain + Thunderstorm",0.58,1,May,0,0.88,40
+winter,0,Sat,1,Mist + Cloudy,0.56,0,Oct,5,0.94,17
+fall,0,Sun,0,"Light Snow, Light Rain + Thunderstorm",0.64,1,Aug,2,0.78,85
+springer,0,Sun,0,Mist + Cloudy,0.2,0,Jan,12,0.59,98
+winter,1,Tue,0,Clear + Few clouds,0.48,1,Nov,10,0.77,266
+winter,0,Wed,1,Clear + Few clouds,0.32,0,Dec,19,0.49,267

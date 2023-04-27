@@ -1,0 +1,157 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predication Of Bike Rental Count</title>
+    <div style="background-image: url(https://images6.alphacoders.com/902/902131.png);">
+
+    <!-- BootStrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+
+    <!-- css -->
+    <link rel="stylesheet" href="static/css/styles.css">
+    
+
+</head>
+
+<body>
+
+    <!-- As a heading -->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">Predication Of Bike Rental Count BY Yash Mohite</a>
+            </div>
+        </div>
+    </nav>
+
+    <br><br><br>
+
+
+    <div class="container">
+
+        
+        <form action="{{url_for('predict_datapoint')}}" method="POST">
+            <div class="form-group">
+                <label for="season">season:</label>
+                <select id="season" name="season">
+                    <option value="springer">springer</option>
+                    <option value="summer">summer</option>
+                    <option value="fall">fall</option>
+                    <option value="winter">winter</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="holiday">holiday:</label>
+                <select id="holiday" name="holiday">
+                    <option value="0">Yes</option>
+                    <option value="1">No</option>
+                </select>
+            </div> 
+        
+            <div class="form-group">
+                <label for="weekday">weekday:</label>
+                <select id="weekday" name="weekday">
+                    <option value="Sun">Sun</option>
+                    <option value="Mon">Mon</option>
+                    <option value="Tue">Tue</option>
+                    <option value="Wed">Wed</option>
+                    <option value="Thu">Thu</option>
+                    <option value="Fri">Fri</option>
+                    <option value="Sat">Sat</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="workingday">workingday:</label>
+                <select id="workingday" name="workingday">
+                    <option value="0">working</option>
+                    <option value="1">holiday</option>
+                </select>
+            </div> 
+          
+            <div class="form-group">
+                <label for="weathersit">weathersit:</label>
+                <select id="weathersit" name="weathersit">
+                    <option value="Clear + Few clouds">Clear + Few clouds</option>
+                    <option value="Mist + Cloudy">Mist + Cloudy</option>
+                    <option value="Light Snow, Light Rain + Thunderstorm">Light Snow + Light Rain + Thunderstorm</option>
+                    <option value="Heavy Rain + Ice Pallets">Heavy Rain + Ice Pallets</option>
+                </select>
+            </div>
+          
+            <div class="form-group">
+                <label for="temp">temp:</label>
+                <input type="text" id="temp" name="temp" placeholder="Enter value (float)">
+            </div>
+            
+            <div class="form-group">
+                <label for="year">year:</label>
+                <select id="year" name="year">
+                    <option value="0">2011</option>
+                    <option value="1">2012</option>
+                </select>
+            </div>     
+        
+            <div class="form-group">
+                <label for="months">months:</label>
+                <select id="months" name="months">
+                    <option value="Jan">Jan</option>
+                    <option value="Feb">Feb</option>
+                    <option value="Mar">Mar</option>
+                    <option value="Apri">Apri</option>
+                    <option value="May">May</option>
+                    <option value="Jun">Jun</option>
+                    <option value="July">July</option>
+                    <option value="Aug">Aug</option>
+                    <option value="Sep">Sep</option>
+                    <option value="Oct">Oct</option>
+                    <option value="Nov">Nov</option>
+                    <option value="Dec">Dec</option>
+                </select>
+            </div> 
+            
+            <div class="form-group">
+                <label for="hours">hours:</label>
+                <input type="text" id="hours" name="hours" placeholder="Enter  value 24hr (float)">
+            </div> 
+            
+            <div class="form-group">
+                <label for="humidity">humidity:</label>
+                <input type="text" id="humidity" name="humidity" placeholder="Enter  value  (float)">
+            </div>  
+        
+          </select>
+        </div>
+
+<!-- Submit -->
+<input type="submit" value="Submit Here" class="btn btn-secondary">
+</form>
+
+<br>
+<br>
+<h3 style="color: white">{{ final_result }}</h3>
+
+<br>
+<br>
+<p>Yash Mohite</p>
+
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+    integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+    crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>
